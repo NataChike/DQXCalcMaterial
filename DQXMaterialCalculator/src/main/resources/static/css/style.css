@@ -1,0 +1,194 @@
+body {
+	background-color: #ffffff;
+}
+
+/* ヘッダー */
+header {
+	margin-bottom: 16px;
+	padding: 8px;
+	height: 100px;
+	background-color: #373737;
+}
+
+header h1 {
+	font-size: 1.8rem;
+	font-weight: bold;
+	white-space: nowrap;
+	color: #959595
+}
+
+.icon img {
+	height: 100%;
+	/* ヘッダーと同じ高さに */
+	width: auto;
+	/* 比率を維持 */
+	object-fit: contain;
+}
+
+.contact a {
+	color: darkgrey;
+	font-size: 20px;
+}
+
+.contact a:hover {
+	color: #ffffff;
+}
+
+/* サジェスト */
+#suggestions {
+	z-index: 1000;
+	max-height: 200px;
+	overflow-y: auto;
+}
+
+div.left-column {
+	display: flex;
+	flex-direction: column;
+	height: calc(100vh - 220px);
+	/* 上段検索窓＋ヘッダー＋余白 */
+	gap: 16px;
+}
+
+div.right-column {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+#calculateBtn {
+	margin-bottom: 8px;
+	background-color: #725995;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+#calculateBtn:hover {
+	background-color: #614d80
+}
+
+#resetBtn {
+	margin-bottom: 8px;
+	background-color: #6c757d;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+#resetBtn:hover {
+	background-color: #5c636a;
+}
+
+#itemsCard {
+	padding: 8px;
+}
+
+#resultContainer {
+	padding: 8px;
+}
+
+#jobTabs {
+	gap: 8px;
+}
+
+#jobItemsCard {
+	padding: 8px;
+	flex-grow: 0;
+	height: 520px;
+	overflow-y: auto;
+}
+
+#jobItems {
+	/*	gap: 16px;*/
+	--bs-gutter-y: 1rem;
+}
+
+/* 職人タブ */
+.tab {
+	padding: 6px;
+	margin-top: 6px;
+	border-radius: 6px;
+	background-color: #e0e0e0;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.tab:hover {
+	transform: scale(1.03);
+	background-color: #e2e6ea;
+}
+
+.tab.active {
+	background-color: #373737;
+	color: #aaaaaa;
+}
+
+/* 職人作成物カード */
+.job-card {
+	cursor: pointer;
+	transition: transform 0.1s;
+	text-align: center;
+	padding: 6px;
+	border-radius: 6px;
+	background-color: #f8f9fa;
+}
+
+.job-card:hover {
+	transform: scale(1.03);
+	background-color: #e2e6ea;
+}
+
+/* 選択済み作成物 */
+.item {
+	display: inline-block;
+	background: #aaaaaa;
+	color: #000;
+	margin: 4px;
+	padding: 6px 10px;
+	border-radius: 12px;
+	font-size: 14px;
+}
+
+/*×の部分*/
+.item span {
+	margin-left: 8px;
+	cursor: pointer;
+	color: red;
+}
+
+/* 左カード高さ固定 */
+.flex-grow-2 {
+	flex-grow: 0;
+	height: 200px;
+	overflow-y: auto;
+}
+
+.flex-grow-3 {
+	flex-grow: 0;
+	height: 300px;
+	overflow-y: auto;
+}
+
+/* スマホ用（幅768px未満） */
+@media (max-width: 767.98px) {
+	header {
+		margin-bottom: 8px;
+	}
+
+	div.left-column {
+		margin-top: 8px;
+	}
+
+	header h1 {
+		flex: 0 0 70%;
+	}
+
+	.icon img {
+		flex: 0 0 30%;
+	}
+	
+	.contact a:hover {
+	color: #373737;
+}
+}
+
+/* PC用（幅768px以上） */
+@media (min-width: 768px) {}
