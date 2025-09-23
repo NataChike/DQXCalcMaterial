@@ -14,7 +14,7 @@ import com.example.demo.dto.response.CalculateResponse;
 import com.example.demo.service.CalculateService;
 
 @RestController
-@RequestMapping("./api")
+@RequestMapping("/api")
 public class CalculateController {
 
 	@Autowired

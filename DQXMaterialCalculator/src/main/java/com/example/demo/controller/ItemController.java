@@ -12,7 +12,7 @@ import com.example.demo.entity.Item;
 import com.example.demo.service.ItemService;
 
 @RestController
-@RequestMapping("./api/items")
+@RequestMapping("/api/items")
 public class ItemController {
 	@Autowired
 	ItemService itemService;
