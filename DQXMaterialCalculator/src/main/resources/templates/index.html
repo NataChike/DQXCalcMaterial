@@ -17,6 +17,12 @@
 	<meta name="google-site-verification" content="dIrrBwLV2o-NdNuDC0CJnG01g4_RXQ8My1fXKS4EgAc" />
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886700851072663"
 	     crossorigin="anonymous"></script>
+	 <!-- Thymeleaf で context-path を JS に渡す -->
+	 <script th:inline="javascript">
+	     /*<![CDATA[*/
+	     const CONTEXT_PATH = /*[[@{/}]]*/ '';
+	     /*]]>*/
+	 </script>
 </head>
 
 <body>
