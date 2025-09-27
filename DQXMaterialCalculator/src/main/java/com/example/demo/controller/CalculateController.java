@@ -14,13 +14,13 @@ import com.example.demo.dto.response.CalculateResponse;
 import com.example.demo.service.CalculateService;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api/calculate")
 public class CalculateController {
 
 	@Autowired
 	private CalculateService calculateService;
 
-	@PostMapping("/calculate")
+	@PostMapping("")
 	public Map<String, List<CalculateResponse>> calculate(@RequestBody CalculateRequest request) {
 		return calculateService.calculateMaterials(request.getItems());
 	}

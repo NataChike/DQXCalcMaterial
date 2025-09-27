@@ -107,7 +107,7 @@ calculateBtn.addEventListener("click", () => {
     alert("作成物を選択してください。");
     return;
   }
-  fetch(`${CONTEXT_PATH}/api/calculate`, {
+  fetch(`${CONTEXT_PATH}api/calculate`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ items: selectedItems })
