@@ -46,8 +46,6 @@ header h1 {
 div.left-column {
 	display: flex;
 	flex-direction: column;
-	height: calc(100vh - 220px);
-	/* 上段検索窓＋ヘッダー＋余白 */
 	gap: 16px;
 }
 
