@@ -17,12 +17,14 @@ header h1 {
 	color: #959595
 }
 
+.icon, .icon a {
+  height: 100%;
+}
+
 .icon img {
-	height: 100%;
-	/* ヘッダーと同じ高さに */
-	width: auto;
-	/* 比率を維持 */
-	object-fit: contain;
+  height: 100%;
+  width: auto;  
+  object-fit: contain;
 }
 
 .contact a {

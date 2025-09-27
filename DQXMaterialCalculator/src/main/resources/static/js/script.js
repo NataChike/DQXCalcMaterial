@@ -145,7 +145,7 @@ resetBtn.addEventListener("click", () => {
 // ページ読み込み時
 window.addEventListener("DOMContentLoaded", () => {
   const fetchItemsData = fetch(`${CONTEXT_PATH}api/items/names`).then(res => res.json());
-  const fetchAllItems = fetch(`${CONTEXT_PATH}/api/items`).then(res => res.json());
+  const fetchAllItems = fetch(`${CONTEXT_PATH}api/items`).then(res => res.json());
 
   Promise.all([fetchItemsData, fetchAllItems])
     .then(([itemsDataResponse, allItemsResponse]) => {
