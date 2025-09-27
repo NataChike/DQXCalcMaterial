@@ -46,6 +46,7 @@ header h1 {
 div.left-column {
 	display: flex;
 	flex-direction: column;
+	height: calc(100vh - 220px); 
 	gap: 16px;
 }
 
