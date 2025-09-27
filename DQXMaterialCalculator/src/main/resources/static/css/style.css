@@ -175,7 +175,8 @@ div.right-column {
 	}
 
 	div.left-column {
-		margin-top: 8px;
+/*		margin-top: 8px;*/
+		height: auto; /* 高さ固定を解除 */
 	}
 
 	header h1 {
