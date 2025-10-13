@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.demo.controller.api;
 
 import java.util.List;
 
@@ -13,7 +13,7 @@ import com.example.demo.service.ItemService;
 
 @RestController
 @RequestMapping("/api/items")
-public class ItemController {
+public class ItemApiController {
 	@Autowired
 	ItemService itemService;
 

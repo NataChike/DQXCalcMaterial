@@ -1,0 +1,424 @@
+/* カード全体 */
+.card {
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	padding: 12px;
+	margin: 10px;
+	background: #f9fafb;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.top{
+	display: flex;
+}
+
+.sub-title{
+	flex: 7;
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.characteristic-turn{
+	flex: 3;
+	text-align: right;
+}
+
+.lastTurn{
+	color:red;
+}
+/* 各小カード */
+.small-card {
+	width: 240px;
+ 	height: 120px;
+	display: flex;
+	flex-direction: column; 
+	gap: 4px;
+	padding: 8px;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	background: white;
+}
+.value-name-area{
+	flex: 1;
+	display: flex;
+	flex-direction: row; 
+	align-items: center;
+	gap: 6px;
+	margin-top: 4px;
+}
+.current-value-name{
+	flex: 1;
+	text-align: center;
+	color: #6b7280;
+	font-size: 12px;
+}
+.diff-value-name{
+	flex: 2;
+	text-align: center;
+	color: #6b7280;
+	font-size: 16px;
+}
+.original-value-name{
+	flex: 1;
+	text-align: center;
+	color: #6b7280;
+	font-size: 12px;
+}
+.value-area{
+	flex:2;
+	display: flex;
+	flex-direction: row; 
+	align-items: center;
+	gap: 6px;
+	margin-top: 4px;
+}
+/* 各値の位置づけ */
+.left-value {
+	flex:3;
+	text-align: center;
+	color: #6b7280;
+	font-size: 14px;
+}
+
+.center-value {
+	flex:4;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.right-value {
+	flex:3;
+	text-align: center;
+	color: #6b7280;
+	font-size: 14px;
+}
+
+/* 下部入力欄とリセットボタン */
+.minus-input {
+	flex:1;
+	display: flex;
+	flex-direction: row; 
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	gap: 6px;
+	margin-top: 4px;
+}
+
+/* カード全体のリセットボタン */
+.card-reset-btn {
+	border: none;
+	background: #eee;
+	padding: 4px 8px;
+	border-radius: 4px;
+	cursor: pointer;
+	align-self: flex-end;
+}
+
+/* ===============================
+ layout 系
+ =============================== */
+
+/* スティック型：縦に2つ */
+.layout-stick{
+	display: grid;
+	grid-template-columns: repeat(1, 240px);
+	grid-template-rows: repeat(2, 120px);
+    justify-content: center;
+}
+.layout-stick .small-card:nth-child(1) {
+	grid-column: 1;
+	grid-row: 1;
+}
+.layout-stick .small-card:nth-child(2) {
+	grid-column: 1;
+	grid-row: 2;
+}
+
+/* 棍：2列×3行 */
+.layout-rod {
+	display: grid;
+	grid-template-columns: repeat(2, 240px);
+	grid-template-rows: repeat(3, 120px);
+    justify-content: center;
+}
+.layout-rod .small-card:nth-child(1) {
+	grid-column: 1;
+	grid-row: 1;
+}
+.layout-rod .small-card:nth-child(2) {
+	grid-column: 2;
+	grid-row: 1;
+}
+.layout-rod .small-card:nth-child(3) {
+	grid-column: 1;
+	grid-row: 2;
+}
+.layout-rod .small-card:nth-child(4) {
+	grid-column: 2;
+	grid-row: 2;
+}
+.layout-rod .small-card:nth-child(5) {
+	grid-column: 1;
+	grid-row: 3;
+}
+.layout-rod .small-card:nth-child(6) {
+	grid-column: 2;
+	grid-row: 3;
+}
+
+/* 扇型：2×2 の正方形配置 */
+.layout-fan{
+	display: grid;
+	grid-template-columns: repeat(2, 240px);
+	grid-template-rows: repeat(2, 120px);
+    justify-content: center;
+}
+.layout-fan .small-card:nth-child(1) {
+	grid-column: 1;
+	grid-row: 1;
+}
+.layout-fan .small-card:nth-child(2) {
+	grid-column: 2;
+	grid-row: 1;
+}
+.layout-fan .small-card:nth-child(3) {
+	grid-column: 1;
+	grid-row: 2;
+}
+.layout-fan .small-card:nth-child(4) {
+	grid-column: 2;
+	grid-row: 2;
+}
+
+
+/* 両手杖：縦に3つ */
+.layout-cane{
+	display: grid;
+	grid-template-columns: repeat(1, 240px);
+	grid-template-rows: repeat(3, 120px);
+    justify-content: center;
+}
+.layout-cane .small-card:nth-child(1) {
+	grid-column: 1;
+	grid-row: 1;
+}
+.layout-cane .small-card:nth-child(2) {
+	grid-column: 1;
+	grid-row: 2;
+}
+.layout-cane .small-card:nth-child(3) {
+	grid-column: 1;
+	grid-row: 3;
+}
+
+
+/* 弓：上2・中1・下2の特殊構成 */
+.layout-bow{
+	display: grid;
+	grid-template-columns: repeat(2, 240px);
+	grid-template-rows: repeat(3, 120px);
+    justify-content: center;
+}
+.layout-bow .small-card:nth-child(1) {
+	grid-column: 1;
+	grid-row: 1;
+}
+.layout-bow .small-card:nth-child(2) {
+	grid-column: 2;
+	grid-row: 1;
+}
+.layout-bow .small-card:nth-child(3) {
+	grid-column: 1;
+	grid-row: 2;
+}
+.layout-bow .small-card:nth-child(4) {
+	grid-column: 1;
+	grid-row: 3;
+}
+.layout-bow .small-card:nth-child(5) {
+	grid-column: 2;
+	grid-row: 3;
+}
+
+
+/* 釣りざお：上1・中2・下2、上は中央寄せ */
+.layout-pole{
+	display: grid;
+	grid-template-columns: repeat(2, 240px);
+	grid-template-rows: repeat(3, 120px);
+    justify-content: center;
+}
+.layout-pole .small-card:nth-child(1) {
+	grid-column: 2;
+	grid-row: 1;
+}
+.layout-pole .small-card:nth-child(2) {
+	grid-column: 1;
+	grid-row: 2;
+}
+.layout-pole .small-card:nth-child(3) {
+	grid-column: 2;
+	grid-row: 2;
+}
+.layout-pole .small-card:nth-child(4) {
+	grid-column: 1;
+	grid-row: 3;
+}
+.layout-pole .small-card:nth-child(5) {
+	grid-column: 2;
+	grid-row: 3;
+}
+
+.layout-head{
+	display: grid;
+	grid-template-columns: repeat(3, 240px);
+	grid-template-rows: repeat(2, 120px);
+    justify-content: center;
+}
+.layout-head .small-card:nth-child(1) {
+	grid-column: 2;
+	grid-row: 1;
+}
+.layout-head .small-card:nth-child(2) {
+	grid-column: 1;
+	grid-row: 2;
+}
+.layout-head .small-card:nth-child(3) {
+	grid-column: 2;
+	grid-row: 2;
+}
+.layout-head .small-card:nth-child(4) {
+	grid-column: 3;
+	grid-row: 2;
+}
+
+.layout-body-u{
+	display: grid;
+	grid-template-columns: repeat(3, 240px);
+	grid-template-rows: repeat(3, 120px);
+    justify-content: center;
+}
+.layout-body-u .small-card:nth-child(1) {
+	grid-column: 1;
+	grid-row: 1;
+}
+.layout-body-u .small-card:nth-child(2) {
+	grid-column: 2;
+	grid-row: 1;
+}
+.layout-body-u .small-card:nth-child(3) {
+	grid-column: 3;
+	grid-row: 1;
+}
+.layout-body-u .small-card:nth-child(4) {
+	grid-column: 1;
+	grid-row: 2;
+}
+.layout-body-u .small-card:nth-child(5) {
+	grid-column: 2;
+	grid-row: 2;
+}
+.layout-body-u .small-card:nth-child(6) {
+	grid-column: 3;
+	grid-row: 2;
+}
+.layout-body-u .small-card:nth-child(7) {
+	grid-column: 1;
+	grid-row: 3;
+}
+.layout-body-u .small-card:nth-child(8) {
+	grid-column: 2;
+	grid-row: 3;
+}
+.layout-body-u .small-card:nth-child(9) {
+	grid-column: 3;
+	grid-row: 3;
+}
+
+.layout-body-b{
+	display: grid;
+	grid-template-columns: repeat(2, 240px);
+	grid-template-rows: repeat(3, 120px);
+    justify-content: center;
+}
+.layout-body-b .small-card:nth-child(1) {
+	grid-column: 1;
+	grid-row: 1;
+}
+.layout-body-b .small-card:nth-child(2) {
+	grid-column: 2;
+	grid-row: 1;
+}
+.layout-body-b .small-card:nth-child(3) {
+	grid-column: 1;
+	grid-row: 2;
+}
+.layout-body-b .small-card:nth-child(4) {
+	grid-column: 2;
+	grid-row: 2;
+}
+.layout-body-b .small-card:nth-child(5) {
+	grid-column: 1;
+	grid-row: 3;
+}
+.layout-body-b .small-card:nth-child(6) {
+	grid-column: 2;
+	grid-row: 3;
+}
+
+.layout-arm{
+	display: grid;
+	grid-template-columns: repeat(3, 240px);
+	grid-template-rows: repeat(2, 120px);
+    justify-content: center;
+}
+.layout-arm .small-card:nth-child(1) {
+	grid-column: 1;
+	grid-row: 1;
+}
+.layout-arm .small-card:nth-child(2) {
+	grid-column: 2;
+	grid-row: 1;
+}
+.layout-arm .small-card:nth-child(3) {
+	grid-column: 3;
+	grid-row: 1;
+}
+.layout-arm .small-card:nth-child(4) {
+	grid-column: 1;
+	grid-row: 2;
+}
+.layout-arm .small-card:nth-child(5) {
+	grid-column: 2;
+	grid-row: 2;
+}
+.layout-arm .small-card:nth-child(6) {
+	grid-column: 3;
+	grid-row: 2;
+}
+
+.layout-foot{
+	display: grid;
+	grid-template-columns: repeat(2, 240px);
+	grid-template-rows: repeat(2, 120px);
+    justify-content: center;
+}
+.layout-foot .small-card:nth-child(1) {
+	grid-column: 1;
+	grid-row: 1;
+}
+.layout-foot .small-card:nth-child(2) {
+	grid-column: 2;
+	grid-row: 1;
+}
+.layout-foot .small-card:nth-child(3) {
+	grid-column: 1;
+	grid-row: 2;
+}
+.layout-foot .small-card:nth-child(4) {
+	grid-column: 2;
+	grid-row: 2;
+}

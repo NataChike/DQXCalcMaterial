@@ -168,16 +168,17 @@ div.right-column {
 	overflow-y: auto;
 }
 
+
 /* スマホ用（幅768px未満） */
 @media (max-width: 767.98px) {
 	header {
 		margin-bottom: 8px;
 	}
 
-	div.left-column {
+/*	div.left-column {*/
 /*		margin-top: 8px;*/
-		height: auto; /* 高さ固定を解除 */
-	}
+/*		height: auto;  高さ固定を解除 */
+/*	}*/
 
 	header h1 {
 		flex: 0 0 70%;
@@ -189,8 +190,5 @@ div.right-column {
 	
 	.contact a:hover {
 	color: #373737;
+	}
 }
-}
-
-/* PC用（幅768px以上） */
-@media (min-width: 768px) {}

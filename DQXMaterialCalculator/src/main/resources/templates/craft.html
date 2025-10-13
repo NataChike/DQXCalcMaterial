@@ -3,16 +3,17 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>ちけの便利ツール | DQX | 職人素材計算機</title>
+	<title>ちけの便利ツール | DQX | 職人計算機</title>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
 	<link rel="stylesheet" 	th:href="@{/css/style.css}">
-	<link rel="canonical" href="https://chiketools.com/dq10/crafter-calculator/">
+	<link rel="stylesheet" 	th:href="@{/css/craftStyle.css}">
+	<link rel="canonical" href="https://chiketools.com/dq10/material-calculator/">
 	<meta name="description" content="ドラゴンクエストXの職人素材を効率よく計算できる無料ツール。必要素材を一発で算出。">
 	<meta name="keywords" content="DQX, ドラクエ10, ドラゴンクエストX, 職人, 素材計算機, 便利ツール">
 	<meta property="og:title" content="DQX | 職人計算機">
 	<meta property="og:description" content="ドラクエ10職人向けの素材計算ツール。必要素材を一括で算出可能。">
-	<meta property="og:url" content="https://chiketools.com/dq10/crafter-calculator/">
+	<meta property="og:url" content="https://chiketools.com/dq10/material-calculator/">
 	<meta property="og:type" content="website">
 	<meta name="google-site-verification" content="dIrrBwLV2o-NdNuDC0CJnG01g4_RXQ8My1fXKS4EgAc" />
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886700851072663"
@@ -22,7 +23,6 @@
 	     /*<![CDATA[*/
 	     const CONTEXT_PATH = /*[[@{/}]]*/ '';
 	     /*]]>*/
-		 console.log(CONTEXT_PATH); 
 	 </script>
 </head>
 
@@ -37,7 +37,7 @@
 		</div>
 
 		<!-- 中央：タイトル -->
-		<h1>DQX | 職人計算機</h1>
+		<h1>DQX | 職人素材計算機</h1>
 
 		<!-- 右：お問い合わせ -->
 		<div class="contact d-none d-md-block">
@@ -53,55 +53,14 @@
 		</a>
 	</div>
 	<div class="container-lg d-flex flex-column	flex-grow-1">
-
-		<div class="row">
-
-			<!-- 左カラム：検索＋ボタン＋選択済み作成物 -->
-			<div class="left-column col-12 col-md-4 d-flex flex-column">
-				<!-- 検索窓 -->
-				<div class="position-relative">
-					<input type="text" id="itemInput" class="form-control" placeholder="作成物を入力...">
-					<div id="suggestions" class="list-group position-absolute w-100"></div>
-				</div>
-
-				<!-- 計算・リセットボタン -->
-				<div>
-					<button id="calculateBtn" class="btn w-100">計算</button>
-					<button id="resetBtn" class="btn btn-secondary w-100">リセット</button>
-					<button id="craftBtn" class="btn w-100">クラフト</button>
-				</div>
-
-				<!-- 選択済み作成物カード -->
-				<div class="card flex-grow-1 overflow-auto" id="itemsCard">
-					<h3>選択済み作成物一覧</h3>
-					<div id="itemsList"></div>
-				</div>
-
-				<!-- 計算結果 -->
-				<div class="card flex-grow-1 overflow-auto" id="resultContainer">
-					<h3>必要素材一覧</h3>
-					<div id="requiredMaterialList"></div>
-				</div>
-			</div>
-
-			<!-- 右カラム：職人作成物一覧 -->
-			<div class="right-column col-12 col-md-8 d-flex flex-column">
-				<!-- 職人タブ -->
-				<div id="jobTabs" class="d-flex flex-wrap justify-content-start"></div>
-
-				<!-- 職人作成物カード -->
-				<div class="card flex-grow-1 overflow-auto" id="jobItemsCard">
-					<div id="jobItems" class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4"></div>
-				</div>
-			</div>
-		</div>
+		<div id="cardList"></div>
 	</div>
 	<!-- フッター -->
 	<footer class="text-center py-3 border-top bg-light">
 	  <small>© 2025 chiketools.com</small>
 	</footer>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-	<script th:src="@{/js/script.js}"></script>
+	<script th:src="@{/js/craftCalculator.js}"></script>
 </body>
 
 </html>
