@@ -1,6645 +1,6752 @@
 [
-  {
-    "name": "皮のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "前座芸人のながぐつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "麻のくつ ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "若手芸人のながぐつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      23,
-      30
-    ]
-  },
-  {
-    "name": "ぬすっとのくつ ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      30,
-      23
-    ]
-  },
-  {
-    "name": "いやしのブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      30,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "きぬのサンダル ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      23,
-      30,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "射手のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      30,
-      23
-    ]
-  },
-  {
-    "name": "しゅうれん用ブーツ ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      23,
-      30,
-      45,
-      45
-    ]
-  },
-  {
-    "name": "サフランブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      30,
-      45,
-      45,
-      23
-    ]
-  },
-  {
-    "name": "くすしのくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      40,
-      23,
-      50,
-      30
-    ]
-  },
-  {
-    "name": "初級魔法戦士のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      30,
-      23,
-      45,
-      45
-    ]
-  },
-  {
-    "name": "ダンサーシューズ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      40,
-      23,
-      30,
-      50
-    ]
-  },
-  {
-    "name": "はやてのブーツ ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      45,
-      45,
-      45,
-      60
-    ]
-  },
-  {
-    "name": "みかわしのくつ ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      45,
-      30,
-      60,
-      60
-    ]
-  },
-  {
-    "name": "手品師のブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      75,
-      75
-    ]
-  },
-  {
-    "name": "学者の脚帯",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      45,
-      45,
-      60,
-      45
-    ]
-  },
-  {
-    "name": "カンフーシューズ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      45,
-      45,
-      75,
-      90
-    ]
-  },
-  {
-    "name": "マタドールシューズ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      45,
-      30,
-      90,
-      90
-    ]
-  },
-  {
-    "name": "まじないしのくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      75,
-      45,
-      60,
-      75
-    ]
-  },
-  {
-    "name": "まもりのくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      75,
-      75,
-      45,
-      60
-    ]
-  },
-  {
-    "name": "ウェスタンブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      50,
-      55,
-      75,
-      75
-    ]
-  },
-  {
-    "name": "木の葉のブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      60,
-      45,
-      75,
-      75
-    ]
-  },
-  {
-    "name": "けんぽうの脚帯",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      60,
-      60,
-      105,
-      105
-    ]
-  },
-  {
-    "name": "かたりべのブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      75,
-      75,
-      90,
-      90
-    ]
-  },
-  {
-    "name": "神官のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      75,
-      90,
-      90,
-      75
-    ]
-  },
-  {
-    "name": "まどうしのくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      105,
-      90,
-      75,
-      60
-    ]
-  },
-  {
-    "name": "森人のながぐつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      90,
-      90,
-      75,
-      75
-    ]
-  },
-  {
-    "name": "フェンサーブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      85,
-      85,
-      140,
-      140
-    ]
-  },
-  {
-    "name": "きじゅつしのブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      95,
-      130,
-      130,
-      95
-    ]
-  },
-  {
-    "name": "司祭のブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      120,
-      140,
-      100,
-      90
-    ]
-  },
-  {
-    "name": "ホーリーブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      115,
-      115,
-      115,
-      115
-    ]
-  },
-  {
-    "name": "水の脚帯",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      95,
-      95,
-      130,
-      130
-    ]
-  },
-  {
-    "name": "しんりのくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      110,
-      110,
-      140,
-      140
-    ]
-  },
-  {
-    "name": "マスターシューズ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      150,
-      100,
-      150,
-      100
-    ]
-  },
-  {
-    "name": "無法者のブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      100,
-      100,
-      150,
-      150
-    ]
-  },
-  {
-    "name": "占星術師のブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      175,
-      125,
-      125,
-      125
-    ]
-  },
-  {
-    "name": "トレジャーブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      110,
-      110,
-      165,
-      165
-    ]
-  },
-  {
-    "name": "聖者のブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      100,
-      175,
-      175,
-      100
-    ]
-  },
-  {
-    "name": "インテリサンダル",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      150,
-      150,
-      152,
-      153
-    ]
-  },
-  {
-    "name": "拳聖のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      135,
-      135,
-      165,
-      165
-    ]
-  },
-  {
-    "name": "月のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      120,
-      120,
-      180,
-      180
-    ]
-  },
-  {
-    "name": "原始獣のブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "再生布",
-    "value": [
-      170,
-      170,
-      130,
-      130
-    ]
-  },
-  {
-    "name": "モダンバニーのくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      135,
-      180,
-      210,
-      135
-    ]
-  },
-  {
-    "name": "クラウンシューズ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      200,
-      200,
-      120,
-      120
-    ]
-  },
-  {
-    "name": "ミラクルブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      104,
-      130,
-      300,
-      170
-    ]
-  },
-  {
-    "name": "王宮魔術師のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      200,
-      152,
-      152,
-      200
-    ]
-  },
-  {
-    "name": "古代魔術のながぐつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      130,
-      130,
-      170,
-      170
-    ]
-  },
-  {
-    "name": "古武道のブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      100,
-      150,
-      180,
-      210
-    ]
-  },
-  {
-    "name": "求道者のブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      140,
-      140,
-      200,
-      200
-    ]
-  },
-  {
-    "name": "チェイサーブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      130,
-      210,
-      210,
-      130
-    ]
-  },
-  {
-    "name": "大賢者のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      100,
-      140,
-      250,
-      190
-    ]
-  },
-  {
-    "name": "だいまどうのくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      150,
-      165,
-      185,
-      248
-    ]
-  },
-  {
-    "name": "歌詠みの脚帯",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      185,
-      155,
-      155,
-      185
-    ]
-  },
-  {
-    "name": "アイドルブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      140,
-      140,
-      234,
-      234
-    ]
-  },
-  {
-    "name": "ひつじのくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      160,
-      190,
-      190,
-      160
-    ]
-  },
-  {
-    "name": "さとりのブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      240,
-      240,
-      145,
-      145
-    ]
-  },
-  {
-    "name": "ステージシューズ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "ステージブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      200,
-      200,
-      150,
-      150
-    ]
-  },
-  {
-    "name": "タイフーンブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      140,
-      140,
-      280,
-      210
-    ]
-  },
-  {
-    "name": "退魔のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      170,
-      170,
-      215,
-      215
-    ]
-  },
-  {
-    "name": "レイブンブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      160,
-      160,
-      160,
-      220
-    ]
-  },
-  {
-    "name": "聖賢者のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      150,
-      150,
-      246,
-      246
-    ]
-  },
-  {
-    "name": "黄竜のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      155,
-      205,
-      205,
-      155
-    ]
-  },
-  {
-    "name": "古代王族のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      198,
-      198,
-      198,
-      198
-    ]
-  },
-  {
-    "name": "獄獣のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      165,
-      165,
-      215,
-      215
-    ]
-  },
-  {
-    "name": "精霊王の脚帯",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      209,
-      209,
-      209,
-      209
-    ]
-  },
-  {
-    "name": "舞い手のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      178,
-      240,
-      240,
-      178
-    ]
-  },
-  {
-    "name": "風虎のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      220,
-      170,
-      170,
-      220
-    ]
-  },
-  {
-    "name": "究明者のシューズ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      215,
-      215,
-      215,
-      215
-    ]
-  },
-  {
-    "name": "神託のサンダル",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      185,
-      185,
-      244,
-      244
-    ]
-  },
-  {
-    "name": "トーテムサンダル",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      200,
-      200,
-      200,
-      200
-    ]
-  },
-  {
-    "name": "巨商のサンダル",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      185,
-      185,
-      255,
-      255
-    ]
-  },
-  {
-    "name": "フォーチュンブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      250,
-      190,
-      190,
-      250
-    ]
-  },
-  {
-    "name": "武神の脚帯",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      185,
-      185,
-      235,
-      235
-    ]
-  },
-  {
-    "name": "ヴァンガードブーツ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      261,
-      201,
-      201,
-      261
-    ]
-  },
-  {
-    "name": "賢哲のくつ",
-    "job": "さいほう職人",
-    "category": "足",
-    "characteristic": "",
-    "value": [
-      231,
-      231,
-      231,
-      231
-    ]
-  },
-  {
-    "name": "皮のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "前座芸人のバンダナ",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "麻のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "若手芸人のバンダナ",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      30,
-      23
-    ]
-  },
-  {
-    "name": "ぬすっとずきん",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      23,
-      30,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "いやしのぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      23,
-      30
-    ]
-  },
-  {
-    "name": "きぬのぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      30,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "射手のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      30,
-      23
-    ]
-  },
-  {
-    "name": "しゅうれん用バンド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      23,
-      30,
-      45,
-      45
-    ]
-  },
-  {
-    "name": "サフランハット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      45,
-      23,
-      45,
-      30
-    ]
-  },
-  {
-    "name": "くすしのぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      30,
-      45,
-      45,
-      23
-    ]
-  },
-  {
-    "name": "初級魔法戦士ベレー",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      30,
-      23,
-      45,
-      45
-    ]
-  },
-  {
-    "name": "ダンサーヘアバンド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      23,
-      45,
-      45,
-      30
-    ]
-  },
-  {
-    "name": "はやてのバンダナ",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      45,
-      30,
-      75,
-      45
-    ]
-  },
-  {
-    "name": "みかわしのぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      45,
-      45,
-      60,
-      45
-    ]
-  },
-  {
-    "name": "手品師のヘアバンド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      30,
-      45,
-      75,
-      45
-    ]
-  },
-  {
-    "name": "学者のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      45,
-      45,
-      75,
-      30
-    ]
-  },
-  {
-    "name": "カンフーキャップ",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      45,
-      60,
-      90,
-      60
-    ]
-  },
-  {
-    "name": "マタドールバンド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      60,
-      45,
-      90,
-      60
-    ]
-  },
-  {
-    "name": "まじないしターバン",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      60,
-      60,
-      90,
-      45
-    ]
-  },
-  {
-    "name": "まもりのぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      75,
-      45,
-      75,
-      60
-    ]
-  },
-  {
-    "name": "ウェスタンハット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      60,
-      60,
-      75,
-      60
-    ]
-  },
-  {
-    "name": "木の葉のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      45,
-      60,
-      75,
-      75
-    ]
-  },
-  {
-    "name": "かたりべのぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "虹布",
-    "value": [
-      60,
-      90,
-      105,
-      75
-    ]
-  },
-  {
-    "name": "神官のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      90,
-      75,
-      90,
-      75
-    ]
-  },
-  {
-    "name": "まどうしのぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "虹布",
-    "value": [
-      105,
-      60,
-      105,
-      60
-    ]
-  },
-  {
-    "name": "森人のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      60,
-      75,
-      105,
-      90
-    ]
-  },
-  {
-    "name": "フェンサーハット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      120,
-      105,
-      120,
-      105
-    ]
-  },
-  {
-    "name": "きじゅつしのぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      90,
-      105,
-      135,
-      120
-    ]
-  },
-  {
-    "name": "司祭のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      112,
-      112,
-      112,
-      112
-    ]
-  },
-  {
-    "name": "ホーリーカロット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      125,
-      75,
-      175,
-      75
-    ]
-  },
-  {
-    "name": "水のサークレット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "虹布",
-    "value": [
-      60,
-      120,
-      150,
-      120
-    ]
-  },
-  {
-    "name": "しんりのぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "虹布",
-    "value": [
-      110,
-      100,
-      150,
-      140
-    ]
-  },
-  {
-    "name": "マスターハット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      125,
-      125,
-      125,
-      125
-    ]
-  },
-  {
-    "name": "無法者のバンダナ",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      100,
-      125,
-      150,
-      125
-    ]
-  },
-  {
-    "name": "占星術師のターバン",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "虹布",
-    "value": [
-      125,
-      125,
-      175,
-      125
-    ]
-  },
-  {
-    "name": "トレジャーキャップ",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      175,
-      100,
-      175,
-      100
-    ]
-  },
-  {
-    "name": "聖者のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      130,
-      120,
-      160,
-      140
-    ]
-  },
-  {
-    "name": "インテリハット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "虹布",
-    "value": [
-      125,
-      160,
-      160,
-      160
-    ]
-  },
-  {
-    "name": "拳聖のターバン",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      150,
-      130,
-      190,
-      130
-    ]
-  },
-  {
-    "name": "月のサークレット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      150,
-      150,
-      150,
-      150
-    ]
-  },
-  {
-    "name": "原始獣のシャプカ",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      180,
-      120,
-      180,
-      120
-    ]
-  },
-  {
-    "name": "モダンバニーヘッド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "虹布",
-    "value": [
-      120,
-      180,
-      180,
-      180
-    ]
-  },
-  {
-    "name": "クラウンハット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      200,
-      150,
-      140,
-      150
-    ]
-  },
-  {
-    "name": "ミラクルハット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      150,
-      200,
-      254,
-      100
-    ]
-  },
-  {
-    "name": "王宮魔術師帽",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      176,
-      176,
-      176,
-      176
-    ]
-  },
-  {
-    "name": "古武道のずきん",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      140,
-      200,
-      100,
-      200
-    ]
-  },
-  {
-    "name": "古代魔術のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      120,
-      180,
-      160,
-      180
-    ]
-  },
-  {
-    "name": "だいまどうのぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      150,
-      170,
-      258,
-      170
-    ]
-  },
-  {
-    "name": "求道者のはちまき",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "再生布",
-    "value": [
-      170,
-      170,
-      170,
-      170
-    ]
-  },
-  {
-    "name": "歌詠みのヘアバンド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      160,
-      150,
-      200,
-      170
-    ]
-  },
-  {
-    "name": "チェイサーバンド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      150,
-      200,
-      130,
-      200
-    ]
-  },
-  {
-    "name": "大賢者のミトラ",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      200,
-      160,
-      160,
-      160
-    ]
-  },
-  {
-    "name": "アイドルヘアバンド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      190,
-      170,
-      218,
-      170
-    ]
-  },
-  {
-    "name": "ひつじのずきん",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      100,
-      210,
-      180,
-      210
-    ]
-  },
-  {
-    "name": "さとりのかんむり",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      140,
-      200,
-      230,
-      200
-    ]
-  },
-  {
-    "name": "ステージバンド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      175,
-      175,
-      175,
-      175
-    ]
-  },
-  {
-    "name": "ステージリボン",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      220,
-      160,
-      160,
-      160
-    ]
-  },
-  {
-    "name": "タイフーンゴーグル",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      130,
-      220,
-      200,
-      220
-    ]
-  },
-  {
-    "name": "退魔のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      160,
-      180,
-      250,
-      180
-    ]
-  },
-  {
-    "name": "レイブンヘッド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      130,
-      170,
-      230,
-      170
-    ]
-  },
-  {
-    "name": "聖賢者のミトラ",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      160,
-      226,
-      180,
-      226
-    ]
-  },
-  {
-    "name": "黄竜のはちまき",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      210,
-      150,
-      210,
-      150
-    ]
-  },
-  {
-    "name": "古代王族のターバン",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      160,
-      190,
-      252,
-      190
-    ]
-  },
-  {
-    "name": "獄獣のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      174,
-      174,
-      238,
-      174
-    ]
-  },
-  {
-    "name": "舞い手のヘアバンド",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      216,
-      180,
-      260,
-      180
-    ]
-  },
-  {
-    "name": "風虎のはちがね",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      180,
-      180,
-      240,
-      180
-    ]
-  },
-  {
-    "name": "究明者のフード",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      175,
-      215,
-      253,
-      215
-    ]
-  },
-  {
-    "name": "神託のぼうし",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      239,
-      190,
-      239,
-      190
-    ]
-  },
-  {
-    "name": "トーテムクラウン",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      200,
-      200,
-      200,
-      200
-    ]
-  },
-  {
-    "name": "巨商のターバン",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      240,
-      170,
-      300,
-      170
-    ]
-  },
-  {
-    "name": "ヴァンガードハット",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "賢哲のターバン",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "妖炎魔女の髪飾り",
-    "job": "さいほう職人",
-    "category": "アタマ",
-    "characteristic": "",
-    "value": [
-      220,
-      220,
-      220,
-      400
-    ]
-  },
-  {
-    "name": "前座芸人のズボン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "麻の短パン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "皮のズボン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "若手芸人のズボン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "ぬすっとタイツ",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "いやしのズボン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      23,
-      15,
-      15,
-      15,
-      15,
-      23
-    ]
-  },
-  {
-    "name": "きぬのローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      23,
-      23,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "射手のタイツ",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      15,
-      23,
-      15,
-      15,
-      23,
-      15
-    ]
-  },
-  {
-    "name": "しゅうれんぎ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      30,
-      23,
-      23,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "サフランローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      30,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "くすしのローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      23,
-      23,
-      23,
-      30
-    ]
-  },
-  {
-    "name": "初級魔法戦士タイツ",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      23,
-      30,
-      23,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "ダンサーパンツ",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      23,
-      30,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "はやてのキュロット",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      35,
-      35,
-      40,
-      40,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "みかわしの服下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      40,
-      40,
-      35,
-      35,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "手品師のタイツ",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      35,
-      35,
-      40,
-      40
-    ]
-  },
-  {
-    "name": "学者のころも下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      35,
-      40,
-      40,
-      35,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "カンフーズボン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      75,
-      30,
-      45,
-      45,
-      30,
-      30
-    ]
-  },
-  {
-    "name": "マタドールスーツ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      38,
-      37,
-      60,
-      60,
-      30,
-      30
-    ]
-  },
-  {
-    "name": "まじないしローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      60,
-      30,
-      38,
-      37,
-      30,
-      60
-    ]
-  },
-  {
-    "name": "ウェスタンスパッツ",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      55,
-      50,
-      45,
-      45,
-      30,
-      30
-    ]
-  },
-  {
-    "name": "木の葉のよろい下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      45,
-      60,
-      45,
-      45,
-      30,
-      30
-    ]
-  },
-  {
-    "name": "けんぽうぎ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      65,
-      65,
-      55,
-      55,
-      45,
-      45
-    ]
-  },
-  {
-    "name": "かたりべの服下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "虹布",
-    "value": [
-      70,
-      75,
-      60,
-      55,
-      35,
-      35
-    ]
-  },
-  {
-    "name": "神官のほうい下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      45,
-      45,
-      55,
-      55,
-      65,
-      65
-    ]
-  },
-  {
-    "name": "まどうしのころも下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "虹布",
-    "value": [
-      70,
-      70,
-      50,
-      60,
-      45,
-      35
-    ]
-  },
-  {
-    "name": "森人の前かけ",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      70,
-      70,
-      55,
-      55,
-      40,
-      40
-    ]
-  },
-  {
-    "name": "きじゅつしのズボン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "虹布",
-    "value": [
-      100,
-      50,
-      75,
-      100,
-      50,
-      75
-    ]
-  },
-  {
-    "name": "ホーリーローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      130,
-      90,
-      65,
-      65,
-      50,
-      50
-    ]
-  },
-  {
-    "name": "水のはごろも下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      60,
-      60,
-      75,
-      75,
-      90,
-      90
-    ]
-  },
-  {
-    "name": "しんりのローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "虹布",
-    "value": [
-      60,
-      60,
-      75,
-      75,
-      115,
-      115
-    ]
-  },
-  {
-    "name": "マスタースラックス",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "虹布",
-    "value": [
-      83,
-      83,
-      83,
-      83,
-      83,
-      83
-    ]
-  },
-  {
-    "name": "無法者のズボン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      110,
-      110,
-      80,
-      80,
-      60,
-      60
-    ]
-  },
-  {
-    "name": "占星術師のローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "虹布",
-    "value": [
-      120,
-      120,
-      90,
-      90,
-      65,
-      65
-    ]
-  },
-  {
-    "name": "トレジャーコート下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      105,
-      105,
-      90,
-      90,
-      80,
-      80
-    ]
-  },
-  {
-    "name": "インテリローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "虹布",
-    "value": [
-      140,
-      140,
-      92,
-      93,
-      70,
-      70
-    ]
-  },
-  {
-    "name": "拳聖の道着下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      170,
-      90,
-      70,
-      70,
-      80,
-      120
-    ]
-  },
-  {
-    "name": "月のローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      160,
-      100,
-      90,
-      75,
-      100,
-      75
-    ]
-  },
-  {
-    "name": "原始獣のコート下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      70,
-      70,
-      90,
-      90,
-      140,
-      140
-    ]
-  },
-  {
-    "name": "モダンバニータイツ",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "虹布",
-    "value": [
-      160,
-      110,
-      70,
-      80,
-      90,
-      150
-    ]
-  },
-  {
-    "name": "モダンバニーフレア",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "虹布",
-    "value": [
-      110,
-      110,
-      110,
-      110,
-      110,
-      110
-    ]
-  },
-  {
-    "name": "クラウンズボン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      140,
-      140,
-      105,
-      105,
-      75,
-      75
-    ]
-  },
-  {
-    "name": "古代魔術のほうい下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      120,
-      90,
-      90,
-      130,
-      120,
-      90
-    ]
-  },
-  {
-    "name": "王宮魔術師ローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      152,
-      152,
-      120,
-      120,
-      80,
-      80
-    ]
-  },
-  {
-    "name": "古武道着下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "再生布",
-    "value": [
-      135,
-      80,
-      105,
-      105,
-      80,
-      135
-    ]
-  },
-  {
-    "name": "ミラクルコート下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "虹布",
-    "value": [
-      200,
-      80,
-      74,
-      120,
-      140,
-      90
-    ]
-  },
-  {
-    "name": "求道者の道着下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      150,
-      150,
-      110,
-      110,
-      80,
-      80
-    ]
-  },
-  {
-    "name": "アイドルスーツ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "チェイサーレザー下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      140,
-      140,
-      110,
-      110,
-      90,
-      90
-    ]
-  },
-  {
-    "name": "だいまどうローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      160,
-      94,
-      120,
-      120,
-      94,
-      160
-    ]
-  },
-  {
-    "name": "歌詠みのころも下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      85,
-      85,
-      105,
-      105,
-      150,
-      150
-    ]
-  },
-  {
-    "name": "ひつじのころも下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      110,
-      110,
-      120,
-      120,
-      120
-    ]
-  },
-  {
-    "name": "ステージパンツ",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      150,
-      150,
-      120,
-      120,
-      80,
-      80
-    ]
-  },
-  {
-    "name": "ステージチュチュ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      200,
-      80,
-      70,
-      120,
-      140,
-      90
-    ]
-  },
-  {
-    "name": "タイフーンレザー下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      160,
-      160,
-      125,
-      125,
-      100,
-      100
-    ]
-  },
-  {
-    "name": "退魔の装束下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      105,
-      150,
-      150,
-      130,
-      130,
-      105
-    ]
-  },
-  {
-    "name": "聖賢者のローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      100,
-      100,
-      130,
-      130,
-      166,
-      166
-    ]
-  },
-  {
-    "name": "古代王族のボトムス",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      130,
-      130,
-      170,
-      170,
-      96,
-      96
-    ]
-  },
-  {
-    "name": "獄獣のズボン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      125,
-      150,
-      150,
-      125,
-      105,
-      105
-    ]
-  },
-  {
-    "name": "精霊王のクローク下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      171,
-      171,
-      136,
-      136,
-      111,
-      111
-    ]
-  },
-  {
-    "name": "舞い手のズボン",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      118,
-      170,
-      170,
-      130,
-      130,
-      118
-    ]
-  },
-  {
-    "name": "究明者のコート下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      170,
-      170,
-      140,
-      140,
-      120,
-      120
-    ]
-  },
-  {
-    "name": "神託のローブ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      145,
-      185,
-      185,
-      145,
-      100,
-      100
-    ]
-  },
-  {
-    "name": "トーテムケープ下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      100,
-      130,
-      130,
-      170,
-      170,
-      100
-    ]
-  },
-  {
-    "name": "巨商の前かけ",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      150,
-      185,
-      185,
-      150,
-      105,
-      105
-    ]
-  },
-  {
-    "name": "フォーチュンボトム",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      170,
-      170,
-      145,
-      145,
-      125,
-      125
-    ]
-  },
-  {
-    "name": "武神の道着下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "賢哲のころも下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "妖炎魔女のドレス下",
-    "job": "さいほう職人",
-    "category": "からだ下",
-    "characteristic": "",
-    "value": [
-      250,
-      250,
-      150,
-      130,
-      130,
-      150
-    ]
-  },
-  {
-    "name": "皮のよろい",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "前座芸人の服",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "麻の服",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "星天の衣",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "七夕イベント装備",
-    "value": [
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "若手芸人の服",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      23,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "ぬすっとの服",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      23
-    ]
-  },
-  {
-    "name": "いやしの服",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      23,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "きぬのローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      23,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "射手の服",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      23,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "しゅうれんぎ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      23,
-      15,
-      15,
-      15,
-      15,
-      15,
-      23,
-      15,
-      23
-    ]
-  },
-  {
-    "name": "サフランローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      23,
-      15,
-      15,
-      15,
-      23,
-      15,
-      23
-    ]
-  },
-  {
-    "name": "くすしのローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      30,
-      15,
-      23
-    ]
-  },
-  {
-    "name": "初級魔法戦士服",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      30,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      15,
-      23
-    ]
-  },
-  {
-    "name": "ダンサーシャツ",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      30,
-      15,
-      15,
-      15,
-      15,
-      15,
-      23
-    ]
-  },
-  {
-    "name": "はやてのベスト",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "みかわしの服上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "手品師の服",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "学者のころも上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "カンフージャケット",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      30,
-      23,
-      30,
-      23,
-      23,
-      23,
-      40,
-      23,
-      40
-    ]
-  },
-  {
-    "name": "マタドールスーツ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      35,
-      23,
-      35,
-      23,
-      23,
-      23,
-      35,
-      23,
-      35
-    ]
-  },
-  {
-    "name": "まじないしローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      40,
-      23,
-      23,
-      23,
-      23,
-      30,
-      30,
-      23,
-      40
-    ]
-  },
-  {
-    "name": "まもりのローブ",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      30,
-      23,
-      30,
-      23,
-      23,
-      23,
-      30,
-      23,
-      50
-    ]
-  },
-  {
-    "name": "ウェスタンブラウス",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      30,
-      23,
-      30,
-      23,
-      23,
-      23,
-      50,
-      23,
-      30
-    ]
-  },
-  {
-    "name": "木の葉のよろい上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      30,
-      23,
-      50,
-      23,
-      23,
-      23,
-      30,
-      23,
-      30
-    ]
-  },
-  {
-    "name": "けんぽうぎ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      40,
-      32,
-      40,
-      32,
-      32,
-      32,
-      45,
-      32,
-      45
-    ]
-  },
-  {
-    "name": "かたりべの服上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "虹布",
-    "value": [
-      32,
-      32,
-      40,
-      40,
-      32,
-      32,
-      45,
-      32,
-      45
-    ]
-  },
-  {
-    "name": "神官のほうい上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      40,
-      32,
-      40,
-      32,
-      32,
-      32,
-      40,
-      32,
-      50
-    ]
-  },
-  {
-    "name": "まどうしのころも上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "虹布",
-    "value": [
-      32,
-      32,
-      32,
-      32,
-      32,
-      32,
-      53,
-      32,
-      53
-    ]
-  },
-  {
-    "name": "森人のチョッキ",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      45,
-      32,
-      45,
-      32,
-      32,
-      32,
-      40,
-      32,
-      40
-    ]
-  },
-  {
-    "name": "フェンサーマント",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      55,
-      35,
-      70,
-      45,
-      40,
-      45,
-      70,
-      35,
-      55
-    ]
-  },
-  {
-    "name": "きじゅつしの服",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "虹布",
-    "value": [
-      60,
-      35,
-      50,
-      45,
-      40,
-      45,
-      70,
-      35,
-      70
-    ]
-  },
-  {
-    "name": "水のはごろも上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "虹布",
-    "value": [
-      70,
-      35,
-      70,
-      45,
-      40,
-      45,
-      55,
-      35,
-      55
-    ]
-  },
-  {
-    "name": "司祭のほうい",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      60,
-      35,
-      60,
-      40,
-      50,
-      40,
-      60,
-      35,
-      70
-    ]
-  },
-  {
-    "name": "ホーリーローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      55,
-      35,
-      55,
-      50,
-      40,
-      50,
-      65,
-      35,
-      65
-    ]
-  },
-  {
-    "name": "しんりのローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "虹布",
-    "value": [
-      65,
-      35,
-      65,
-      50,
-      40,
-      50,
-      80,
-      35,
-      80
-    ]
-  },
-  {
-    "name": "マスターベスト",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "虹布",
-    "value": [
-      70,
-      35,
-      70,
-      55,
-      40,
-      55,
-      70,
-      35,
-      70
-    ]
-  },
-  {
-    "name": "無法者のベスト",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      80,
-      35,
-      70,
-      45,
-      50,
-      45,
-      60,
-      35,
-      80
-    ]
-  },
-  {
-    "name": "占星術師のローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "虹布",
-    "value": [
-      65,
-      40,
-      65,
-      55,
-      50,
-      55,
-      90,
-      40,
-      90
-    ]
-  },
-  {
-    "name": "トレジャーコート上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      100,
-      40,
-      50,
-      60,
-      50,
-      60,
-      50,
-      40,
-      100
-    ]
-  },
-  {
-    "name": "聖者のほうい",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      75,
-      40,
-      75,
-      60,
-      50,
-      60,
-      75,
-      40,
-      75
-    ]
-  },
-  {
-    "name": "インテリローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "虹布",
-    "value": [
-      70,
-      40,
-      70,
-      65,
-      55,
-      65,
-      100,
-      40,
-      100
-    ]
-  },
-  {
-    "name": "拳聖の道着上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      80,
-      40,
-      80,
-      65,
-      50,
-      65,
-      90,
-      40,
-      90
-    ]
-  },
-  {
-    "name": "月のローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      90,
-      45,
-      90,
-      70,
-      50,
-      70,
-      100,
-      45,
-      100
-    ]
-  },
-  {
-    "name": "原始獣のコート上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "再生布",
-    "value": [
-      95,
-      40,
-      95,
-      60,
-      60,
-      60,
-      75,
-      40,
-      75
-    ]
-  },
-  {
-    "name": "モダンバニースーツ",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "虹布",
-    "value": [
-      90,
-      45,
-      90,
-      60,
-      60,
-      60,
-      105,
-      45,
-      105
-    ]
-  },
-  {
-    "name": "クラウンベスト",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      80,
-      60,
-      80,
-      60,
-      60,
-      60,
-      90,
-      60,
-      90
-    ]
-  },
-  {
-    "name": "ミラクルコート上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "虹布",
-    "value": [
-      85,
-      45,
-      85,
-      70,
-      64,
-      70,
-      120,
-      45,
-      120
-    ]
-  },
-  {
-    "name": "王宮魔術師ローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      90,
-      45,
-      90,
-      72,
-      60,
-      72,
-      115,
-      45,
-      115
-    ]
-  },
-  {
-    "name": "古代魔術のほうい上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      80,
-      65,
-      90,
-      55,
-      60,
-      55,
-      90,
-      65,
-      80
-    ]
-  },
-  {
-    "name": "古武道着上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      80,
-      45,
-      80,
-      60,
-      60,
-      60,
-      105,
-      45,
-      105
-    ]
-  },
-  {
-    "name": "求道者の道着上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      90,
-      45,
-      105,
-      70,
-      60,
-      70,
-      105,
-      45,
-      90
-    ]
-  },
-  {
-    "name": "アイドルスーツ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "チェイサーレザー上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      90,
-      60,
-      90,
-      70,
-      60,
-      70,
-      90,
-      60,
-      90
-    ]
-  },
-  {
-    "name": "大賢者のほうい",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      70,
-      60,
-      70,
-      80,
-      60,
-      80,
-      100,
-      60,
-      100
-    ]
-  },
-  {
-    "name": "だいまどうローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      75,
-      45,
-      134,
-      90,
-      60,
-      90,
-      134,
-      45,
-      75
-    ]
-  },
-  {
-    "name": "歌詠みのころも上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      90,
-      45,
-      90,
-      70,
-      60,
-      70,
-      105,
-      45,
-      105
-    ]
-  },
-  {
-    "name": "ひつじのころも上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      90,
-      45,
-      90,
-      70,
-      60,
-      70,
-      115,
-      45,
-      115
-    ]
-  },
-  {
-    "name": "さとりのころも",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      100,
-      60,
-      100,
-      75,
-      60,
-      75,
-      120,
-      60,
-      120
-    ]
-  },
-  {
-    "name": "ステージジャンパー",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      80,
-      45,
-      75,
-      120,
-      60,
-      120,
-      75,
-      45,
-      80
-    ]
-  },
-  {
-    "name": "ステージチュチュ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      90,
-      45,
-      90,
-      95,
-      60,
-      95,
-      90,
-      45,
-      90
-    ]
-  },
-  {
-    "name": "タイフーンレザー上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      120,
-      75,
-      100,
-      60,
-      60,
-      60,
-      100,
-      75,
-      120
-    ]
-  },
-  {
-    "name": "退魔の装束上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      115,
-      45,
-      105,
-      90,
-      60,
-      90,
-      105,
-      45,
-      115
-    ]
-  },
-  {
-    "name": "レイブンスーツ",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      100,
-      60,
-      100,
-      60,
-      60,
-      60,
-      100,
-      60,
-      100
-    ]
-  },
-  {
-    "name": "聖賢者のローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      131,
-      75,
-      131,
-      60,
-      60,
-      60,
-      100,
-      75,
-      100
-    ]
-  },
-  {
-    "name": "黄竜の道着",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      90,
-      60,
-      105,
-      75,
-      60,
-      75,
-      105,
-      60,
-      90
-    ]
-  },
-  {
-    "name": "古代王族のベスト",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      126,
-      45,
-      126,
-      90,
-      60,
-      90,
-      105,
-      45,
-      105
-    ]
-  },
-  {
-    "name": "獄獣のケープ",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      100,
-      75,
-      100,
-      60,
-      90,
-      60,
-      100,
-      75,
-      100
-    ]
-  },
-  {
-    "name": "精霊王のクローク上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      120,
-      60,
-      120,
-      75,
-      90,
-      75,
-      120,
-      60,
-      120
-    ]
-  },
-  {
-    "name": "舞い手の服",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      105,
-      60,
-      150,
-      75,
-      60,
-      75,
-      150,
-      60,
-      105
-    ]
-  },
-  {
-    "name": "風虎の道着",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      100,
-      90,
-      90,
-      60,
-      100,
-      60,
-      90,
-      90,
-      100
-    ]
-  },
-  {
-    "name": "究明者のコート上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      150,
-      60,
-      115,
-      75,
-      60,
-      75,
-      115,
-      60,
-      150
-    ]
-  },
-  {
-    "name": "神託のローブ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      105,
-      75,
-      105,
-      75,
-      140,
-      75,
-      105,
-      75,
-      105
-    ]
-  },
-  {
-    "name": "トーテムケープ上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      90,
-      75,
-      90,
-      75,
-      140,
-      75,
-      90,
-      75,
-      90
-    ]
-  },
-  {
-    "name": "巨商のころも",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      110,
-      75,
-      110,
-      75,
-      140,
-      75,
-      110,
-      75,
-      110
-    ]
-  },
-  {
-    "name": "フォーチュンローブ",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": [
-      150,
-      60,
-      125,
-      75,
-      60,
-      75,
-      125,
-      60,
-      150
-    ]
-  },
-  {
-    "name": "武神の道着上",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "ヴァンガードコート",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "賢哲のころも",
-    "job": "さいほう職人",
-    "category": "からだ上",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "ものほしざお",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      22,
-      22,
-      22,
-      22,
-      22,
-      22
-    ]
-  },
-  {
-    "name": "てんびんぼう",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      22,
-      22,
-      26,
-      26,
-      22,
-      22
-    ]
-  },
-  {
-    "name": "かしのこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      22,
-      22,
-      33,
-      33,
-      22,
-      22
-    ]
-  },
-  {
-    "name": "ぎょうじゃのこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      29,
-      29,
-      29,
-      29,
-      29,
-      29
-    ]
-  },
-  {
-    "name": "六角ぼう",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      29,
-      29,
-      40,
-      40,
-      29,
-      29
-    ]
-  },
-  {
-    "name": "えんぶのこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      33,
-      33,
-      44,
-      44,
-      33,
-      33
-    ]
-  },
-  {
-    "name": "セレモニーロッド",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      33,
-      33,
-      49,
-      49,
-      38,
-      38
-    ]
-  },
-  {
-    "name": "スパイクロッド",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "木目変化",
-    "value": [
-      32,
-      32,
-      53,
-      53,
-      43,
-      43
-    ]
-  },
-  {
-    "name": "まどろみのこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "木目変化",
-    "value": [
-      37,
-      37,
-      58,
-      58,
-      43,
-      43
-    ]
-  },
-  {
-    "name": "クラッシュロッド",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "木目変化",
-    "value": [
-      43,
-      43,
-      58,
-      58,
-      48,
-      48
-    ]
-  },
-  {
-    "name": "レイニーロッド",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "木目変化",
-    "value": [
-      48,
-      48,
-      53,
-      53,
-      64,
-      64
-    ]
-  },
-  {
-    "name": "らせつのこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "燃え木",
-    "value": [
-      60,
-      60,
-      84,
-      84,
-      60,
-      60
-    ]
-  },
-  {
-    "name": "ろうがぼう",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "木目変化",
-    "value": [
-      53,
-      53,
-      80,
-      80,
-      64,
-      64
-    ]
-  },
-  {
-    "name": "やしゃのこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "燃え木",
-    "value": [
-      72,
-      72,
-      96,
-      96,
-      72,
-      72
-    ]
-  },
-  {
-    "name": "ドラゴンロッド",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "燃え木",
-    "value": [
-      72,
-      72,
-      84,
-      84,
-      102,
-      102
-    ]
-  },
-  {
-    "name": "にちりんのこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "燃え木",
-    "value": [
-      75,
-      75,
-      108,
-      108,
-      90,
-      90
-    ]
-  },
-  {
-    "name": "白蛇のこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "再生木",
-    "value": [
-      73,
-      73,
-      104,
-      104,
-      88,
-      88
-    ]
-  },
-  {
-    "name": "なげきのこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "再生木",
-    "value": [
-      76,
-      76,
-      95,
-      95,
-      114,
-      114
-    ]
-  },
-  {
-    "name": "しゅらのこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "再生木",
-    "value": [
-      83,
-      83,
-      170,
-      120,
-      92,
-      92
-    ]
-  },
-  {
-    "name": "シェンロンロッド",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      91,
-      91,
-      111,
-      111,
-      138,
-      138
-    ]
-  },
-  {
-    "name": "聖王の棍",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      90,
-      90,
-      150,
-      150,
-      105,
-      105
-    ]
-  },
-  {
-    "name": "陰陽道のこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      104,
-      104,
-      130,
-      130,
-      104,
-      104
-    ]
-  },
-  {
-    "name": "デーモンロッド",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      145,
-      130,
-      110,
-      110,
-      130,
-      145
-    ]
-  },
-  {
-    "name": "アポカリプス",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      90,
-      90,
-      130,
-      156,
-      110,
-      110
-    ]
-  },
-  {
-    "name": "ポップンロッド",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "虹木",
-    "value": [
-      98,
-      98,
-      160,
-      160,
-      120,
-      120
-    ]
-  },
-  {
-    "name": "極楽のこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      114,
-      114,
-      152,
-      152,
-      114,
-      114
-    ]
-  },
-  {
-    "name": "ヘリオスロッド",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      120,
-      120,
-      160,
-      160,
-      160,
-      160
-    ]
-  },
-  {
-    "name": "氷河のこん",
-    "job": "木工職人",
-    "category": "棍",
-    "characteristic": "",
-    "value": [
-      100,
-      100,
-      180,
-      180,
-      130,
-      130
-    ]
-  },
-  {
-    "name": "白木のおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      30,
-      30,
-      30,
-      30
-    ]
-  },
-  {
-    "name": "はねおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      25,
-      25,
-      40,
-      40
-    ]
-  },
-  {
-    "name": "バトルファン",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      44,
-      44,
-      33,
-      33
-    ]
-  },
-  {
-    "name": "てつのおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      38,
-      38,
-      49,
-      49
-    ]
-  },
-  {
-    "name": "カメのおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      44,
-      44,
-      55,
-      55
-    ]
-  },
-  {
-    "name": "トリのおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      49,
-      49,
-      60,
-      60
-    ]
-  },
-  {
-    "name": "ナナホシおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      55,
-      55,
-      66,
-      66
-    ]
-  },
-  {
-    "name": "ネコのおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      60,
-      60,
-      71,
-      71
-    ]
-  },
-  {
-    "name": "くじゃくのおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "木目変化",
-    "value": [
-      53,
-      53,
-      86,
-      86
-    ]
-  },
-  {
-    "name": "ヘビのおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "燃え木",
-    "value": [
-      78,
-      78,
-      90,
-      90
-    ]
-  },
-  {
-    "name": "星のおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "木目変化",
-    "value": [
-      75,
-      75,
-      91,
-      91
-    ]
-  },
-  {
-    "name": "マジックファン",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "燃え木",
-    "value": [
-      90,
-      90,
-      114,
-      114
-    ]
-  },
-  {
-    "name": "ましょうのおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "燃え木",
-    "value": [
-      102,
-      121,
-      121,
-      102
-    ]
-  },
-  {
-    "name": "月のおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "木目変化",
-    "value": [
-      97,
-      97,
-      118,
-      118
-    ]
-  },
-  {
-    "name": "レインボーファン",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "木目変化",
-    "value": [
-      107,
-      107,
-      123,
-      123
-    ]
-  },
-  {
-    "name": "たいようのおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "燃え木",
-    "value": [
-      126,
-      126,
-      148,
-      148
-    ]
-  },
-  {
-    "name": "ばしょうせん",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "木目復活",
-    "value": [
-      114,
-      114,
-      152,
-      152
-    ]
-  },
-  {
-    "name": "天下泰平",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      142,
-      142,
-      142,
-      142
-    ]
-  },
-  {
-    "name": "ひっさつのおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "燃え木",
-    "value": [
-      150,
-      150,
-      220,
-      184
-    ]
-  },
-  {
-    "name": "風林火山",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "木目変化",
-    "value": [
-      143,
-      143,
-      190,
-      190
-    ]
-  },
-  {
-    "name": "聖王のおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      153,
-      153,
-      185,
-      185
-    ]
-  },
-  {
-    "name": "カレイドスコープ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      170,
-      192,
-      157,
-      157
-    ]
-  },
-  {
-    "name": "青嵐のおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      170,
-      193,
-      153,
-      170
-    ]
-  },
-  {
-    "name": "ハルジオン",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      175,
-      175,
-      175,
-      175
-    ]
-  },
-  {
-    "name": "ラヴィアンローズ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "虹木",
-    "value": [
-      160,
-      218,
-      218,
-      160
-    ]
-  },
-  {
-    "name": "孔雀姫のおうぎ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      181,
-      218,
-      181,
-      218
-    ]
-  },
-  {
-    "name": "妖貴妃の扇",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "",
-    "value": [
-      172,
-      220,
-      220,
-      172
-    ]
-  },
-  {
-    "name": "プロセルピナ",
-    "job": "木工職人",
-    "category": "扇",
-    "characteristic": "木目変化",
-    "value": [
-      195,
-      253,
-      160,
-      195
-    ]
-  },
-  {
-    "name": "かしの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      30,
-      30,
-      30
-    ]
-  },
-  {
-    "name": "まどうしの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      30,
-      45,
-      45
-    ]
-  },
-  {
-    "name": "さばきの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      45,
-      60,
-      45
-    ]
-  },
-  {
-    "name": "あまぐもの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      44,
-      60,
-      71
-    ]
-  },
-  {
-    "name": "まふうじの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      49,
-      66,
-      82
-    ]
-  },
-  {
-    "name": "うみなりの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      60,
-      71,
-      88
-    ]
-  },
-  {
-    "name": "ようせいの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      71,
-      77,
-      93
-    ]
-  },
-  {
-    "name": "いかずちの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "燃え木",
-    "value": [
-      84,
-      96,
-      108
-    ]
-  },
-  {
-    "name": "ピオラの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "木目変化",
-    "value": [
-      80,
-      91,
-      107
-    ]
-  },
-  {
-    "name": "ルーンスタッフ",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "木目変化",
-    "value": [
-      118,
-      86,
-      97
-    ]
-  },
-  {
-    "name": "マグマの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "燃え木",
-    "value": [
-      108,
-      145,
-      121
-    ]
-  },
-  {
-    "name": "せいれいの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "木目変化",
-    "value": [
-      107,
-      118,
-      140
-    ]
-  },
-  {
-    "name": "まがんの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "燃え木",
-    "value": [
-      162,
-      150,
-      133
-    ]
-  },
-  {
-    "name": "こおりの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "木目変化",
-    "value": [
-      129,
-      140,
-      161
-    ]
-  },
-  {
-    "name": "セイレーンの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "木目変化",
-    "value": [
-      140,
-      155,
-      166
-    ]
-  },
-  {
-    "name": "アークワンド",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "燃え木",
-    "value": [
-      163,
-      187,
-      199
-    ]
-  },
-  {
-    "name": "福音の杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "再生木",
-    "value": [
-      156,
-      175,
-      199
-    ]
-  },
-  {
-    "name": "賢者の杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      166,
-      213,
-      190
-    ]
-  },
-  {
-    "name": "女神の杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      177,
-      177,
-      286
-    ]
-  },
-  {
-    "name": "ドラゴンの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      300,
-      259,
-      189
-    ]
-  },
-  {
-    "name": "聖王の杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      198,
-      228,
-      250
-    ]
-  },
-  {
-    "name": "ひかりの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      255,
-      185,
-      255
-    ]
-  },
-  {
-    "name": "イーリスの杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      270,
-      230,
-      200
-    ]
-  },
-  {
-    "name": "不死者の魔杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      260,
-      290,
-      220
-    ]
-  },
-  {
-    "name": "万物流転の杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "木目変化",
-    "value": [
-      205,
-      235,
-      265
-    ]
-  },
-  {
-    "name": "邪術皇の杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "燃え木",
-    "value": [
-      236,
-      300,
-      300
-    ]
-  },
-  {
-    "name": "エンシェントワンド",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "",
-    "value": [
-      300,
-      240,
-      300
-    ]
-  },
-  {
-    "name": "天恵石の杖",
-    "job": "木工職人",
-    "category": "両手杖",
-    "characteristic": "虹",
-    "value": [
-      250,
-      280,
-      331
-    ]
-  },
-  {
-    "name": "ローリエの小枝",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      45,
-      45
-    ]
-  },
-  {
-    "name": "ピンスティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      60,
-      60
-    ]
-  },
-  {
-    "name": "フラワースティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      60,
-      90
-    ]
-  },
-  {
-    "name": "スライムステッキ",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      71,
-      104
-    ]
-  },
-  {
-    "name": "ツインクルタクト",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      82,
-      115
-    ]
-  },
-  {
-    "name": "モーモンスティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      93,
-      126
-    ]
-  },
-  {
-    "name": "フェザースティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      104,
-      137
-    ]
-  },
-  {
-    "name": "ラブリースティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "木目変化",
-    "value": [
-      107,
-      150
-    ]
-  },
-  {
-    "name": "スラタワーステッキ",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "木目変化",
-    "value": [
-      118,
-      161
-    ]
-  },
-  {
-    "name": "まてきのスティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "燃え木",
-    "value": [
-      145,
-      193
-    ]
-  },
-  {
-    "name": "マジカルスティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "木目変化",
-    "value": [
-      188,
-      145
-    ]
-  },
-  {
-    "name": "マポレーナステッキ",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "木目変化",
-    "value": [
-      155,
-      209
-    ]
-  },
-  {
-    "name": "ペロリンステッキ",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "木目変化",
-    "value": [
-      172,
-      226
-    ]
-  },
-  {
-    "name": "パラソルスティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "木目変化",
-    "value": [
-      215,
-      215
-    ]
-  },
-  {
-    "name": "ドラゴンスティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "燃え木",
-    "value": [
-      229,
-      290
-    ]
-  },
-  {
-    "name": "ユグドラシル",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "木目変化",
-    "value": [
-      215,
-      274
-    ]
-  },
-  {
-    "name": "天使のタクト",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      232,
-      299
-    ]
-  },
-  {
-    "name": "あくまのタクト",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      294,
-      294
-    ]
-  },
-  {
-    "name": "ゴシックパラソル",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      360,
-      267
-    ]
-  },
-  {
-    "name": "タイタニアステッキ",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      340,
-      340
-    ]
-  },
-  {
-    "name": "聖王のスティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      348,
-      411
-    ]
-  },
-  {
-    "name": "ひかりのタクト",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      373,
-      303
-    ]
-  },
-  {
-    "name": "ファンタスティック",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      290,
-      396
-    ]
-  },
-  {
-    "name": "ラクリマタクト",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      343,
-      343
-    ]
-  },
-  {
-    "name": "エンシェントタクト",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "再生木",
-    "value": [
-      385,
-      335
-    ]
-  },
-  {
-    "name": "栄華の王錫",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "木目変化",
-    "value": [
-      329,
-      415
-    ]
-  },
-  {
-    "name": "リトルフェザー",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "",
-    "value": [
-      400,
-      400
-    ]
-  },
-  {
-    "name": "バージニアステッキ",
-    "job": "木工職人",
-    "category": "スティック",
-    "characteristic": "再生",
-    "value": [
-      380,
-      440
-    ]
-  },
-  {
-    "name": "じょうぶな釣りざお",
-    "job": "木工職人",
-    "category": "釣りざお",
-    "characteristic": "",
-    "value": [
-      75,
-      60,
-      75,
-      60,
-      75
-    ]
-  },
-  {
-    "name": "きれいな釣りざお",
-    "job": "木工職人",
-    "category": "釣りざお",
-    "characteristic": "",
-    "value": [
-      90,
-      101,
-      90,
-      60,
-      90
-    ]
-  },
-  {
-    "name": "炎の釣りざお",
-    "job": "木工職人",
-    "category": "釣りざお",
-    "characteristic": "燃え木",
-    "value": [
-      125,
-      100,
-      125,
-      100,
-      100
-    ]
-  },
-  {
-    "name": "氷の釣りざお",
-    "job": "木工職人",
-    "category": "釣りざお",
-    "characteristic": "再生木",
-    "value": [
-      60,
-      100,
-      120,
-      120,
-      100
-    ]
-  },
-  {
-    "name": "闇の釣りざお",
-    "job": "木工職人",
-    "category": "釣りざお",
-    "characteristic": "",
-    "value": [
-      90,
-      110,
-      110,
-      90,
-      90
-    ]
-  },
-  {
-    "name": "炎の釣りざお改",
-    "job": "木工職人",
-    "category": "釣りざお",
-    "characteristic": "燃え木",
-    "value": [
-      157,
-      90,
-      90,
-      157,
-      90
-    ]
-  },
-  {
-    "name": "氷の釣りざお改",
-    "job": "木工職人",
-    "category": "釣りざお",
-    "characteristic": "再生木",
-    "value": [
-      90,
-      110,
-      90,
-      150,
-      90
-    ]
-  },
-  {
-    "name": "闇の釣りざお改",
-    "job": "木工職人",
-    "category": "釣りざお",
-    "characteristic": "木目変化",
-    "value": [
-      105,
-      105,
-      105,
-      105,
-      99
-    ]
-  },
-  {
-    "name": "きせきの釣りざお",
-    "job": "木工職人",
-    "category": "釣りざお",
-    "characteristic": "",
-    "value": [
-      105,
-      100,
-      115,
-      115,
-      105
-    ]
-  },
-  {
-    "name": "前座芸人のうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "麻のてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "皮のてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      15,
-      15,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "若手芸人のてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      15,
-      15,
-      23,
-      15,
-      15,
-      23
-    ]
-  },
-  {
-    "name": "ぬすっとのうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      23,
-      15,
-      15,
-      23,
-      15,
-      15
-    ]
-  },
-  {
-    "name": "射手のてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      15,
-      23,
-      15,
-      15,
-      23,
-      15
-    ]
-  },
-  {
-    "name": "しゅうれん用リスト",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      30,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "サフラングローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      23,
-      30,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "初級魔法戦士グラブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      23,
-      23,
-      23,
-      23,
-      23,
-      30
-    ]
-  },
-  {
-    "name": "ダンサーリスト",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      30,
-      23,
-      23,
-      23,
-      23,
-      23
-    ]
-  },
-  {
-    "name": "はやてのグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      30,
-      23,
-      45,
-      30,
-      23,
-      45
-    ]
-  },
-  {
-    "name": "手品師のグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      45,
-      23,
-      30,
-      30,
-      23,
-      45
-    ]
-  },
-  {
-    "name": "カンフーリスト",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      38,
-      30,
-      60,
-      37,
-      30,
-      60
-    ]
-  },
-  {
-    "name": "マタドールグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      30,
-      30,
-      60,
-      45,
-      30,
-      60
-    ]
-  },
-  {
-    "name": "ウェスタングローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      40,
-      30,
-      55,
-      45,
-      30,
-      55
-    ]
-  },
-  {
-    "name": "木の葉のうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      45,
-      30,
-      55,
-      40,
-      30,
-      55
-    ]
-  },
-  {
-    "name": "けんぽうの腕帯",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      55,
-      35,
-      75,
-      55,
-      35,
-      75
-    ]
-  },
-  {
-    "name": "かたりべのてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      45,
-      45,
-      75,
-      45,
-      45,
-      75
-    ]
-  },
-  {
-    "name": "神官のてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      50,
-      40,
-      75,
-      50,
-      40,
-      75
-    ]
-  },
-  {
-    "name": "森人のてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      50,
-      35,
-      80,
-      50,
-      35,
-      80
-    ]
-  },
-  {
-    "name": "フェンサーミサンガ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      60,
-      60,
-      105,
-      60,
-      60,
-      105
-    ]
-  },
-  {
-    "name": "きじゅつしグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      70,
-      45,
-      110,
-      70,
-      45,
-      110
-    ]
-  },
-  {
-    "name": "司祭のてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      75,
-      45,
-      105,
-      105,
-      45,
-      75
-    ]
-  },
-  {
-    "name": "マスターアーム",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      85,
-      50,
-      115,
-      85,
-      50,
-      115
-    ]
-  },
-  {
-    "name": "無法者のうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      60,
-      120,
-      70,
-      60,
-      120,
-      70
-    ]
-  },
-  {
-    "name": "聖者のてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      90,
-      60,
-      125,
-      90,
-      60,
-      125
-    ]
-  },
-  {
-    "name": "トレジャーグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      85,
-      70,
-      120,
-      120,
-      70,
-      85
-    ]
-  },
-  {
-    "name": "拳聖のうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      85,
-      130,
-      85,
-      85,
-      130,
-      85
-    ]
-  },
-  {
-    "name": "原始獣のグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "再生布",
-    "value": [
-      100,
-      50,
-      150,
-      100,
-      50,
-      150
-    ]
-  },
-  {
-    "name": "モダンバニーブレス",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      105,
-      70,
-      155,
-      105,
-      70,
-      155
-    ]
-  },
-  {
-    "name": "古武道のうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      105,
-      105,
-      110,
-      105,
-      105,
-      110
-    ]
-  },
-  {
-    "name": "クラウングローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      85,
-      75,
-      130,
-      90,
-      140,
-      120
-    ]
-  },
-  {
-    "name": "ミラクルグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      110,
-      84,
-      140,
-      90,
-      160,
-      120
-    ]
-  },
-  {
-    "name": "古代魔術のうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      70,
-      110,
-      140,
-      70,
-      110,
-      140
-    ]
-  },
-  {
-    "name": "求道者のてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      120,
-      60,
-      160,
-      120,
-      60,
-      160
-    ]
-  },
-  {
-    "name": "アイドルブレス",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "チェイサーアーム",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      110,
-      70,
-      130,
-      90,
-      170,
-      110
-    ]
-  },
-  {
-    "name": "大賢者のグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "だいまどうのうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      120,
-      94,
-      160,
-      94,
-      120,
-      160
-    ]
-  },
-  {
-    "name": "歌詠みのブレス",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      115,
-      70,
-      155,
-      115,
-      155,
-      70
-    ]
-  },
-  {
-    "name": "ひつじのてぶくろ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      100,
-      110,
-      140,
-      100,
-      110,
-      140
-    ]
-  },
-  {
-    "name": "さとりのグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      100,
-      125,
-      160,
-      100,
-      125,
-      160
-    ]
-  },
-  {
-    "name": "ステージリスト",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      105,
-      140,
-      105,
-      105,
-      140,
-      105
-    ]
-  },
-  {
-    "name": "ステージアーム",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      80,
-      120,
-      150,
-      80,
-      120,
-      150
-    ]
-  },
-  {
-    "name": "タイフーングローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      125,
-      95,
-      165,
-      125,
-      95,
-      165
-    ]
-  },
-  {
-    "name": "退魔のうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      130,
-      130,
-      165,
-      90,
-      165,
-      90
-    ]
-  },
-  {
-    "name": "レイブングローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      120,
-      80,
-      150,
-      120,
-      80,
-      150
-    ]
-  },
-  {
-    "name": "聖賢者のバングル",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      143,
-      110,
-      143,
-      143,
-      110,
-      143
-    ]
-  },
-  {
-    "name": "黄竜のうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      125,
-      90,
-      145,
-      125,
-      90,
-      145
-    ]
-  },
-  {
-    "name": "古代王族のバングル",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      135,
-      90,
-      171,
-      135,
-      90,
-      171
-    ]
-  },
-  {
-    "name": "獄獣のうであて",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      145,
-      110,
-      125,
-      145,
-      110,
-      125
-    ]
-  },
-  {
-    "name": "精霊王のグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      183,
-      135,
-      100,
-      100,
-      135,
-      183
-    ]
-  },
-  {
-    "name": "舞い手のリスト",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      140,
-      112,
-      166,
-      112,
-      140,
-      166
-    ]
-  },
-  {
-    "name": "風虎のうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      150,
-      110,
-      130,
-      130,
-      110,
-      150
-    ]
-  },
-  {
-    "name": "究明者のグローブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      174,
-      115,
-      140,
-      115,
-      140,
-      174
-    ]
-  },
-  {
-    "name": "神託のブレス",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      135,
-      105,
-      189,
-      135,
-      105,
-      189
-    ]
-  },
-  {
-    "name": "トーテムブレス",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      135,
-      100,
-      165,
-      135,
-      100,
-      165
-    ]
-  },
-  {
-    "name": "フォーチュングラブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": [
-      170,
-      125,
-      145,
-      125,
-      145,
-      170
-    ]
-  },
-  {
-    "name": "武神の腕帯",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "ヴァンガードグラブ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "賢哲のうでわ",
-    "job": "さいほう職人",
-    "category": "ウデ",
-    "characteristic": "",
-    "value": []
-  },
-  {
-    "name": "青竹の弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      22,
-      22,
-      33,
-      22,
-      22
-    ]
-  },
-  {
-    "name": "若木の弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      33,
-      22,
-      22,
-      33,
-      22
-    ]
-  },
-  {
-    "name": "古木の弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      33,
-      33,
-      22,
-      33,
-      33
-    ]
-  },
-  {
-    "name": "ロングボウ",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      33,
-      33,
-      45,
-      33,
-      33
-    ]
-  },
-  {
-    "name": "したんの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      45,
-      33,
-      45,
-      45,
-      33
-    ]
-  },
-  {
-    "name": "かりうどの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      55,
-      33,
-      45,
-      55,
-      33
-    ]
-  },
-  {
-    "name": "こあくまの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      45,
-      60,
-      33,
-      60,
-      45
-    ]
-  },
-  {
-    "name": "エロスの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "木目変化",
-    "value": [
-      53,
-      44,
-      58,
-      53,
-      44
-    ]
-  },
-  {
-    "name": "かぜきりの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "燃え木",
-    "value": [
-      66,
-      49,
-      82,
-      66,
-      49
-    ]
-  },
-  {
-    "name": "ゆうわくの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "木目変化",
-    "value": [
-      68,
-      49,
-      64,
-      68,
-      49
-    ]
-  },
-  {
-    "name": "白鳥の弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "木目変化",
-    "value": [
-      68,
-      58,
-      78,
-      58,
-      68
-    ]
-  },
-  {
-    "name": "月光の弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "木目変化",
-    "value": [
-      64,
-      78,
-      78,
-      64,
-      78
-    ]
-  },
-  {
-    "name": "むげんの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "燃え木",
-    "value": [
-      96,
-      71,
-      110,
-      96,
-      71
-    ]
-  },
-  {
-    "name": "ナイトスナイパー",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "木目変化",
-    "value": [
-      88,
-      68,
-      93,
-      112,
-      68
-    ]
-  },
-  {
-    "name": "すざくの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "燃え木",
-    "value": [
-      110,
-      79,
-      140,
-      110,
-      79
-    ]
-  },
-  {
-    "name": "ケイロンの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "木目変化",
-    "value": [
-      98,
-      78,
-      137,
-      98,
-      78
-    ]
-  },
-  {
-    "name": "アルテミスの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "再生木",
-    "value": [
-      114,
-      95,
-      142,
-      99,
-      80
-    ]
-  },
-  {
-    "name": "バジリスクの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "再生木",
-    "value": [
-      114,
-      85,
-      152,
-      123,
-      95
-    ]
-  },
-  {
-    "name": "じごくの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "燃え木",
-    "value": [
-      132,
-      99,
-      220,
-      143,
-      110
-    ]
-  },
-  {
-    "name": "天使の弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      135,
-      110,
-      176,
-      135,
-      110
-    ]
-  },
-  {
-    "name": "聖王の弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      150,
-      95,
-      200,
-      150,
-      95
-    ]
-  },
-  {
-    "name": "オーディンボウ",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      130,
-      130,
-      239,
-      130,
-      130
-    ]
-  },
-  {
-    "name": "アンフィスバエナ",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      110,
-      145,
-      190,
-      145,
-      110
-    ]
-  },
-  {
-    "name": "オルフェウスの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      150,
-      125,
-      150,
-      150,
-      125
-    ]
-  },
-  {
-    "name": "あやかしの魔弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "虹木",
-    "value": [
-      155,
-      120,
-      206,
-      155,
-      120
-    ]
-  },
-  {
-    "name": "スライムショット",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      155,
-      120,
-      210,
-      155,
-      120
-    ]
-  },
-  {
-    "name": "魔弓サジタリウス",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "",
-    "value": [
-      165,
-      135,
-      240,
-      165,
-      135
-    ]
-  },
-  {
-    "name": "ヒュドラの弓",
-    "job": "木工職人",
-    "category": "弓",
-    "characteristic": "燃え木",
-    "value": [
-      140,
-      186,
-      250,
-      186,
-      140
-    ]
-  }
+	{
+		"name": "皮のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "前座芸人のながぐつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "麻のくつ ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "若手芸人のながぐつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			23,
+			30
+		]
+	},
+	{
+		"name": "ぬすっとのくつ ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			30,
+			23
+		]
+	},
+	{
+		"name": "いやしのブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			30,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "きぬのサンダル ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			23,
+			30,
+			23,
+			23
+		]
+	},
+	{
+		"name": "射手のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			30,
+			23
+		]
+	},
+	{
+		"name": "しゅうれん用ブーツ ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			23,
+			30,
+			45,
+			45
+		]
+	},
+	{
+		"name": "サフランブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			30,
+			45,
+			45,
+			23
+		]
+	},
+	{
+		"name": "くすしのくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			40,
+			23,
+			50,
+			30
+		]
+	},
+	{
+		"name": "初級魔法戦士のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			30,
+			23,
+			45,
+			45
+		]
+	},
+	{
+		"name": "ダンサーシューズ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			40,
+			23,
+			30,
+			50
+		]
+	},
+	{
+		"name": "はやてのブーツ ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			45,
+			45,
+			45,
+			60
+		]
+	},
+	{
+		"name": "みかわしのくつ ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			45,
+			30,
+			60,
+			60
+		]
+	},
+	{
+		"name": "手品師のブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			75,
+			75
+		]
+	},
+	{
+		"name": "学者の脚帯",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			45,
+			45,
+			60,
+			45
+		]
+	},
+	{
+		"name": "カンフーシューズ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			45,
+			45,
+			75,
+			90
+		]
+	},
+	{
+		"name": "マタドールシューズ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			45,
+			30,
+			90,
+			90
+		]
+	},
+	{
+		"name": "まじないしのくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			75,
+			45,
+			60,
+			75
+		]
+	},
+	{
+		"name": "まもりのくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			75,
+			75,
+			45,
+			60
+		]
+	},
+	{
+		"name": "ウェスタンブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			50,
+			55,
+			75,
+			75
+		]
+	},
+	{
+		"name": "木の葉のブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			60,
+			45,
+			75,
+			75
+		]
+	},
+	{
+		"name": "けんぽうの脚帯",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			60,
+			60,
+			105,
+			105
+		]
+	},
+	{
+		"name": "かたりべのブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			75,
+			75,
+			90,
+			90
+		]
+	},
+	{
+		"name": "神官のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			75,
+			90,
+			90,
+			75
+		]
+	},
+	{
+		"name": "まどうしのくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			105,
+			90,
+			75,
+			60
+		]
+	},
+	{
+		"name": "森人のながぐつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			90,
+			90,
+			75,
+			75
+		]
+	},
+	{
+		"name": "フェンサーブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			85,
+			85,
+			140,
+			140
+		]
+	},
+	{
+		"name": "きじゅつしのブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			95,
+			130,
+			130,
+			95
+		]
+	},
+	{
+		"name": "司祭のブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			120,
+			140,
+			100,
+			90
+		]
+	},
+	{
+		"name": "ホーリーブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			115,
+			115,
+			115,
+			115
+		]
+	},
+	{
+		"name": "水の脚帯",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			95,
+			95,
+			130,
+			130
+		]
+	},
+	{
+		"name": "しんりのくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			110,
+			110,
+			140,
+			140
+		]
+	},
+	{
+		"name": "マスターシューズ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			150,
+			100,
+			150,
+			100
+		]
+	},
+	{
+		"name": "無法者のブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			100,
+			100,
+			150,
+			150
+		]
+	},
+	{
+		"name": "占星術師のブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			175,
+			125,
+			125,
+			125
+		]
+	},
+	{
+		"name": "トレジャーブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			110,
+			110,
+			165,
+			165
+		]
+	},
+	{
+		"name": "聖者のブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			100,
+			175,
+			175,
+			100
+		]
+	},
+	{
+		"name": "インテリサンダル",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			150,
+			150,
+			152,
+			153
+		]
+	},
+	{
+		"name": "拳聖のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			135,
+			135,
+			165,
+			165
+		]
+	},
+	{
+		"name": "月のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			120,
+			120,
+			180,
+			180
+		]
+	},
+	{
+		"name": "原始獣のブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "再生布",
+		"value": [
+			170,
+			170,
+			130,
+			130
+		]
+	},
+	{
+		"name": "モダンバニーのくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			135,
+			180,
+			210,
+			135
+		]
+	},
+	{
+		"name": "クラウンシューズ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			200,
+			200,
+			120,
+			120
+		]
+	},
+	{
+		"name": "ミラクルブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			104,
+			130,
+			300,
+			170
+		]
+	},
+	{
+		"name": "王宮魔術師のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			200,
+			152,
+			152,
+			200
+		]
+	},
+	{
+		"name": "古代魔術のながぐつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			130,
+			130,
+			170,
+			170
+		]
+	},
+	{
+		"name": "古武道のブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			100,
+			150,
+			180,
+			210
+		]
+	},
+	{
+		"name": "求道者のブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			140,
+			140,
+			200,
+			200
+		]
+	},
+	{
+		"name": "チェイサーブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			130,
+			210,
+			210,
+			130
+		]
+	},
+	{
+		"name": "大賢者のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			100,
+			140,
+			250,
+			190
+		]
+	},
+	{
+		"name": "だいまどうのくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			150,
+			165,
+			185,
+			248
+		]
+	},
+	{
+		"name": "歌詠みの脚帯",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			185,
+			155,
+			155,
+			185
+		]
+	},
+	{
+		"name": "アイドルブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			140,
+			140,
+			234,
+			234
+		]
+	},
+	{
+		"name": "ひつじのくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			160,
+			190,
+			190,
+			160
+		]
+	},
+	{
+		"name": "さとりのブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			240,
+			240,
+			145,
+			145
+		]
+	},
+	{
+		"name": "ステージシューズ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			140,
+			140,
+			210,
+			210
+		]
+	},
+	{
+		"name": "ステージブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			200,
+			200,
+			150,
+			150
+		]
+	},
+	{
+		"name": "タイフーンブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			140,
+			140,
+			280,
+			210
+		]
+	},
+	{
+		"name": "退魔のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			170,
+			170,
+			215,
+			215
+		]
+	},
+	{
+		"name": "レイブンブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			160,
+			160,
+			160,
+			220
+		]
+	},
+	{
+		"name": "聖賢者のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			150,
+			150,
+			246,
+			246
+		]
+	},
+	{
+		"name": "黄竜のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			155,
+			205,
+			205,
+			155
+		]
+	},
+	{
+		"name": "古代王族のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			198,
+			198,
+			198,
+			198
+		]
+	},
+	{
+		"name": "獄獣のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			165,
+			165,
+			215,
+			215
+		]
+	},
+	{
+		"name": "精霊王の脚帯",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			209,
+			209,
+			209,
+			209
+		]
+	},
+	{
+		"name": "舞い手のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			178,
+			240,
+			240,
+			178
+		]
+	},
+	{
+		"name": "風虎のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			220,
+			170,
+			170,
+			220
+		]
+	},
+	{
+		"name": "究明者のシューズ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			215,
+			215,
+			215,
+			215
+		]
+	},
+	{
+		"name": "神託のサンダル",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			185,
+			185,
+			244,
+			244
+		]
+	},
+	{
+		"name": "トーテムサンダル",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			200,
+			200,
+			200,
+			200
+		]
+	},
+	{
+		"name": "巨商のサンダル",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			185,
+			185,
+			255,
+			255
+		]
+	},
+	{
+		"name": "フォーチュンブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			250,
+			190,
+			190,
+			250
+		]
+	},
+	{
+		"name": "武神の脚帯",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			185,
+			185,
+			235,
+			235
+		]
+	},
+	{
+		"name": "ヴァンガードブーツ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			261,
+			201,
+			201,
+			261
+		]
+	},
+	{
+		"name": "賢哲のくつ",
+		"job": "さいほう職人",
+		"category": "足",
+		"characteristic": "",
+		"value": [
+			231,
+			231,
+			231,
+			231
+		]
+	},
+	{
+		"name": "皮のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "前座芸人のバンダナ",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "麻のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "若手芸人のバンダナ",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			30,
+			23
+		]
+	},
+	{
+		"name": "ぬすっとずきん",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			23,
+			30,
+			23,
+			23
+		]
+	},
+	{
+		"name": "いやしのぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			23,
+			30
+		]
+	},
+	{
+		"name": "きぬのぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			30,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "射手のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			30,
+			23
+		]
+	},
+	{
+		"name": "しゅうれん用バンド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			23,
+			30,
+			45,
+			45
+		]
+	},
+	{
+		"name": "サフランハット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			45,
+			23,
+			45,
+			30
+		]
+	},
+	{
+		"name": "くすしのぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			30,
+			45,
+			45,
+			23
+		]
+	},
+	{
+		"name": "初級魔法戦士ベレー",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			30,
+			23,
+			45,
+			45
+		]
+	},
+	{
+		"name": "ダンサーヘアバンド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			23,
+			45,
+			45,
+			30
+		]
+	},
+	{
+		"name": "はやてのバンダナ",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			45,
+			30,
+			75,
+			45
+		]
+	},
+	{
+		"name": "みかわしのぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			45,
+			45,
+			60,
+			45
+		]
+	},
+	{
+		"name": "手品師のヘアバンド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			30,
+			45,
+			75,
+			45
+		]
+	},
+	{
+		"name": "学者のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			45,
+			45,
+			75,
+			30
+		]
+	},
+	{
+		"name": "カンフーキャップ",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			45,
+			60,
+			90,
+			60
+		]
+	},
+	{
+		"name": "マタドールバンド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			60,
+			45,
+			90,
+			60
+		]
+	},
+	{
+		"name": "まじないしターバン",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			60,
+			60,
+			90,
+			45
+		]
+	},
+	{
+		"name": "まもりのぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			75,
+			45,
+			75,
+			60
+		]
+	},
+	{
+		"name": "ウェスタンハット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			60,
+			60,
+			75,
+			60
+		]
+	},
+	{
+		"name": "木の葉のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			45,
+			60,
+			75,
+			75
+		]
+	},
+	{
+		"name": "かたりべのぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "虹布",
+		"value": [
+			60,
+			90,
+			105,
+			75
+		]
+	},
+	{
+		"name": "神官のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			90,
+			75,
+			90,
+			75
+		]
+	},
+	{
+		"name": "まどうしのぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "虹布",
+		"value": [
+			105,
+			60,
+			105,
+			60
+		]
+	},
+	{
+		"name": "森人のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			60,
+			75,
+			105,
+			90
+		]
+	},
+	{
+		"name": "フェンサーハット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			120,
+			105,
+			120,
+			105
+		]
+	},
+	{
+		"name": "きじゅつしのぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			90,
+			105,
+			135,
+			120
+		]
+	},
+	{
+		"name": "司祭のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			112,
+			112,
+			112,
+			112
+		]
+	},
+	{
+		"name": "ホーリーカロット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			125,
+			75,
+			175,
+			75
+		]
+	},
+	{
+		"name": "水のサークレット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "虹布",
+		"value": [
+			60,
+			120,
+			150,
+			120
+		]
+	},
+	{
+		"name": "しんりのぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "虹布",
+		"value": [
+			110,
+			100,
+			150,
+			140
+		]
+	},
+	{
+		"name": "マスターハット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			125,
+			125,
+			125,
+			125
+		]
+	},
+	{
+		"name": "無法者のバンダナ",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			100,
+			125,
+			150,
+			125
+		]
+	},
+	{
+		"name": "占星術師のターバン",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "虹布",
+		"value": [
+			125,
+			125,
+			175,
+			125
+		]
+	},
+	{
+		"name": "トレジャーキャップ",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			175,
+			100,
+			175,
+			100
+		]
+	},
+	{
+		"name": "聖者のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			130,
+			120,
+			160,
+			140
+		]
+	},
+	{
+		"name": "インテリハット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "虹布",
+		"value": [
+			125,
+			160,
+			160,
+			160
+		]
+	},
+	{
+		"name": "拳聖のターバン",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			150,
+			130,
+			190,
+			130
+		]
+	},
+	{
+		"name": "月のサークレット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			150,
+			150,
+			150,
+			150
+		]
+	},
+	{
+		"name": "原始獣のシャプカ",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			180,
+			120,
+			180,
+			120
+		]
+	},
+	{
+		"name": "モダンバニーヘッド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "虹布",
+		"value": [
+			120,
+			180,
+			180,
+			180
+		]
+	},
+	{
+		"name": "クラウンハット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			200,
+			150,
+			140,
+			150
+		]
+	},
+	{
+		"name": "ミラクルハット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			150,
+			200,
+			254,
+			100
+		]
+	},
+	{
+		"name": "王宮魔術師帽",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			176,
+			176,
+			176,
+			176
+		]
+	},
+	{
+		"name": "古武道のずきん",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			140,
+			200,
+			100,
+			200
+		]
+	},
+	{
+		"name": "古代魔術のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			120,
+			180,
+			160,
+			180
+		]
+	},
+	{
+		"name": "だいまどうのぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			150,
+			170,
+			258,
+			170
+		]
+	},
+	{
+		"name": "求道者のはちまき",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "再生布",
+		"value": [
+			170,
+			170,
+			170,
+			170
+		]
+	},
+	{
+		"name": "歌詠みのヘアバンド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			160,
+			150,
+			200,
+			170
+		]
+	},
+	{
+		"name": "チェイサーバンド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			150,
+			200,
+			130,
+			200
+		]
+	},
+	{
+		"name": "大賢者のミトラ",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			200,
+			160,
+			160,
+			160
+		]
+	},
+	{
+		"name": "アイドルヘアバンド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			190,
+			170,
+			218,
+			170
+		]
+	},
+	{
+		"name": "ひつじのずきん",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			100,
+			210,
+			180,
+			210
+		]
+	},
+	{
+		"name": "さとりのかんむり",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			140,
+			200,
+			230,
+			200
+		]
+	},
+	{
+		"name": "ステージバンド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			175,
+			175,
+			175,
+			175
+		]
+	},
+	{
+		"name": "ステージリボン",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			220,
+			160,
+			160,
+			160
+		]
+	},
+	{
+		"name": "タイフーンゴーグル",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			130,
+			220,
+			200,
+			220
+		]
+	},
+	{
+		"name": "退魔のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			160,
+			180,
+			250,
+			180
+		]
+	},
+	{
+		"name": "レイブンヘッド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			130,
+			170,
+			230,
+			170
+		]
+	},
+	{
+		"name": "聖賢者のミトラ",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			160,
+			226,
+			180,
+			226
+		]
+	},
+	{
+		"name": "黄竜のはちまき",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			210,
+			150,
+			210,
+			150
+		]
+	},
+	{
+		"name": "古代王族のターバン",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			160,
+			190,
+			252,
+			190
+		]
+	},
+	{
+		"name": "獄獣のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			174,
+			174,
+			238,
+			174
+		]
+	},
+	{
+		"name": "舞い手のヘアバンド",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			216,
+			180,
+			260,
+			180
+		]
+	},
+	{
+		"name": "風虎のはちがね",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			180,
+			180,
+			240,
+			180
+		]
+	},
+	{
+		"name": "究明者のフード",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			175,
+			215,
+			253,
+			215
+		]
+	},
+	{
+		"name": "神託のぼうし",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			239,
+			190,
+			239,
+			190
+		]
+	},
+	{
+		"name": "トーテムクラウン",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			200,
+			200,
+			200,
+			200
+		]
+	},
+	{
+		"name": "巨商のターバン",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			240,
+			170,
+			300,
+			170
+		]
+	},
+	{
+		"name": "ヴァンガードハット",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "虹布",
+		"value": [
+			194,
+			230,
+			270,
+			230
+		]
+	},
+	{
+		"name": "賢哲のターバン",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "虹布",
+		"value": [
+			231,
+			231,
+			231,
+			231
+		]
+	},
+	{
+		"name": "妖炎魔女の髪飾り",
+		"job": "さいほう職人",
+		"category": "アタマ",
+		"characteristic": "",
+		"value": [
+			220,
+			220,
+			220,
+			400
+		]
+	},
+	{
+		"name": "前座芸人のズボン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "麻の短パン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "皮のズボン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "若手芸人のズボン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "ぬすっとタイツ",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			23,
+			23
+		]
+	},
+	{
+		"name": "いやしのズボン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			23,
+			15,
+			15,
+			15,
+			15,
+			23
+		]
+	},
+	{
+		"name": "きぬのローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			23,
+			23,
+			15,
+			15
+		]
+	},
+	{
+		"name": "射手のタイツ",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			15,
+			23,
+			15,
+			15,
+			23,
+			15
+		]
+	},
+	{
+		"name": "しゅうれんぎ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			30,
+			23,
+			23,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "サフランローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			30,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "くすしのローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			23,
+			23,
+			23,
+			30
+		]
+	},
+	{
+		"name": "初級魔法戦士タイツ",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			23,
+			30,
+			23,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "ダンサーパンツ",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			23,
+			30,
+			23,
+			23
+		]
+	},
+	{
+		"name": "はやてのキュロット",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			35,
+			35,
+			40,
+			40,
+			23,
+			23
+		]
+	},
+	{
+		"name": "みかわしの服下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			40,
+			40,
+			35,
+			35,
+			23,
+			23
+		]
+	},
+	{
+		"name": "手品師のタイツ",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			35,
+			35,
+			40,
+			40
+		]
+	},
+	{
+		"name": "学者のころも下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			35,
+			40,
+			40,
+			35,
+			23,
+			23
+		]
+	},
+	{
+		"name": "カンフーズボン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			75,
+			30,
+			45,
+			45,
+			30,
+			30
+		]
+	},
+	{
+		"name": "マタドールスーツ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			38,
+			37,
+			60,
+			60,
+			30,
+			30
+		]
+	},
+	{
+		"name": "まじないしローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			60,
+			30,
+			38,
+			37,
+			30,
+			60
+		]
+	},
+	{
+		"name": "ウェスタンスパッツ",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			55,
+			50,
+			45,
+			45,
+			30,
+			30
+		]
+	},
+	{
+		"name": "木の葉のよろい下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			45,
+			60,
+			45,
+			45,
+			30,
+			30
+		]
+	},
+	{
+		"name": "けんぽうぎ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			65,
+			65,
+			55,
+			55,
+			45,
+			45
+		]
+	},
+	{
+		"name": "かたりべの服下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			70,
+			75,
+			60,
+			55,
+			35,
+			35
+		]
+	},
+	{
+		"name": "神官のほうい下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			45,
+			45,
+			55,
+			55,
+			65,
+			65
+		]
+	},
+	{
+		"name": "まどうしのころも下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			70,
+			70,
+			50,
+			60,
+			45,
+			35
+		]
+	},
+	{
+		"name": "森人の前かけ",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			70,
+			70,
+			55,
+			55,
+			40,
+			40
+		]
+	},
+	{
+		"name": "きじゅつしのズボン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			100,
+			50,
+			75,
+			100,
+			50,
+			75
+		]
+	},
+	{
+		"name": "ホーリーローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			130,
+			90,
+			65,
+			65,
+			50,
+			50
+		]
+	},
+	{
+		"name": "水のはごろも下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			60,
+			60,
+			75,
+			75,
+			90,
+			90
+		]
+	},
+	{
+		"name": "しんりのローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			60,
+			60,
+			75,
+			75,
+			115,
+			115
+		]
+	},
+	{
+		"name": "マスタースラックス",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			83,
+			83,
+			83,
+			83,
+			83,
+			83
+		]
+	},
+	{
+		"name": "無法者のズボン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			110,
+			110,
+			80,
+			80,
+			60,
+			60
+		]
+	},
+	{
+		"name": "占星術師のローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			120,
+			120,
+			90,
+			90,
+			65,
+			65
+		]
+	},
+	{
+		"name": "トレジャーコート下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			105,
+			105,
+			90,
+			90,
+			80,
+			80
+		]
+	},
+	{
+		"name": "インテリローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			140,
+			140,
+			92,
+			93,
+			70,
+			70
+		]
+	},
+	{
+		"name": "拳聖の道着下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			170,
+			90,
+			70,
+			70,
+			80,
+			120
+		]
+	},
+	{
+		"name": "月のローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			160,
+			100,
+			90,
+			75,
+			100,
+			75
+		]
+	},
+	{
+		"name": "原始獣のコート下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			70,
+			70,
+			90,
+			90,
+			140,
+			140
+		]
+	},
+	{
+		"name": "モダンバニータイツ",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			160,
+			110,
+			70,
+			80,
+			90,
+			150
+		]
+	},
+	{
+		"name": "モダンバニーフレア",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			110,
+			110,
+			110,
+			110,
+			110,
+			110
+		]
+	},
+	{
+		"name": "クラウンズボン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			140,
+			140,
+			105,
+			105,
+			75,
+			75
+		]
+	},
+	{
+		"name": "古代魔術のほうい下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			120,
+			90,
+			90,
+			130,
+			120,
+			90
+		]
+	},
+	{
+		"name": "王宮魔術師ローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			152,
+			152,
+			120,
+			120,
+			80,
+			80
+		]
+	},
+	{
+		"name": "古武道着下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "再生布",
+		"value": [
+			135,
+			80,
+			105,
+			105,
+			80,
+			135
+		]
+	},
+	{
+		"name": "ミラクルコート下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			200,
+			80,
+			74,
+			120,
+			140,
+			90
+		]
+	},
+	{
+		"name": "求道者の道着下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			150,
+			150,
+			110,
+			110,
+			80,
+			80
+		]
+	},
+	{
+		"name": "アイドルスーツ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "虹布",
+		"value": [
+			188,
+			100,
+			110,
+			90,
+			140,
+			120
+		]
+	},
+	{
+		"name": "チェイサーレザー下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			140,
+			140,
+			110,
+			110,
+			90,
+			90
+		]
+	},
+	{
+		"name": "だいまどうローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			160,
+			94,
+			120,
+			120,
+			94,
+			160
+		]
+	},
+	{
+		"name": "歌詠みのころも下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			85,
+			85,
+			105,
+			105,
+			150,
+			150
+		]
+	},
+	{
+		"name": "ひつじのころも下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			110,
+			110,
+			120,
+			120,
+			120
+		]
+	},
+	{
+		"name": "ステージパンツ",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			150,
+			150,
+			120,
+			120,
+			80,
+			80
+		]
+	},
+	{
+		"name": "ステージチュチュ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			200,
+			80,
+			70,
+			120,
+			140,
+			90
+		]
+	},
+	{
+		"name": "タイフーンレザー下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			160,
+			160,
+			125,
+			125,
+			100,
+			100
+		]
+	},
+	{
+		"name": "退魔の装束下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			105,
+			150,
+			150,
+			130,
+			130,
+			105
+		]
+	},
+	{
+		"name": "聖賢者のローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			100,
+			100,
+			130,
+			130,
+			166,
+			166
+		]
+	},
+	{
+		"name": "古代王族のボトムス",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			130,
+			130,
+			170,
+			170,
+			96,
+			96
+		]
+	},
+	{
+		"name": "獄獣のズボン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			125,
+			150,
+			150,
+			125,
+			105,
+			105
+		]
+	},
+	{
+		"name": "精霊王のクローク下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			171,
+			171,
+			136,
+			136,
+			111,
+			111
+		]
+	},
+	{
+		"name": "舞い手のズボン",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			118,
+			170,
+			170,
+			130,
+			130,
+			118
+		]
+	},
+	{
+		"name": "究明者のコート下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			170,
+			170,
+			140,
+			140,
+			120,
+			120
+		]
+	},
+	{
+		"name": "神託のローブ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			145,
+			185,
+			185,
+			145,
+			100,
+			100
+		]
+	},
+	{
+		"name": "トーテムケープ下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			100,
+			130,
+			130,
+			170,
+			170,
+			100
+		]
+	},
+	{
+		"name": "巨商の前かけ",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			150,
+			185,
+			185,
+			150,
+			105,
+			105
+		]
+	},
+	{
+		"name": "フォーチュンボトム",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			170,
+			170,
+			145,
+			145,
+			125,
+			125
+		]
+	},
+	{
+		"name": "武神の道着下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": []
+	},
+	{
+		"name": "賢哲のころも下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			140,
+			96,
+			96,
+			60,
+			140,
+			60,
+			96,
+			96,
+			140
+		]
+	},
+	{
+		"name": "妖炎魔女のドレス下",
+		"job": "さいほう職人",
+		"category": "からだ下",
+		"characteristic": "",
+		"value": [
+			250,
+			250,
+			150,
+			130,
+			130,
+			150
+		]
+	},
+	{
+		"name": "皮のよろい",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "前座芸人の服",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "麻の服",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "星天の衣",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "七夕イベント装備",
+		"value": [
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "若手芸人の服",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			23,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "ぬすっとの服",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			23
+		]
+	},
+	{
+		"name": "いやしの服",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			23,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "きぬのローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			23,
+			15,
+			15
+		]
+	},
+	{
+		"name": "射手の服",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			23,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "しゅうれんぎ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			23,
+			15,
+			15,
+			15,
+			15,
+			15,
+			23,
+			15,
+			23
+		]
+	},
+	{
+		"name": "サフランローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			23,
+			15,
+			15,
+			15,
+			23,
+			15,
+			23
+		]
+	},
+	{
+		"name": "くすしのローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			30,
+			15,
+			23
+		]
+	},
+	{
+		"name": "初級魔法戦士服",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			30,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			15,
+			23
+		]
+	},
+	{
+		"name": "ダンサーシャツ",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			30,
+			15,
+			15,
+			15,
+			15,
+			15,
+			23
+		]
+	},
+	{
+		"name": "はやてのベスト",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "みかわしの服上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "手品師の服",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "学者のころも上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "カンフージャケット",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			30,
+			23,
+			30,
+			23,
+			23,
+			23,
+			40,
+			23,
+			40
+		]
+	},
+	{
+		"name": "マタドールスーツ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			35,
+			23,
+			35,
+			23,
+			23,
+			23,
+			35,
+			23,
+			35
+		]
+	},
+	{
+		"name": "まじないしローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			40,
+			23,
+			23,
+			23,
+			23,
+			30,
+			30,
+			23,
+			40
+		]
+	},
+	{
+		"name": "まもりのローブ",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			30,
+			23,
+			30,
+			23,
+			23,
+			23,
+			30,
+			23,
+			50
+		]
+	},
+	{
+		"name": "ウェスタンブラウス",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			30,
+			23,
+			30,
+			23,
+			23,
+			23,
+			50,
+			23,
+			30
+		]
+	},
+	{
+		"name": "木の葉のよろい上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			30,
+			23,
+			50,
+			23,
+			23,
+			23,
+			30,
+			23,
+			30
+		]
+	},
+	{
+		"name": "けんぽうぎ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			40,
+			32,
+			40,
+			32,
+			32,
+			32,
+			45,
+			32,
+			45
+		]
+	},
+	{
+		"name": "かたりべの服上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			32,
+			32,
+			40,
+			40,
+			32,
+			32,
+			45,
+			32,
+			45
+		]
+	},
+	{
+		"name": "神官のほうい上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			40,
+			32,
+			40,
+			32,
+			32,
+			32,
+			40,
+			32,
+			50
+		]
+	},
+	{
+		"name": "まどうしのころも上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			32,
+			32,
+			32,
+			32,
+			32,
+			32,
+			53,
+			32,
+			53
+		]
+	},
+	{
+		"name": "森人のチョッキ",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			45,
+			32,
+			45,
+			32,
+			32,
+			32,
+			40,
+			32,
+			40
+		]
+	},
+	{
+		"name": "フェンサーマント",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			55,
+			35,
+			70,
+			45,
+			40,
+			45,
+			70,
+			35,
+			55
+		]
+	},
+	{
+		"name": "きじゅつしの服",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			60,
+			35,
+			50,
+			45,
+			40,
+			45,
+			70,
+			35,
+			70
+		]
+	},
+	{
+		"name": "水のはごろも上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			70,
+			35,
+			70,
+			45,
+			40,
+			45,
+			55,
+			35,
+			55
+		]
+	},
+	{
+		"name": "司祭のほうい",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			60,
+			35,
+			60,
+			40,
+			50,
+			40,
+			60,
+			35,
+			70
+		]
+	},
+	{
+		"name": "ホーリーローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			55,
+			35,
+			55,
+			50,
+			40,
+			50,
+			65,
+			35,
+			65
+		]
+	},
+	{
+		"name": "しんりのローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			65,
+			35,
+			65,
+			50,
+			40,
+			50,
+			80,
+			35,
+			80
+		]
+	},
+	{
+		"name": "マスターベスト",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			70,
+			35,
+			70,
+			55,
+			40,
+			55,
+			70,
+			35,
+			70
+		]
+	},
+	{
+		"name": "無法者のベスト",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			80,
+			35,
+			70,
+			45,
+			50,
+			45,
+			60,
+			35,
+			80
+		]
+	},
+	{
+		"name": "占星術師のローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			65,
+			40,
+			65,
+			55,
+			50,
+			55,
+			90,
+			40,
+			90
+		]
+	},
+	{
+		"name": "トレジャーコート上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			100,
+			40,
+			50,
+			60,
+			50,
+			60,
+			50,
+			40,
+			100
+		]
+	},
+	{
+		"name": "聖者のほうい",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			75,
+			40,
+			75,
+			60,
+			50,
+			60,
+			75,
+			40,
+			75
+		]
+	},
+	{
+		"name": "インテリローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			70,
+			40,
+			70,
+			65,
+			55,
+			65,
+			100,
+			40,
+			100
+		]
+	},
+	{
+		"name": "拳聖の道着上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			80,
+			40,
+			80,
+			65,
+			50,
+			65,
+			90,
+			40,
+			90
+		]
+	},
+	{
+		"name": "月のローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			90,
+			45,
+			90,
+			70,
+			50,
+			70,
+			100,
+			45,
+			100
+		]
+	},
+	{
+		"name": "原始獣のコート上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "再生布",
+		"value": [
+			95,
+			40,
+			95,
+			60,
+			60,
+			60,
+			75,
+			40,
+			75
+		]
+	},
+	{
+		"name": "モダンバニースーツ",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			90,
+			45,
+			90,
+			60,
+			60,
+			60,
+			105,
+			45,
+			105
+		]
+	},
+	{
+		"name": "クラウンベスト",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			80,
+			60,
+			80,
+			60,
+			60,
+			60,
+			90,
+			60,
+			90
+		]
+	},
+	{
+		"name": "ミラクルコート上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			85,
+			45,
+			85,
+			70,
+			64,
+			70,
+			120,
+			45,
+			120
+		]
+	},
+	{
+		"name": "王宮魔術師ローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			90,
+			45,
+			90,
+			72,
+			60,
+			72,
+			115,
+			45,
+			115
+		]
+	},
+	{
+		"name": "古代魔術のほうい上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			80,
+			65,
+			90,
+			55,
+			60,
+			55,
+			90,
+			65,
+			80
+		]
+	},
+	{
+		"name": "古武道着上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			80,
+			45,
+			80,
+			60,
+			60,
+			60,
+			105,
+			45,
+			105
+		]
+	},
+	{
+		"name": "求道者の道着上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			90,
+			45,
+			105,
+			70,
+			60,
+			70,
+			105,
+			45,
+			90
+		]
+	},
+	{
+		"name": "アイドルスーツ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "虹布",
+		"value": [
+			90,
+			69,
+			115,
+			70,
+			60,
+			70,
+			115,
+			69,
+			90
+		]
+	},
+	{
+		"name": "チェイサーレザー上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			90,
+			60,
+			90,
+			70,
+			60,
+			70,
+			90,
+			60,
+			90
+		]
+	},
+	{
+		"name": "大賢者のほうい",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			70,
+			60,
+			70,
+			80,
+			60,
+			80,
+			100,
+			60,
+			100
+		]
+	},
+	{
+		"name": "だいまどうローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			75,
+			45,
+			134,
+			90,
+			60,
+			90,
+			134,
+			45,
+			75
+		]
+	},
+	{
+		"name": "歌詠みのころも上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			90,
+			45,
+			90,
+			70,
+			60,
+			70,
+			105,
+			45,
+			105
+		]
+	},
+	{
+		"name": "ひつじのころも上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			90,
+			45,
+			90,
+			70,
+			60,
+			70,
+			115,
+			45,
+			115
+		]
+	},
+	{
+		"name": "さとりのころも",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			100,
+			60,
+			100,
+			75,
+			60,
+			75,
+			120,
+			60,
+			120
+		]
+	},
+	{
+		"name": "ステージジャンパー",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			80,
+			45,
+			75,
+			120,
+			60,
+			120,
+			75,
+			45,
+			80
+		]
+	},
+	{
+		"name": "ステージチュチュ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			90,
+			45,
+			90,
+			95,
+			60,
+			95,
+			90,
+			45,
+			90
+		]
+	},
+	{
+		"name": "タイフーンレザー上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			120,
+			75,
+			100,
+			60,
+			60,
+			60,
+			100,
+			75,
+			120
+		]
+	},
+	{
+		"name": "退魔の装束上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			115,
+			45,
+			105,
+			90,
+			60,
+			90,
+			105,
+			45,
+			115
+		]
+	},
+	{
+		"name": "レイブンスーツ",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			100,
+			60,
+			100,
+			60,
+			60,
+			60,
+			100,
+			60,
+			100
+		]
+	},
+	{
+		"name": "聖賢者のローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			131,
+			75,
+			131,
+			60,
+			60,
+			60,
+			100,
+			75,
+			100
+		]
+	},
+	{
+		"name": "黄竜の道着",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			90,
+			60,
+			105,
+			75,
+			60,
+			75,
+			105,
+			60,
+			90
+		]
+	},
+	{
+		"name": "古代王族のベスト",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			126,
+			45,
+			126,
+			90,
+			60,
+			90,
+			105,
+			45,
+			105
+		]
+	},
+	{
+		"name": "獄獣のケープ",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			100,
+			75,
+			100,
+			60,
+			90,
+			60,
+			100,
+			75,
+			100
+		]
+	},
+	{
+		"name": "精霊王のクローク上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			120,
+			60,
+			120,
+			75,
+			90,
+			75,
+			120,
+			60,
+			120
+		]
+	},
+	{
+		"name": "舞い手の服",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			105,
+			60,
+			150,
+			75,
+			60,
+			75,
+			150,
+			60,
+			105
+		]
+	},
+	{
+		"name": "風虎の道着",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			100,
+			90,
+			90,
+			60,
+			100,
+			60,
+			90,
+			90,
+			100
+		]
+	},
+	{
+		"name": "究明者のコート上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			150,
+			60,
+			115,
+			75,
+			60,
+			75,
+			115,
+			60,
+			150
+		]
+	},
+	{
+		"name": "神託のローブ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			105,
+			75,
+			105,
+			75,
+			140,
+			75,
+			105,
+			75,
+			105
+		]
+	},
+	{
+		"name": "トーテムケープ上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			90,
+			75,
+			90,
+			75,
+			140,
+			75,
+			90,
+			75,
+			90
+		]
+	},
+	{
+		"name": "巨商のころも",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			110,
+			75,
+			110,
+			75,
+			140,
+			75,
+			110,
+			75,
+			110
+		]
+	},
+	{
+		"name": "フォーチュンローブ",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			150,
+			60,
+			125,
+			75,
+			60,
+			75,
+			125,
+			60,
+			150
+		]
+	},
+	{
+		"name": "武神の道着上",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			100,
+			75,
+			100,
+			75,
+			140,
+			75,
+			100,
+			75,
+			100
+		]
+	},
+	{
+		"name": "ヴァンガードコート",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			120,
+			68,
+			150,
+			90,
+			68,
+			90,
+			150,
+			68,
+			120
+		]
+	},
+	{
+		"name": "賢哲のころも",
+		"job": "さいほう職人",
+		"category": "からだ上",
+		"characteristic": "",
+		"value": [
+			140,
+			96,
+			96,
+			60,
+			140,
+			60,
+			96,
+			96,
+			140
+		]
+	},
+	{
+		"name": "ものほしざお",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			22,
+			22,
+			22,
+			22,
+			22,
+			22
+		]
+	},
+	{
+		"name": "てんびんぼう",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			22,
+			22,
+			26,
+			26,
+			22,
+			22
+		]
+	},
+	{
+		"name": "かしのこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			22,
+			22,
+			33,
+			33,
+			22,
+			22
+		]
+	},
+	{
+		"name": "ぎょうじゃのこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			29,
+			29,
+			29,
+			29,
+			29,
+			29
+		]
+	},
+	{
+		"name": "六角ぼう",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			29,
+			29,
+			40,
+			40,
+			29,
+			29
+		]
+	},
+	{
+		"name": "えんぶのこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			33,
+			33,
+			44,
+			44,
+			33,
+			33
+		]
+	},
+	{
+		"name": "セレモニーロッド",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			33,
+			33,
+			49,
+			49,
+			38,
+			38
+		]
+	},
+	{
+		"name": "スパイクロッド",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "木目変化",
+		"value": [
+			32,
+			32,
+			53,
+			53,
+			43,
+			43
+		]
+	},
+	{
+		"name": "まどろみのこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "木目変化",
+		"value": [
+			37,
+			37,
+			58,
+			58,
+			43,
+			43
+		]
+	},
+	{
+		"name": "クラッシュロッド",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "木目変化",
+		"value": [
+			43,
+			43,
+			58,
+			58,
+			48,
+			48
+		]
+	},
+	{
+		"name": "レイニーロッド",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "木目変化",
+		"value": [
+			48,
+			48,
+			53,
+			53,
+			64,
+			64
+		]
+	},
+	{
+		"name": "らせつのこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "燃え木",
+		"value": [
+			60,
+			60,
+			84,
+			84,
+			60,
+			60
+		]
+	},
+	{
+		"name": "ろうがぼう",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "木目変化",
+		"value": [
+			53,
+			53,
+			80,
+			80,
+			64,
+			64
+		]
+	},
+	{
+		"name": "やしゃのこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "燃え木",
+		"value": [
+			72,
+			72,
+			96,
+			96,
+			72,
+			72
+		]
+	},
+	{
+		"name": "ドラゴンロッド",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "燃え木",
+		"value": [
+			72,
+			72,
+			84,
+			84,
+			102,
+			102
+		]
+	},
+	{
+		"name": "にちりんのこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "燃え木",
+		"value": [
+			75,
+			75,
+			108,
+			108,
+			90,
+			90
+		]
+	},
+	{
+		"name": "白蛇のこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "再生木",
+		"value": [
+			73,
+			73,
+			104,
+			104,
+			88,
+			88
+		]
+	},
+	{
+		"name": "なげきのこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "再生木",
+		"value": [
+			76,
+			76,
+			95,
+			95,
+			114,
+			114
+		]
+	},
+	{
+		"name": "しゅらのこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "再生木",
+		"value": [
+			83,
+			83,
+			170,
+			120,
+			92,
+			92
+		]
+	},
+	{
+		"name": "シェンロンロッド",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			91,
+			91,
+			111,
+			111,
+			138,
+			138
+		]
+	},
+	{
+		"name": "聖王の棍",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			90,
+			90,
+			150,
+			150,
+			105,
+			105
+		]
+	},
+	{
+		"name": "陰陽道のこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			104,
+			104,
+			130,
+			130,
+			104,
+			104
+		]
+	},
+	{
+		"name": "デーモンロッド",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			145,
+			130,
+			110,
+			110,
+			130,
+			145
+		]
+	},
+	{
+		"name": "アポカリプス",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			90,
+			90,
+			130,
+			156,
+			110,
+			110
+		]
+	},
+	{
+		"name": "ポップンロッド",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "虹木",
+		"value": [
+			98,
+			98,
+			160,
+			160,
+			120,
+			120
+		]
+	},
+	{
+		"name": "極楽のこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			114,
+			114,
+			152,
+			152,
+			114,
+			114
+		]
+	},
+	{
+		"name": "ヘリオスロッド",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			120,
+			120,
+			160,
+			160,
+			160,
+			160
+		]
+	},
+	{
+		"name": "氷河のこん",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			100,
+			100,
+			180,
+			180,
+			130,
+			130
+		]
+	},
+	{
+		"name": "白木のおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			30,
+			30,
+			30,
+			30
+		]
+	},
+	{
+		"name": "はねおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			25,
+			25,
+			40,
+			40
+		]
+	},
+	{
+		"name": "バトルファン",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			44,
+			44,
+			33,
+			33
+		]
+	},
+	{
+		"name": "てつのおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			38,
+			38,
+			49,
+			49
+		]
+	},
+	{
+		"name": "カメのおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			44,
+			44,
+			55,
+			55
+		]
+	},
+	{
+		"name": "トリのおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			49,
+			49,
+			60,
+			60
+		]
+	},
+	{
+		"name": "ナナホシおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			55,
+			55,
+			66,
+			66
+		]
+	},
+	{
+		"name": "ネコのおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			60,
+			60,
+			71,
+			71
+		]
+	},
+	{
+		"name": "くじゃくのおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "木目変化",
+		"value": [
+			53,
+			53,
+			86,
+			86
+		]
+	},
+	{
+		"name": "ヘビのおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "燃え木",
+		"value": [
+			78,
+			78,
+			90,
+			90
+		]
+	},
+	{
+		"name": "星のおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "木目変化",
+		"value": [
+			75,
+			75,
+			91,
+			91
+		]
+	},
+	{
+		"name": "マジックファン",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "燃え木",
+		"value": [
+			90,
+			90,
+			114,
+			114
+		]
+	},
+	{
+		"name": "ましょうのおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "燃え木",
+		"value": [
+			102,
+			121,
+			121,
+			102
+		]
+	},
+	{
+		"name": "月のおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "木目変化",
+		"value": [
+			97,
+			97,
+			118,
+			118
+		]
+	},
+	{
+		"name": "レインボーファン",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "木目変化",
+		"value": [
+			107,
+			107,
+			123,
+			123
+		]
+	},
+	{
+		"name": "たいようのおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "燃え木",
+		"value": [
+			126,
+			126,
+			148,
+			148
+		]
+	},
+	{
+		"name": "ばしょうせん",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "木目復活",
+		"value": [
+			114,
+			114,
+			152,
+			152
+		]
+	},
+	{
+		"name": "天下泰平",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			142,
+			142,
+			142,
+			142
+		]
+	},
+	{
+		"name": "ひっさつのおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "燃え木",
+		"value": [
+			150,
+			150,
+			220,
+			184
+		]
+	},
+	{
+		"name": "風林火山",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "木目変化",
+		"value": [
+			143,
+			143,
+			190,
+			190
+		]
+	},
+	{
+		"name": "聖王のおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			153,
+			153,
+			185,
+			185
+		]
+	},
+	{
+		"name": "カレイドスコープ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			170,
+			192,
+			157,
+			157
+		]
+	},
+	{
+		"name": "青嵐のおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			170,
+			193,
+			153,
+			170
+		]
+	},
+	{
+		"name": "ハルジオン",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			175,
+			175,
+			175,
+			175
+		]
+	},
+	{
+		"name": "ラヴィアンローズ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "虹木",
+		"value": [
+			160,
+			218,
+			218,
+			160
+		]
+	},
+	{
+		"name": "孔雀姫のおうぎ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			181,
+			218,
+			181,
+			218
+		]
+	},
+	{
+		"name": "妖貴妃の扇",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			172,
+			220,
+			220,
+			172
+		]
+	},
+	{
+		"name": "プロセルピナ",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "木目変化",
+		"value": [
+			195,
+			253,
+			160,
+			195
+		]
+	},
+	{
+		"name": "かしの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			30,
+			30,
+			30
+		]
+	},
+	{
+		"name": "まどうしの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			30,
+			45,
+			45
+		]
+	},
+	{
+		"name": "さばきの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			45,
+			60,
+			45
+		]
+	},
+	{
+		"name": "あまぐもの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			44,
+			60,
+			71
+		]
+	},
+	{
+		"name": "まふうじの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			49,
+			66,
+			82
+		]
+	},
+	{
+		"name": "うみなりの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			60,
+			71,
+			88
+		]
+	},
+	{
+		"name": "ようせいの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			71,
+			77,
+			93
+		]
+	},
+	{
+		"name": "いかずちの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "燃え木",
+		"value": [
+			84,
+			96,
+			108
+		]
+	},
+	{
+		"name": "ピオラの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "木目変化",
+		"value": [
+			80,
+			91,
+			107
+		]
+	},
+	{
+		"name": "ルーンスタッフ",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "木目変化",
+		"value": [
+			118,
+			86,
+			97
+		]
+	},
+	{
+		"name": "マグマの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "燃え木",
+		"value": [
+			108,
+			145,
+			121
+		]
+	},
+	{
+		"name": "せいれいの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "木目変化",
+		"value": [
+			107,
+			118,
+			140
+		]
+	},
+	{
+		"name": "まがんの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "燃え木",
+		"value": [
+			162,
+			150,
+			133
+		]
+	},
+	{
+		"name": "こおりの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "木目変化",
+		"value": [
+			129,
+			140,
+			161
+		]
+	},
+	{
+		"name": "セイレーンの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "木目変化",
+		"value": [
+			140,
+			155,
+			166
+		]
+	},
+	{
+		"name": "アークワンド",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "燃え木",
+		"value": [
+			163,
+			187,
+			199
+		]
+	},
+	{
+		"name": "福音の杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "再生木",
+		"value": [
+			156,
+			175,
+			199
+		]
+	},
+	{
+		"name": "賢者の杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			166,
+			213,
+			190
+		]
+	},
+	{
+		"name": "女神の杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			177,
+			177,
+			286
+		]
+	},
+	{
+		"name": "ドラゴンの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			300,
+			259,
+			189
+		]
+	},
+	{
+		"name": "聖王の杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			198,
+			228,
+			250
+		]
+	},
+	{
+		"name": "ひかりの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			255,
+			185,
+			255
+		]
+	},
+	{
+		"name": "イーリスの杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			270,
+			230,
+			200
+		]
+	},
+	{
+		"name": "不死者の魔杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			260,
+			290,
+			220
+		]
+	},
+	{
+		"name": "万物流転の杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "木目変化",
+		"value": [
+			205,
+			235,
+			265
+		]
+	},
+	{
+		"name": "邪術皇の杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "燃え木",
+		"value": [
+			236,
+			300,
+			300
+		]
+	},
+	{
+		"name": "エンシェントワンド",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			300,
+			240,
+			300
+		]
+	},
+	{
+		"name": "天恵石の杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "虹",
+		"value": [
+			250,
+			280,
+			331
+		]
+	},
+	{
+		"name": "ローリエの小枝",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			45,
+			45
+		]
+	},
+	{
+		"name": "ピンスティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			60,
+			60
+		]
+	},
+	{
+		"name": "フラワースティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			60,
+			90
+		]
+	},
+	{
+		"name": "スライムステッキ",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			71,
+			104
+		]
+	},
+	{
+		"name": "ツインクルタクト",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			82,
+			115
+		]
+	},
+	{
+		"name": "モーモンスティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			93,
+			126
+		]
+	},
+	{
+		"name": "フェザースティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			104,
+			137
+		]
+	},
+	{
+		"name": "ラブリースティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "木目変化",
+		"value": [
+			107,
+			150
+		]
+	},
+	{
+		"name": "スラタワーステッキ",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "木目変化",
+		"value": [
+			118,
+			161
+		]
+	},
+	{
+		"name": "まてきのスティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "燃え木",
+		"value": [
+			145,
+			193
+		]
+	},
+	{
+		"name": "マジカルスティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "木目変化",
+		"value": [
+			188,
+			145
+		]
+	},
+	{
+		"name": "マポレーナステッキ",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "木目変化",
+		"value": [
+			155,
+			209
+		]
+	},
+	{
+		"name": "ペロリンステッキ",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "木目変化",
+		"value": [
+			172,
+			226
+		]
+	},
+	{
+		"name": "パラソルスティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "木目変化",
+		"value": [
+			215,
+			215
+		]
+	},
+	{
+		"name": "ドラゴンスティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "燃え木",
+		"value": [
+			229,
+			290
+		]
+	},
+	{
+		"name": "ユグドラシル",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "木目変化",
+		"value": [
+			215,
+			274
+		]
+	},
+	{
+		"name": "天使のタクト",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			232,
+			299
+		]
+	},
+	{
+		"name": "あくまのタクト",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			294,
+			294
+		]
+	},
+	{
+		"name": "ゴシックパラソル",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			360,
+			267
+		]
+	},
+	{
+		"name": "タイタニアステッキ",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			340,
+			340
+		]
+	},
+	{
+		"name": "聖王のスティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			348,
+			411
+		]
+	},
+	{
+		"name": "ひかりのタクト",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			373,
+			303
+		]
+	},
+	{
+		"name": "ファンタスティック",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			290,
+			396
+		]
+	},
+	{
+		"name": "ラクリマタクト",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			343,
+			343
+		]
+	},
+	{
+		"name": "エンシェントタクト",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "再生木",
+		"value": [
+			385,
+			335
+		]
+	},
+	{
+		"name": "栄華の王錫",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "木目変化",
+		"value": [
+			329,
+			415
+		]
+	},
+	{
+		"name": "リトルフェザー",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			400,
+			400
+		]
+	},
+	{
+		"name": "バージニアステッキ",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "再生",
+		"value": [
+			380,
+			440
+		]
+	},
+	{
+		"name": "じょうぶな釣りざお",
+		"job": "木工職人",
+		"category": "釣りざお",
+		"characteristic": "",
+		"value": [
+			75,
+			60,
+			75,
+			60,
+			75
+		]
+	},
+	{
+		"name": "きれいな釣りざお",
+		"job": "木工職人",
+		"category": "釣りざお",
+		"characteristic": "",
+		"value": [
+			90,
+			101,
+			90,
+			60,
+			90
+		]
+	},
+	{
+		"name": "炎の釣りざお",
+		"job": "木工職人",
+		"category": "釣りざお",
+		"characteristic": "燃え木",
+		"value": [
+			125,
+			100,
+			125,
+			100,
+			100
+		]
+	},
+	{
+		"name": "氷の釣りざお",
+		"job": "木工職人",
+		"category": "釣りざお",
+		"characteristic": "再生木",
+		"value": [
+			60,
+			100,
+			120,
+			120,
+			100
+		]
+	},
+	{
+		"name": "闇の釣りざお",
+		"job": "木工職人",
+		"category": "釣りざお",
+		"characteristic": "",
+		"value": [
+			90,
+			110,
+			110,
+			90,
+			90
+		]
+	},
+	{
+		"name": "炎の釣りざお改",
+		"job": "木工職人",
+		"category": "釣りざお",
+		"characteristic": "燃え木",
+		"value": [
+			157,
+			90,
+			90,
+			157,
+			90
+		]
+	},
+	{
+		"name": "氷の釣りざお改",
+		"job": "木工職人",
+		"category": "釣りざお",
+		"characteristic": "再生木",
+		"value": [
+			90,
+			110,
+			90,
+			150,
+			90
+		]
+	},
+	{
+		"name": "闇の釣りざお改",
+		"job": "木工職人",
+		"category": "釣りざお",
+		"characteristic": "木目変化",
+		"value": [
+			105,
+			105,
+			105,
+			105,
+			99
+		]
+	},
+	{
+		"name": "きせきの釣りざお",
+		"job": "木工職人",
+		"category": "釣りざお",
+		"characteristic": "",
+		"value": [
+			105,
+			100,
+			115,
+			115,
+			105
+		]
+	},
+	{
+		"name": "前座芸人のうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "麻のてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "皮のてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			15,
+			15,
+			15,
+			15
+		]
+	},
+	{
+		"name": "若手芸人のてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			15,
+			15,
+			23,
+			15,
+			15,
+			23
+		]
+	},
+	{
+		"name": "ぬすっとのうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			23,
+			15,
+			15,
+			23,
+			15,
+			15
+		]
+	},
+	{
+		"name": "射手のてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			15,
+			23,
+			15,
+			15,
+			23,
+			15
+		]
+	},
+	{
+		"name": "しゅうれん用リスト",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			30,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "サフラングローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			23,
+			30,
+			23,
+			23
+		]
+	},
+	{
+		"name": "初級魔法戦士グラブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			23,
+			23,
+			23,
+			23,
+			23,
+			30
+		]
+	},
+	{
+		"name": "ダンサーリスト",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			30,
+			23,
+			23,
+			23,
+			23,
+			23
+		]
+	},
+	{
+		"name": "はやてのグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			30,
+			23,
+			45,
+			30,
+			23,
+			45
+		]
+	},
+	{
+		"name": "手品師のグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			45,
+			23,
+			30,
+			30,
+			23,
+			45
+		]
+	},
+	{
+		"name": "カンフーリスト",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			38,
+			30,
+			60,
+			37,
+			30,
+			60
+		]
+	},
+	{
+		"name": "マタドールグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			30,
+			30,
+			60,
+			45,
+			30,
+			60
+		]
+	},
+	{
+		"name": "ウェスタングローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			40,
+			30,
+			55,
+			45,
+			30,
+			55
+		]
+	},
+	{
+		"name": "木の葉のうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			45,
+			30,
+			55,
+			40,
+			30,
+			55
+		]
+	},
+	{
+		"name": "けんぽうの腕帯",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			55,
+			35,
+			75,
+			55,
+			35,
+			75
+		]
+	},
+	{
+		"name": "かたりべのてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			45,
+			45,
+			75,
+			45,
+			45,
+			75
+		]
+	},
+	{
+		"name": "神官のてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			50,
+			40,
+			75,
+			50,
+			40,
+			75
+		]
+	},
+	{
+		"name": "森人のてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			50,
+			35,
+			80,
+			50,
+			35,
+			80
+		]
+	},
+	{
+		"name": "フェンサーミサンガ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			60,
+			60,
+			105,
+			60,
+			60,
+			105
+		]
+	},
+	{
+		"name": "きじゅつしグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			70,
+			45,
+			110,
+			70,
+			45,
+			110
+		]
+	},
+	{
+		"name": "司祭のてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			75,
+			45,
+			105,
+			105,
+			45,
+			75
+		]
+	},
+	{
+		"name": "マスターアーム",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			85,
+			50,
+			115,
+			85,
+			50,
+			115
+		]
+	},
+	{
+		"name": "無法者のうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			60,
+			120,
+			70,
+			60,
+			120,
+			70
+		]
+	},
+	{
+		"name": "聖者のてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			90,
+			60,
+			125,
+			90,
+			60,
+			125
+		]
+	},
+	{
+		"name": "トレジャーグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			85,
+			70,
+			120,
+			120,
+			70,
+			85
+		]
+	},
+	{
+		"name": "拳聖のうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			85,
+			130,
+			85,
+			85,
+			130,
+			85
+		]
+	},
+	{
+		"name": "原始獣のグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "再生布",
+		"value": [
+			100,
+			50,
+			150,
+			100,
+			50,
+			150
+		]
+	},
+	{
+		"name": "モダンバニーブレス",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			105,
+			70,
+			155,
+			105,
+			70,
+			155
+		]
+	},
+	{
+		"name": "古武道のうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			105,
+			105,
+			110,
+			105,
+			105,
+			110
+		]
+	},
+	{
+		"name": "クラウングローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			85,
+			75,
+			130,
+			90,
+			140,
+			120
+		]
+	},
+	{
+		"name": "ミラクルグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			110,
+			84,
+			140,
+			90,
+			160,
+			120
+		]
+	},
+	{
+		"name": "古代魔術のうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			70,
+			110,
+			140,
+			70,
+			110,
+			140
+		]
+	},
+	{
+		"name": "求道者のてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			120,
+			60,
+			160,
+			120,
+			60,
+			160
+		]
+	},
+	{
+		"name": "アイドルブレス",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			120,
+			80,
+			174,
+			120,
+			80,
+			174
+		]
+	},
+	{
+		"name": "チェイサーアーム",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			110,
+			70,
+			130,
+			90,
+			170,
+			110
+		]
+	},
+	{
+		"name": "大賢者のグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			115,
+			80,
+			145,
+			115,
+			80,
+			145
+		]
+	},
+	{
+		"name": "だいまどうのうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			120,
+			94,
+			160,
+			94,
+			120,
+			160
+		]
+	},
+	{
+		"name": "歌詠みのブレス",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			115,
+			70,
+			155,
+			115,
+			155,
+			70
+		]
+	},
+	{
+		"name": "ひつじのてぶくろ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			100,
+			110,
+			140,
+			100,
+			110,
+			140
+		]
+	},
+	{
+		"name": "さとりのグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			100,
+			125,
+			160,
+			100,
+			125,
+			160
+		]
+	},
+	{
+		"name": "ステージリスト",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			105,
+			140,
+			105,
+			105,
+			140,
+			105
+		]
+	},
+	{
+		"name": "ステージアーム",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			80,
+			120,
+			150,
+			80,
+			120,
+			150
+		]
+	},
+	{
+		"name": "タイフーングローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			125,
+			95,
+			165,
+			125,
+			95,
+			165
+		]
+	},
+	{
+		"name": "退魔のうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			130,
+			130,
+			165,
+			90,
+			165,
+			90
+		]
+	},
+	{
+		"name": "レイブングローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			120,
+			80,
+			150,
+			120,
+			80,
+			150
+		]
+	},
+	{
+		"name": "聖賢者のバングル",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			143,
+			110,
+			143,
+			143,
+			110,
+			143
+		]
+	},
+	{
+		"name": "黄竜のうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			125,
+			90,
+			145,
+			125,
+			90,
+			145
+		]
+	},
+	{
+		"name": "古代王族のバングル",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			135,
+			90,
+			171,
+			135,
+			90,
+			171
+		]
+	},
+	{
+		"name": "獄獣のうであて",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			145,
+			110,
+			125,
+			145,
+			110,
+			125
+		]
+	},
+	{
+		"name": "精霊王のグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			183,
+			135,
+			100,
+			100,
+			135,
+			183
+		]
+	},
+	{
+		"name": "舞い手のリスト",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			140,
+			112,
+			166,
+			112,
+			140,
+			166
+		]
+	},
+	{
+		"name": "風虎のうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			150,
+			110,
+			130,
+			130,
+			110,
+			150
+		]
+	},
+	{
+		"name": "究明者のグローブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			174,
+			115,
+			140,
+			115,
+			140,
+			174
+		]
+	},
+	{
+		"name": "神託のブレス",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			135,
+			105,
+			189,
+			135,
+			105,
+			189
+		]
+	},
+	{
+		"name": "トーテムブレス",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			135,
+			100,
+			165,
+			135,
+			100,
+			165
+		]
+	},
+	{
+		"name": "フォーチュングラブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			170,
+			125,
+			145,
+			125,
+			145,
+			170
+		]
+	},
+	{
+		"name": "武神の腕帯",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			140,
+			110,
+			170,
+			110,
+			140,
+			170
+		]
+	},
+	{
+		"name": "ヴァンガードグラブ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			185,
+			125,
+			152,
+			125,
+			152,
+			185
+		]
+	},
+	{
+		"name": "賢哲のうでわ",
+		"job": "さいほう職人",
+		"category": "ウデ",
+		"characteristic": "",
+		"value": [
+			152,
+			110,
+			200,
+			152,
+			110,
+			200
+		]
+	},
+	{
+		"name": "青竹の弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			22,
+			22,
+			33,
+			22,
+			22
+		]
+	},
+	{
+		"name": "若木の弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			33,
+			22,
+			22,
+			33,
+			22
+		]
+	},
+	{
+		"name": "古木の弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			33,
+			33,
+			22,
+			33,
+			33
+		]
+	},
+	{
+		"name": "ロングボウ",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			33,
+			33,
+			45,
+			33,
+			33
+		]
+	},
+	{
+		"name": "したんの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			45,
+			33,
+			45,
+			45,
+			33
+		]
+	},
+	{
+		"name": "かりうどの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			55,
+			33,
+			45,
+			55,
+			33
+		]
+	},
+	{
+		"name": "こあくまの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			45,
+			60,
+			33,
+			60,
+			45
+		]
+	},
+	{
+		"name": "エロスの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "木目変化",
+		"value": [
+			53,
+			44,
+			58,
+			53,
+			44
+		]
+	},
+	{
+		"name": "かぜきりの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "燃え木",
+		"value": [
+			66,
+			49,
+			82,
+			66,
+			49
+		]
+	},
+	{
+		"name": "ゆうわくの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "木目変化",
+		"value": [
+			68,
+			49,
+			64,
+			68,
+			49
+		]
+	},
+	{
+		"name": "白鳥の弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "木目変化",
+		"value": [
+			68,
+			58,
+			78,
+			58,
+			68
+		]
+	},
+	{
+		"name": "月光の弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "木目変化",
+		"value": [
+			64,
+			78,
+			78,
+			64,
+			78
+		]
+	},
+	{
+		"name": "むげんの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "燃え木",
+		"value": [
+			96,
+			71,
+			110,
+			96,
+			71
+		]
+	},
+	{
+		"name": "ナイトスナイパー",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "木目変化",
+		"value": [
+			88,
+			68,
+			93,
+			112,
+			68
+		]
+	},
+	{
+		"name": "すざくの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "燃え木",
+		"value": [
+			110,
+			79,
+			140,
+			110,
+			79
+		]
+	},
+	{
+		"name": "ケイロンの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "木目変化",
+		"value": [
+			98,
+			78,
+			137,
+			98,
+			78
+		]
+	},
+	{
+		"name": "アルテミスの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "再生木",
+		"value": [
+			114,
+			95,
+			142,
+			99,
+			80
+		]
+	},
+	{
+		"name": "バジリスクの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "再生木",
+		"value": [
+			114,
+			85,
+			152,
+			123,
+			95
+		]
+	},
+	{
+		"name": "じごくの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "燃え木",
+		"value": [
+			132,
+			99,
+			220,
+			143,
+			110
+		]
+	},
+	{
+		"name": "天使の弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			135,
+			110,
+			176,
+			135,
+			110
+		]
+	},
+	{
+		"name": "聖王の弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			150,
+			95,
+			200,
+			150,
+			95
+		]
+	},
+	{
+		"name": "オーディンボウ",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			130,
+			130,
+			239,
+			130,
+			130
+		]
+	},
+	{
+		"name": "アンフィスバエナ",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			110,
+			145,
+			190,
+			145,
+			110
+		]
+	},
+	{
+		"name": "オルフェウスの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			150,
+			125,
+			150,
+			150,
+			125
+		]
+	},
+	{
+		"name": "あやかしの魔弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "虹木",
+		"value": [
+			155,
+			120,
+			206,
+			155,
+			120
+		]
+	},
+	{
+		"name": "スライムショット",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			155,
+			120,
+			210,
+			155,
+			120
+		]
+	},
+	{
+		"name": "魔弓サジタリウス",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			165,
+			135,
+			240,
+			165,
+			135
+		]
+	},
+	{
+		"name": "ヒュドラの弓",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "燃え木",
+		"value": [
+			140,
+			186,
+			250,
+			186,
+			140
+		]
+	}
 ]
