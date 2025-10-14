@@ -78,6 +78,16 @@ div.right-column {
 	background-color: #5c636a;
 }
 
+#craftBtn {
+	margin-bottom: 8px;
+	background-color: #FFC864;
+	color: #ffffff;
+	font-weight: bold;
+}
+#craftBtn:hover {
+	background-color: #EDC041;
+}
+
 #itemsCard {
 	padding: 8px;
 }
