@@ -154,7 +154,7 @@ craftBtn.addEventListener("click", () => {
 		headers: { 'Content-Type': 'application/json' },
 		body: JSON.stringify({ items: selectedItems })
 	}).then(() => {
-		window.open(`${CONTEXT_PATH}craft`, '_blank');
+		window.location.href = `${CONTEXT_PATH}craft`;
 	})
 		.catch(error => console.error('送信エラー:', error));
 })
