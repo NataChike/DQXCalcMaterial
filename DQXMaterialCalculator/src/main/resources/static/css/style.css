@@ -27,12 +27,17 @@ header h1 {
   object-fit: contain;
 }
 
-.contact a {
+.header-right a {
 	color: darkgrey;
 	font-size: 20px;
+
+}
+.header-right {
+  align-items: center; /* 縦中央揃え */
+  gap: 2rem; /* 間隔を開ける */
 }
 
-.contact a:hover {
+.header-right a:hover {
 	color: #ffffff;
 }
 
@@ -185,11 +190,6 @@ div.right-column {
 		margin-bottom: 8px;
 	}
 
-/*	div.left-column {*/
-/*		margin-top: 8px;*/
-/*		height: auto;  高さ固定を解除 */
-/*	}*/
-
 	header h1 {
 		flex: 0 0 70%;
 	}
@@ -197,8 +197,13 @@ div.right-column {
 	.icon img {
 		flex: 0 0 30%;
 	}
-	
-	.contact a:hover {
+	.header-right-md div{
+		margin-bottom: 8px;
+	}
+	.header-right-md a {
 	color: #373737;
+	}
+	.header-right-md a:hover {
+	color: #aaaaaa;
 	}
 }

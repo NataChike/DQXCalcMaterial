@@ -163,7 +163,7 @@ function createCard(craft) {
 	// --- カード単位リセットボタン ---
 	const resetCardBtn = document.createElement("button");
 	resetCardBtn.className = "card-reset-btn";
-	resetCardBtn.textContent = "全リセット";
+	resetCardBtn.textContent = "リセット";
 	resetCardBtn.addEventListener("click", () => {
 		smallCardResets.forEach(fn => fn());
 	});

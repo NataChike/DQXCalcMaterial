@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+	<meta charset="UTF-8">
+	<title>ちけの便利ツール | DQX | 職人計算機</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+	<link rel="stylesheet" 	th:href="@{/css/style.css}">
+	<link rel="stylesheet" 	th:href="@{/css/about.css}">
+	<link rel="canonical" href="https://chiketools.com/dq10/crafter-calculator/">
+	<meta name="description" content="ドラゴンクエストXの職人素材を計算できるツール。木工、さいほうの理論値計算も可能。">
+	<meta name="keywords" content="DQX, ドラクエ10, ドラゴンクエストX, 職人, 素材計算機, 木工, さいほう, 便利ツール">
+	<meta property="og:title" content="DQX | 職人計算機">
+	<meta property="og:description" content="	ドラゴンクエストXの職人素材を計算できるツール。木工、さいほうの理論値計算も可能。">
+	<meta property="og:url" content="https://chiketools.com/dq10/crafter-calculator/">
+	<meta property="og:type" content="website">
+	<meta name="google-site-verification" content="dIrrBwLV2o-NdNuDC0CJnG01g4_RXQ8My1fXKS4EgAc" />
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886700851072663"
+	     crossorigin="anonymous"></script>
+	 <!-- Thymeleaf で context-path を JS に渡す -->
+	 <script th:inline="javascript">
+	     /*<![CDATA[*/
+	     const CONTEXT_PATH = /*[[@{/}]]*/ '';
+	     /*]]>*/
+		 console.log(CONTEXT_PATH); 
+	 </script>
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+	<!-- ヘッダー -->
+	<header class="d-flex flex-row align-items-center justify-content-between">
+		<!-- 左：アイコン -->
+		<div class="icon d-flex align-items-center">
+			<a href="https://chiketools.com/" >	
+				<img th:src="@{/image/ちけの便利ツール_紫.png}" alt="アイコン" style="cursor: pointer;">
+			</a>
+		</div>
+
+		<!-- 中央：タイトル -->
+		<h1>DQX | 職人計算機</h1>
+
+		<!-- 右：お問い合わせ -->
+			<div class="header-right d-none d-md-flex">
+				<div class="contact">
+				<a href="https://chike-tech.com/%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/"
+					class="text-decoration-none">
+					<i class="bi bi-envelope-fill"></i> お問い合わせ
+				</a>
+				</div>
+			</div>
+
+		</header>
+		<div class="header-right-md d-block d-md-none d-flex flex-column align-items-center justify-content-center">
+				<div class="contact">
+				<a href="https://chike-tech.com/%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/"
+					class="text-decoration-none">
+					<i class="bi bi-envelope-fill"></i> お問い合わせ
+				</a>
+				</div>
+			</div>
+		</div>
+	<div class="container-lg d-flex flex-column	flex-grow-1">
+
+		
+		   <section class="mb-5">
+		     <h1>使い方</h1>
+			 <div>
+				<h2>１．自分が作成したいアイテムを選ぼう！</br>（選び方は以下の2パターン）</h2>
+				<ul>
+					<li>左上の検索窓から作成したいアイテムを検索！</li>
+					<img th:src="@{/image/説明_検索窓.png}" alt="説明_検索窓">
+					<li>職人を選択して作成したいアイテムを選択！</li>
+					<img th:src="@{/image/説明_職人選択.png}" alt="説明_職人選択">
+				</ul>
+			 </div>
+				<div>
+					<h2>２．作成したいアイテムを選び終わったら計算ボタンをクリック！</br>必要な素材が表示されるぞ！</h2>
+					<img th:src="@{/image/説明_計算ボタン.png}" alt="説明_計算ボタン">
+				</div>
+				<div>
+					<h2>３．リセットボタンを押せば選択したアイテムを解除することもできるぞ！</h2>
+					   <img th:src="@{/image/説明_リセットボタン.png}" alt="説明_リセットボタン">
+				</div>
+				<div>
+					<h2>４．選択したアイテムが<span style="color:red">木工職人</span>もしくは<span style="color:red">さいほう職人</span>の場合はクラフトボタンをクリック！</h2>
+					<img th:src="@{/image/説明_クラフトボタン.png}" alt="説明_クラフトボタン">
+					<p>選択したアイテムの計算パネルが表示されるぞ！</p>
+			   		<img th:src="@{/image/説明_計算機画面.png}" alt="説明_計算機画面">
+				</div>
+				<div>
+					<h2>５．各パネルに数値を入力して理論値までの値を表示できるぞ！</h2>
+			   		<img th:src="@{/image/説明_計算前.png}" alt="説明_計算前">
+			   		<img th:src="@{/image/説明_計算後.png}" alt="説明_計算後">
+				</div>
+				<div>
+					<h2>６．特殊な木もしくは布の場合はあと何ターン後に何が起こるかが表示されるぞ！</h2>
+			   		<img th:src="@{/image/説明_特殊ターン.png}" alt="説明_特殊ターン">
+				</div>
+				<div>
+					<h2>７．リセットボタンを押せば、数値をリセットすることができるぞ！</h2>
+			   		<img th:src="@{/image/説明_リセットボタン前.png}" alt="説明_リセットボタン前">
+			   		<img th:src="@{/image/説明_リセットボタン後.png}" alt="説明_リセットボタン後">
+				</div>
+		   </section>
+	</div>
+	<!-- フッター -->
+	<footer class="text-center py-3 border-top bg-light">
+	  <small>© 2025 chiketools.com</small>
+	</footer>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+	<script th:src="@{/js/script.js}"></script>
+</body>
+
+</html>

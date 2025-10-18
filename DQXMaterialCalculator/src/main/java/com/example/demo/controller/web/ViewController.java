@@ -17,16 +17,22 @@ public class ViewController {
 	SelectedItemSession sessionBean;
 	@Autowired
 	private CraftService craftService;
+
 	@GetMapping("")
 	public String index() {
 		return "index";
 	}
-	
+
 	@GetMapping("craft")
 	public String craftCalculator(Model model) {
 		List<Craft> crafts = craftService.getCrafts(sessionBean.getItems());
 		model.addAttribute("crafts", crafts);
 		return "craft";
+	}
+
+	@GetMapping("about")
+	public String about() {
+		return "about";
 	}
 
 }
