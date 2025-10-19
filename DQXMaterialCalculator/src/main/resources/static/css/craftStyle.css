@@ -30,7 +30,7 @@
 }
 /* 各小カード */
 .small-card {
-	width: 240px;
+	width: 160px;
  	height: 120px;
 	display: flex;
 	flex-direction: column; 
