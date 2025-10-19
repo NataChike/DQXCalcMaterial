@@ -17,6 +17,14 @@ header h1 {
 	color: #959595
 }
 
+/*footer {*/
+/*  height: 60px;*/
+/*  display: flex;*/
+/*  align-items: center;        縦方向中央揃え */
+/*  justify-content: center;    横方向中央揃え */
+/*  padding: 0;*/
+/*}*/
+
 .icon, .icon a {
   height: 100%;
 }

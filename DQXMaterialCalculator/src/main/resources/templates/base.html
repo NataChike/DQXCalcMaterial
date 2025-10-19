@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+	<meta charset="UTF-8">
+	<title layout:fragment="title">ちけの便利ツール | DQX | 職人計算機</title>
+	<!-- 共通CSS -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+	<link rel="stylesheet" 	th:href="@{/css/style.css}">
+	<!-- ページ固有CSSをここに挿入 -->
+	<section layout:fragment="head-extra"></section>
+	<link rel="canonical" href="https://chiketools.com/dq10/crafter-calculator/">
+	<meta name="description" content="ドラゴンクエストXの職人素材を計算できるツール。木工、さいほうの理論値計算も可能。">
+	<meta name="keywords" content="DQX, ドラクエ10, ドラゴンクエストX, 職人, 素材計算機, 木工, さいほう, 便利ツール">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="DQX | 職人計算機">
+	<meta property="og:description" content="ドラゴンクエストXの職人素材を計算できるツール。木工、さいほうの理論値計算も可能。">
+	<meta property="og:url" content="https://chiketools.com/dq10/crafter-calculator/">
+	<meta property="og:type" content="website">
+	<meta name="google-site-verification" content="dIrrBwLV2o-NdNuDC0CJnG01g4_RXQ8My1fXKS4EgAc" />
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886700851072663"
+	     crossorigin="anonymous"></script>
+	 <!-- Thymeleaf で context-path を JS に渡す -->
+	 <script th:inline="javascript">
+	     /*<![CDATA[*/
+	     const CONTEXT_PATH = /*[[@{/}]]*/ '';
+	     /*]]>*/
+		 console.log(CONTEXT_PATH); 
+	 </script>
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+	<!-- ヘッダー -->
+	<header class="d-flex flex-row align-items-center justify-content-between">
+		<!-- 左：アイコン -->
+		<div class="icon d-flex align-items-center">
+			<a href="https://chiketools.com/" >	
+				<img th:src="@{/image/ちけの便利ツール_紫.png}" alt="アイコン" style="cursor: pointer;">
+			</a>
+		</div>
+
+		<!-- 中央：タイトル -->
+		<h1>DQX | 職人計算機</h1>
+
+		<!-- 右：お問い合わせ -->
+		<div class="header-right d-none d-md-flex">
+			<div class="about">
+			<a href="about" class="text-decoration-none">
+				<i class="bi bi-question-circle-fill"></i> 使い方
+			</a>
+			</div>
+			<div class="contact">
+			<a href="https://chike-tech.com/%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/"
+				class="text-decoration-none">
+				<i class="bi bi-envelope-fill"></i> お問い合わせ
+			</a>
+			</div>
+		</div>
+	</header>
+	<div class="header-right-md d-block d-md-none d-flex flex-column align-items-center justify-content-center">
+			<div class="about">
+			<a href="about" class="text-decoration-none">
+				<i class="bi bi-question-circle-fill"></i> 使い方
+			</a>
+			</div>
+			<div class="contact">
+			<a href="https://chike-tech.com/%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/"
+				class="text-decoration-none">
+				<i class="bi bi-envelope-fill"></i> お問い合わせ
+			</a>
+			</div>
+	 </div>
+	 <main layout:fragment="content" class="flex-grow-1">
+	     <!-- 子ページの内容がここに入る -->
+	 </main>
+	<!-- フッター -->
+	<footer class="border-top bg-light">
+		<div class="container d-flex flex-column flex-md-row justify-content-center align-items-center">
+		  <a href="https://chiketools.com/privacy-policy/" class="text-decoration-none mx-2 my-1">プライバシーポリシー</a>
+		  <a href="https://chiketools.com/terms/" class="text-decoration-none mx-2 my-1">利用規約</a>
+		</div>
+		<div class="text-center mt-1">
+	  		<small>© 2025 chiketools.com</small>
+	  	</div>
+	</footer>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+	<script th:src="@{/js/script.js}"></script>
+	<!-- ページ固有JSをここに挿入 -->
+	<section layout:fragment="foot-extra"></section>
+</body>
+
+</html>
