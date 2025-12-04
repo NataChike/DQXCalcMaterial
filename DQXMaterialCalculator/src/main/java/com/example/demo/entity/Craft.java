@@ -3,12 +3,14 @@ package com.example.demo.entity;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Craft {
 	private String name;
 	private String job;
 	private String category;
 	private String characteristic;
-	private List<Integer> value = new ArrayList<>();
+	private List<Integer> values = new ArrayList<>();
 
 	public String getName() {
 		return name;
@@ -42,11 +44,11 @@ public class Craft {
 		this.characteristic = characteristic;
 	}
 
-	public List<Integer> getValue() {
-		return value;
+	public List<Integer> getValues() {
+		return values;
 	}
 
-	public void setValue(List<Integer> value) {
-		this.value = value;
+	public void setValues(List<Integer> values) {
+		this.values = values;
 	}
 }

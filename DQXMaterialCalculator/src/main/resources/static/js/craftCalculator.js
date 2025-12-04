@@ -44,7 +44,7 @@ function createCard(craft) {
 	else if (craft.category === "からだ下") layoutClass = "layout-body-b";
 	else if (craft.category === "ウデ") layoutClass = "layout-arm";
 	else if (craft.category === "足") layoutClass = "layout-foot";
-	else if (craft.category === "イス") layoutClass = "layout-chair";
+	else if (craft.category === "いす") layoutClass = "layout-chair";
 	else if (craft.category === "テーブル") layoutClass = "layout-table";
 
 
