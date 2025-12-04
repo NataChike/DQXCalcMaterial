@@ -13,12 +13,12 @@ function createCard(craft) {
 	if (craft.characteristic === "木目変化") characteristic = "木目変化まであと"
 	else if (craft.characteristic === "燃え木") characteristic = "木が燃えるまであと"
 	else if (craft.characteristic === "再生木") characteristic = "木が再生するまであと"
+	else if (craft.characteristic === "虹木") characteristic = "集中力半分まであと"
 	else if (craft.characteristic === "再生布") characteristic = "布が再生するまであと"
-	else if (craft.characteristic === "虹布") {
-		characteristic = "集中力半分まであと"
-	}
+	else if (craft.characteristic === "会心布") characteristic = "威力・会心UPまであと"
+	else if (craft.characteristic === "虹布") characteristic = "集中力半分まであと"
 	else characteristic = ""
-	
+
 	let characteristicTurn = 4;
 	const characteristicTurnDiv = document.createElement("div");
 	characteristicTurnDiv.className = "characteristic-turn";
@@ -44,7 +44,9 @@ function createCard(craft) {
 	else if (craft.category === "からだ下") layoutClass = "layout-body-b";
 	else if (craft.category === "ウデ") layoutClass = "layout-arm";
 	else if (craft.category === "足") layoutClass = "layout-foot";
-	
+	else if (craft.category === "イス") layoutClass = "layout-chair";
+	else if (craft.category === "テーブル") layoutClass = "layout-table";
+
 
 	const container = document.createElement('div');
 	container.className = layoutClass;
@@ -109,12 +111,22 @@ function createCard(craft) {
 				if (characteristicTurn == 0) {
 					characteristicTurn = 4;
 					characteristicTurnDiv.classList.remove("lastTurn");
-					if (characteristic === "虹布"){
-						if(isCycled == false){
+					if (characteristic === "虹布") {
+						if (isCycled == false) {
 							characteristic = "集中力会心率UPまであと";
 							isCycled = true;
 						}
-						else if(isCycled == true) {
+						else if (isCycled == true) {
+							characteristic = "集中力半分まであと";
+							isCycled = false;
+						}
+					}
+					else if (characteristic === "虹木") {
+						if (isCycled == false) {
+							characteristic = "集中力会心率UPまであと";
+							isCycled = true;
+						}
+						else if (isCycled == true) {
 							characteristic = "集中力半分まであと";
 							isCycled = false;
 						}
