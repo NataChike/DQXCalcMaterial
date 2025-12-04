@@ -55,7 +55,7 @@ function createCard(craft) {
 	const smallCardResets = [];
 
 	// valueごとに小カードを作成
-	(craft.value || []).forEach((v, i) => {
+	(craft.values || []).forEach((v, i) => {
 		const s = document.createElement('div');
 		s.className = 'small-card';
 		const originalValue = v;
