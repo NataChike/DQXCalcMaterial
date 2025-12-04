@@ -4,7 +4,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -16,7 +16,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -28,7 +28,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -40,7 +40,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -52,7 +52,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			30,
@@ -64,7 +64,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			23,
 			23,
@@ -76,7 +76,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			30,
 			23,
@@ -88,7 +88,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			30,
@@ -100,7 +100,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			30,
 			45,
@@ -112,7 +112,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			45,
 			45,
@@ -124,7 +124,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			40,
 			23,
 			50,
@@ -136,7 +136,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			23,
 			45,
@@ -148,7 +148,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			40,
 			23,
 			30,
@@ -160,7 +160,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -172,7 +172,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			30,
 			60,
@@ -184,7 +184,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			75,
@@ -196,7 +196,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			60,
@@ -208,7 +208,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			75,
@@ -220,7 +220,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			45,
 			30,
 			90,
@@ -232,7 +232,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			75,
 			45,
 			60,
@@ -244,7 +244,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			75,
 			45,
@@ -256,7 +256,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			50,
 			55,
 			75,
@@ -268,7 +268,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			60,
 			45,
 			75,
@@ -280,7 +280,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			60,
 			60,
 			105,
@@ -292,7 +292,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			75,
 			90,
@@ -304,7 +304,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			75,
 			90,
 			90,
@@ -316,7 +316,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			90,
 			75,
@@ -328,7 +328,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			90,
 			90,
 			75,
@@ -340,7 +340,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			85,
 			85,
 			140,
@@ -352,7 +352,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			95,
 			130,
 			130,
@@ -364,7 +364,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			120,
 			140,
 			100,
@@ -376,7 +376,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			115,
 			115,
 			115,
@@ -388,7 +388,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			95,
 			95,
 			130,
@@ -400,7 +400,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			110,
 			140,
@@ -412,7 +412,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			100,
 			150,
@@ -424,7 +424,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			100,
 			100,
 			150,
@@ -436,7 +436,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			175,
 			125,
 			125,
@@ -448,7 +448,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			110,
 			110,
 			165,
@@ -460,7 +460,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			100,
 			175,
 			175,
@@ -472,7 +472,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			150,
 			152,
@@ -484,7 +484,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			135,
 			135,
 			165,
@@ -496,7 +496,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			120,
 			120,
 			180,
@@ -508,7 +508,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			170,
 			170,
 			130,
@@ -520,7 +520,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			135,
 			180,
 			210,
@@ -532,7 +532,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			200,
 			120,
@@ -544,7 +544,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			104,
 			130,
 			300,
@@ -556,7 +556,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			152,
 			152,
@@ -568,7 +568,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			130,
 			170,
@@ -580,7 +580,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			150,
 			180,
@@ -592,7 +592,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			140,
 			200,
@@ -604,7 +604,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			210,
 			210,
@@ -616,7 +616,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			140,
 			250,
@@ -628,7 +628,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			165,
 			185,
@@ -640,7 +640,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			185,
 			155,
 			155,
@@ -652,7 +652,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			140,
 			234,
@@ -664,7 +664,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			190,
 			190,
@@ -676,7 +676,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			240,
 			240,
 			145,
@@ -688,7 +688,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			140,
 			210,
@@ -700,7 +700,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			200,
 			150,
@@ -712,7 +712,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			140,
 			280,
@@ -724,7 +724,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			170,
 			170,
 			215,
@@ -736,7 +736,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			160,
 			160,
@@ -748,7 +748,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			150,
 			246,
@@ -760,7 +760,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			155,
 			205,
 			205,
@@ -772,7 +772,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			198,
 			198,
 			198,
@@ -784,7 +784,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			165,
 			165,
 			215,
@@ -796,7 +796,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			209,
 			209,
 			209,
@@ -808,7 +808,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			178,
 			240,
 			240,
@@ -820,7 +820,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			220,
 			170,
 			170,
@@ -832,7 +832,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			215,
 			215,
 			215,
@@ -844,7 +844,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			185,
 			185,
 			244,
@@ -856,7 +856,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			200,
 			200,
@@ -868,7 +868,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			185,
 			185,
 			255,
@@ -880,7 +880,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			250,
 			190,
 			190,
@@ -892,7 +892,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			185,
 			185,
 			235,
@@ -904,7 +904,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			261,
 			201,
 			201,
@@ -916,7 +916,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			231,
 			231,
 			231,
@@ -928,7 +928,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -940,7 +940,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -952,7 +952,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -964,7 +964,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			30,
@@ -976,7 +976,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			30,
 			23,
@@ -988,7 +988,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -1000,7 +1000,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			23,
 			23,
@@ -1012,7 +1012,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			30,
@@ -1024,7 +1024,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			30,
 			45,
@@ -1036,7 +1036,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			23,
 			45,
@@ -1048,7 +1048,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			45,
 			45,
@@ -1060,7 +1060,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			23,
 			45,
@@ -1072,7 +1072,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			45,
 			45,
@@ -1084,7 +1084,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			30,
 			75,
@@ -1096,7 +1096,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			60,
@@ -1108,7 +1108,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			45,
 			75,
@@ -1120,7 +1120,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			75,
@@ -1132,7 +1132,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			90,
@@ -1144,7 +1144,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			90,
@@ -1156,7 +1156,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			90,
@@ -1168,7 +1168,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			45,
 			75,
@@ -1180,7 +1180,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			60,
 			60,
 			75,
@@ -1192,7 +1192,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			45,
 			60,
 			75,
@@ -1204,7 +1204,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			60,
 			90,
 			105,
@@ -1216,7 +1216,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			90,
 			75,
 			90,
@@ -1228,7 +1228,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			105,
 			60,
 			105,
@@ -1240,7 +1240,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			60,
 			75,
 			105,
@@ -1252,7 +1252,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			120,
 			105,
 			120,
@@ -1264,7 +1264,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			105,
 			135,
@@ -1276,7 +1276,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			112,
 			112,
 			112,
@@ -1288,7 +1288,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			125,
 			75,
 			175,
@@ -1300,7 +1300,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			60,
 			120,
 			150,
@@ -1312,7 +1312,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			110,
 			100,
 			150,
@@ -1324,7 +1324,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			125,
 			125,
 			125,
@@ -1336,7 +1336,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			125,
 			150,
@@ -1348,7 +1348,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			125,
 			125,
 			175,
@@ -1360,7 +1360,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			175,
 			100,
 			175,
@@ -1372,7 +1372,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			130,
 			120,
 			160,
@@ -1384,7 +1384,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			125,
 			160,
 			160,
@@ -1396,7 +1396,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			150,
 			130,
 			190,
@@ -1408,7 +1408,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			150,
 			150,
 			150,
@@ -1420,7 +1420,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			180,
 			120,
 			180,
@@ -1432,7 +1432,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			120,
 			180,
 			180,
@@ -1444,7 +1444,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			150,
 			140,
@@ -1456,7 +1456,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			200,
 			254,
@@ -1468,7 +1468,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			176,
 			176,
 			176,
@@ -1480,7 +1480,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			140,
 			200,
 			100,
@@ -1492,7 +1492,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			180,
 			160,
@@ -1504,7 +1504,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			170,
 			258,
@@ -1516,7 +1516,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			170,
 			170,
 			170,
@@ -1528,7 +1528,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			150,
 			200,
@@ -1540,7 +1540,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			200,
 			130,
@@ -1552,7 +1552,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			160,
 			160,
@@ -1564,7 +1564,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			190,
 			170,
 			218,
@@ -1576,7 +1576,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			210,
 			180,
@@ -1588,7 +1588,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			200,
 			230,
@@ -1600,7 +1600,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			175,
 			175,
 			175,
@@ -1612,7 +1612,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			220,
 			160,
 			160,
@@ -1624,7 +1624,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			220,
 			200,
@@ -1636,7 +1636,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			180,
 			250,
@@ -1648,7 +1648,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			170,
 			230,
@@ -1660,7 +1660,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			226,
 			180,
@@ -1672,7 +1672,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			210,
 			150,
 			210,
@@ -1684,7 +1684,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			190,
 			252,
@@ -1696,7 +1696,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			174,
 			174,
 			238,
@@ -1708,7 +1708,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			216,
 			180,
 			260,
@@ -1720,7 +1720,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			180,
 			180,
 			240,
@@ -1732,7 +1732,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			175,
 			215,
 			253,
@@ -1744,7 +1744,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			239,
 			190,
 			239,
@@ -1756,7 +1756,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			200,
 			200,
@@ -1768,7 +1768,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			240,
 			170,
 			300,
@@ -1780,7 +1780,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			194,
 			230,
 			270,
@@ -1792,7 +1792,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			231,
 			231,
 			231,
@@ -1804,7 +1804,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			220,
 			220,
 			220,
@@ -1816,7 +1816,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -1830,7 +1830,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -1844,7 +1844,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -1858,7 +1858,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			15,
@@ -1872,7 +1872,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -1886,7 +1886,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			15,
 			15,
@@ -1900,7 +1900,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			23,
@@ -1914,7 +1914,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			23,
 			15,
@@ -1928,7 +1928,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			23,
 			23,
@@ -1942,7 +1942,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			30,
@@ -1956,7 +1956,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -1970,7 +1970,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			30,
 			23,
@@ -1984,7 +1984,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -1998,7 +1998,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			35,
 			35,
 			40,
@@ -2012,7 +2012,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			40,
 			40,
 			35,
@@ -2026,7 +2026,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			35,
@@ -2040,7 +2040,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			35,
 			40,
 			40,
@@ -2054,7 +2054,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			75,
 			30,
 			45,
@@ -2068,7 +2068,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			38,
 			37,
 			60,
@@ -2082,7 +2082,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			60,
 			30,
 			38,
@@ -2096,7 +2096,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			55,
 			50,
 			45,
@@ -2110,7 +2110,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			45,
 			60,
 			45,
@@ -2124,7 +2124,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			65,
 			65,
 			55,
@@ -2138,7 +2138,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			70,
 			75,
 			60,
@@ -2152,7 +2152,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			45,
 			45,
 			55,
@@ -2166,7 +2166,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			70,
 			70,
 			50,
@@ -2180,7 +2180,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			70,
 			70,
 			55,
@@ -2194,7 +2194,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			100,
 			50,
 			75,
@@ -2208,7 +2208,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			130,
 			90,
 			65,
@@ -2222,7 +2222,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			75,
@@ -2236,7 +2236,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			60,
 			60,
 			75,
@@ -2250,7 +2250,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			83,
 			83,
 			83,
@@ -2264,7 +2264,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			110,
 			80,
@@ -2278,7 +2278,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			120,
 			120,
 			90,
@@ -2292,7 +2292,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			105,
 			105,
 			90,
@@ -2306,7 +2306,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			140,
 			140,
 			92,
@@ -2320,7 +2320,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			170,
 			90,
 			70,
@@ -2334,7 +2334,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			160,
 			100,
 			90,
@@ -2348,7 +2348,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			70,
 			70,
 			90,
@@ -2362,7 +2362,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			160,
 			110,
 			70,
@@ -2376,7 +2376,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			110,
 			110,
 			110,
@@ -2390,7 +2390,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			140,
 			105,
@@ -2404,7 +2404,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			90,
 			90,
@@ -2418,7 +2418,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			152,
 			152,
 			120,
@@ -2432,7 +2432,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			135,
 			80,
 			105,
@@ -2446,7 +2446,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			200,
 			80,
 			74,
@@ -2460,7 +2460,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			150,
 			110,
@@ -2474,7 +2474,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			188,
 			100,
 			110,
@@ -2488,7 +2488,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			140,
 			110,
@@ -2502,7 +2502,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			94,
 			120,
@@ -2516,7 +2516,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			85,
 			85,
 			105,
@@ -2530,7 +2530,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			110,
 			120,
@@ -2543,7 +2543,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			150,
 			120,
@@ -2557,7 +2557,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			80,
 			70,
@@ -2571,7 +2571,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			160,
 			125,
@@ -2585,7 +2585,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			150,
 			150,
@@ -2599,7 +2599,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			100,
 			130,
@@ -2613,7 +2613,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			130,
 			170,
@@ -2627,7 +2627,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			125,
 			150,
 			150,
@@ -2641,7 +2641,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			171,
 			171,
 			136,
@@ -2655,7 +2655,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			118,
 			170,
 			170,
@@ -2669,7 +2669,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			170,
 			170,
 			140,
@@ -2683,7 +2683,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			145,
 			185,
 			185,
@@ -2697,7 +2697,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			130,
 			130,
@@ -2711,7 +2711,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			185,
 			185,
@@ -2725,7 +2725,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			170,
 			170,
 			145,
@@ -2739,14 +2739,14 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": []
+		"value": []
 	},
 	{
 		"name": "賢哲のころも下",
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			96,
 			96,
@@ -2763,7 +2763,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			250,
 			250,
 			150,
@@ -2777,7 +2777,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -2794,7 +2794,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -2811,7 +2811,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -2828,7 +2828,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "七夕イベント装備",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -2845,7 +2845,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			23,
@@ -2862,7 +2862,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -2879,7 +2879,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			15,
 			15,
@@ -2896,7 +2896,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -2913,7 +2913,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -2930,7 +2930,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			15,
 			15,
@@ -2947,7 +2947,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			23,
@@ -2964,7 +2964,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -2981,7 +2981,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			15,
 			15,
@@ -2998,7 +2998,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			30,
@@ -3015,7 +3015,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -3032,7 +3032,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -3049,7 +3049,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -3066,7 +3066,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -3083,7 +3083,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			23,
 			30,
@@ -3100,7 +3100,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			35,
 			23,
 			35,
@@ -3117,7 +3117,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			40,
 			23,
 			23,
@@ -3134,7 +3134,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			30,
 			23,
 			30,
@@ -3151,7 +3151,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			30,
 			23,
 			30,
@@ -3168,7 +3168,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			30,
 			23,
 			50,
@@ -3185,7 +3185,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			40,
 			32,
 			40,
@@ -3202,7 +3202,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			32,
 			32,
 			40,
@@ -3219,7 +3219,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			40,
 			32,
 			40,
@@ -3236,7 +3236,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			32,
 			32,
 			32,
@@ -3253,7 +3253,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			45,
 			32,
 			45,
@@ -3270,7 +3270,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			55,
 			35,
 			70,
@@ -3287,7 +3287,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			60,
 			35,
 			50,
@@ -3304,7 +3304,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			70,
 			35,
 			70,
@@ -3321,7 +3321,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			35,
 			60,
@@ -3338,7 +3338,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			55,
 			35,
 			55,
@@ -3355,7 +3355,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			65,
 			35,
 			65,
@@ -3372,7 +3372,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			70,
 			35,
 			70,
@@ -3389,7 +3389,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			80,
 			35,
 			70,
@@ -3406,7 +3406,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			65,
 			40,
 			65,
@@ -3423,7 +3423,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			100,
 			40,
 			50,
@@ -3440,7 +3440,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			75,
 			40,
 			75,
@@ -3457,7 +3457,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			70,
 			40,
 			70,
@@ -3474,7 +3474,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			80,
 			40,
 			80,
@@ -3491,7 +3491,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			90,
 			45,
 			90,
@@ -3508,7 +3508,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			95,
 			40,
 			95,
@@ -3525,7 +3525,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			90,
 			45,
 			90,
@@ -3542,7 +3542,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			60,
 			80,
@@ -3559,7 +3559,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			85,
 			45,
 			85,
@@ -3576,7 +3576,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			45,
 			90,
@@ -3593,7 +3593,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			65,
 			90,
@@ -3610,7 +3610,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			45,
 			80,
@@ -3627,7 +3627,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			45,
 			105,
@@ -3644,7 +3644,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			90,
 			69,
 			115,
@@ -3661,7 +3661,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			60,
 			90,
@@ -3678,7 +3678,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			70,
 			60,
 			70,
@@ -3695,7 +3695,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			45,
 			134,
@@ -3712,7 +3712,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			45,
 			90,
@@ -3729,7 +3729,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			45,
 			90,
@@ -3746,7 +3746,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			60,
 			100,
@@ -3763,7 +3763,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			45,
 			75,
@@ -3780,7 +3780,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			45,
 			90,
@@ -3797,7 +3797,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			75,
 			100,
@@ -3814,7 +3814,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			115,
 			45,
 			105,
@@ -3831,7 +3831,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			60,
 			100,
@@ -3848,7 +3848,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			131,
 			75,
 			131,
@@ -3865,7 +3865,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			60,
 			105,
@@ -3882,7 +3882,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			126,
 			45,
 			126,
@@ -3899,7 +3899,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			75,
 			100,
@@ -3916,7 +3916,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			60,
 			120,
@@ -3933,7 +3933,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			60,
 			150,
@@ -3950,7 +3950,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			90,
 			90,
@@ -3967,7 +3967,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			60,
 			115,
@@ -3984,7 +3984,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			75,
 			105,
@@ -4001,7 +4001,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			75,
 			90,
@@ -4018,7 +4018,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			75,
 			110,
@@ -4035,7 +4035,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			60,
 			125,
@@ -4052,7 +4052,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			75,
 			100,
@@ -4069,7 +4069,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			68,
 			150,
@@ -4086,7 +4086,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			96,
 			96,
@@ -4103,7 +4103,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			22,
 			22,
 			22,
@@ -4117,7 +4117,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			22,
 			22,
 			26,
@@ -4131,7 +4131,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			22,
 			22,
 			33,
@@ -4145,7 +4145,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			29,
 			29,
 			29,
@@ -4159,7 +4159,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			29,
 			29,
 			40,
@@ -4173,7 +4173,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			33,
 			44,
@@ -4187,7 +4187,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			33,
 			49,
@@ -4201,7 +4201,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			32,
 			32,
 			53,
@@ -4215,7 +4215,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			37,
 			37,
 			58,
@@ -4229,7 +4229,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			43,
 			43,
 			58,
@@ -4243,7 +4243,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			48,
 			48,
 			53,
@@ -4257,7 +4257,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			60,
 			60,
 			84,
@@ -4271,7 +4271,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			53,
 			53,
 			80,
@@ -4285,7 +4285,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			72,
 			72,
 			96,
@@ -4299,7 +4299,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			72,
 			72,
 			84,
@@ -4313,7 +4313,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			75,
 			75,
 			108,
@@ -4327,7 +4327,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "再生木",
-		"values": [
+		"value": [
 			73,
 			73,
 			104,
@@ -4341,7 +4341,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "再生木",
-		"values": [
+		"value": [
 			76,
 			76,
 			95,
@@ -4355,7 +4355,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "再生木",
-		"values": [
+		"value": [
 			83,
 			83,
 			170,
@@ -4369,7 +4369,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			91,
 			91,
 			111,
@@ -4383,7 +4383,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			90,
 			150,
@@ -4397,7 +4397,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			104,
 			104,
 			130,
@@ -4411,7 +4411,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			145,
 			130,
 			110,
@@ -4425,7 +4425,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			90,
 			130,
@@ -4439,7 +4439,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "虹木",
-		"values": [
+		"value": [
 			98,
 			98,
 			160,
@@ -4453,7 +4453,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			114,
 			114,
 			152,
@@ -4467,7 +4467,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			120,
 			160,
@@ -4481,7 +4481,7 @@
 		"job": "木工職人",
 		"category": "棍",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			100,
 			180,
@@ -4495,7 +4495,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			30,
 			30,
@@ -4507,7 +4507,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			25,
 			25,
 			40,
@@ -4519,7 +4519,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			44,
 			44,
 			33,
@@ -4531,7 +4531,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			38,
 			38,
 			49,
@@ -4543,7 +4543,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			44,
 			44,
 			55,
@@ -4555,7 +4555,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			49,
 			49,
 			60,
@@ -4567,7 +4567,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			55,
 			55,
 			66,
@@ -4579,7 +4579,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			71,
@@ -4591,7 +4591,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			53,
 			53,
 			86,
@@ -4603,7 +4603,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			78,
 			78,
 			90,
@@ -4615,7 +4615,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			75,
 			75,
 			91,
@@ -4627,7 +4627,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			90,
 			90,
 			114,
@@ -4639,7 +4639,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			102,
 			121,
 			121,
@@ -4651,7 +4651,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			97,
 			97,
 			118,
@@ -4663,7 +4663,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			107,
 			107,
 			123,
@@ -4675,7 +4675,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			126,
 			126,
 			148,
@@ -4687,7 +4687,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "木目復活",
-		"values": [
+		"value": [
 			114,
 			114,
 			152,
@@ -4699,7 +4699,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			142,
 			142,
 			142,
@@ -4711,7 +4711,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			150,
 			150,
 			220,
@@ -4723,7 +4723,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			143,
 			143,
 			190,
@@ -4735,7 +4735,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			153,
 			153,
 			185,
@@ -4747,7 +4747,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			170,
 			192,
 			157,
@@ -4759,7 +4759,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			170,
 			193,
 			153,
@@ -4771,7 +4771,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			175,
 			175,
 			175,
@@ -4783,7 +4783,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "虹木",
-		"values": [
+		"value": [
 			160,
 			218,
 			218,
@@ -4795,7 +4795,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			181,
 			218,
 			181,
@@ -4807,7 +4807,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "",
-		"values": [
+		"value": [
 			172,
 			220,
 			220,
@@ -4819,7 +4819,7 @@
 		"job": "木工職人",
 		"category": "扇",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			195,
 			253,
 			160,
@@ -4831,7 +4831,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			30,
 			30
@@ -4842,7 +4842,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			45,
 			45
@@ -4853,7 +4853,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			45
@@ -4864,7 +4864,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			44,
 			60,
 			71
@@ -4875,7 +4875,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			49,
 			66,
 			82
@@ -4886,7 +4886,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			71,
 			88
@@ -4897,7 +4897,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			77,
 			93
@@ -4908,7 +4908,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			84,
 			96,
 			108
@@ -4919,7 +4919,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			80,
 			91,
 			107
@@ -4930,7 +4930,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			118,
 			86,
 			97
@@ -4941,7 +4941,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			108,
 			145,
 			121
@@ -4952,7 +4952,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			107,
 			118,
 			140
@@ -4963,7 +4963,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			162,
 			150,
 			133
@@ -4974,7 +4974,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			129,
 			140,
 			161
@@ -4985,7 +4985,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			140,
 			155,
 			166
@@ -4996,7 +4996,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			163,
 			187,
 			199
@@ -5007,7 +5007,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "再生木",
-		"values": [
+		"value": [
 			156,
 			175,
 			199
@@ -5018,7 +5018,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			166,
 			213,
 			190
@@ -5029,7 +5029,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			177,
 			177,
 			286
@@ -5040,7 +5040,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			300,
 			259,
 			189
@@ -5051,7 +5051,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			198,
 			228,
 			250
@@ -5062,7 +5062,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			255,
 			185,
 			255
@@ -5073,7 +5073,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			270,
 			230,
 			200
@@ -5084,7 +5084,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			260,
 			290,
 			220
@@ -5095,7 +5095,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			205,
 			235,
 			265
@@ -5106,7 +5106,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			236,
 			300,
 			300
@@ -5117,7 +5117,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "",
-		"values": [
+		"value": [
 			300,
 			240,
 			300
@@ -5128,7 +5128,7 @@
 		"job": "木工職人",
 		"category": "両手杖",
 		"characteristic": "虹",
-		"values": [
+		"value": [
 			250,
 			280,
 			331
@@ -5139,7 +5139,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45
 		]
@@ -5149,7 +5149,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60
 		]
@@ -5159,7 +5159,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			90
 		]
@@ -5169,7 +5169,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			104
 		]
@@ -5179,7 +5179,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			82,
 			115
 		]
@@ -5189,7 +5189,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			93,
 			126
 		]
@@ -5199,7 +5199,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			104,
 			137
 		]
@@ -5209,7 +5209,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			107,
 			150
 		]
@@ -5219,7 +5219,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			118,
 			161
 		]
@@ -5229,7 +5229,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			145,
 			193
 		]
@@ -5239,7 +5239,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			188,
 			145
 		]
@@ -5249,7 +5249,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			155,
 			209
 		]
@@ -5259,7 +5259,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			172,
 			226
 		]
@@ -5269,7 +5269,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			215,
 			215
 		]
@@ -5279,7 +5279,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			229,
 			290
 		]
@@ -5289,7 +5289,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			215,
 			274
 		]
@@ -5299,7 +5299,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			232,
 			299
 		]
@@ -5309,7 +5309,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			294,
 			294
 		]
@@ -5319,7 +5319,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			360,
 			267
 		]
@@ -5329,7 +5329,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			340,
 			340
 		]
@@ -5339,7 +5339,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			348,
 			411
 		]
@@ -5349,7 +5349,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			373,
 			303
 		]
@@ -5359,7 +5359,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			290,
 			396
 		]
@@ -5369,7 +5369,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			343,
 			343
 		]
@@ -5379,7 +5379,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "再生木",
-		"values": [
+		"value": [
 			385,
 			335
 		]
@@ -5389,7 +5389,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			329,
 			415
 		]
@@ -5399,7 +5399,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "",
-		"values": [
+		"value": [
 			400,
 			400
 		]
@@ -5409,7 +5409,7 @@
 		"job": "木工職人",
 		"category": "スティック",
 		"characteristic": "再生",
-		"values": [
+		"value": [
 			380,
 			440
 		]
@@ -5419,7 +5419,7 @@
 		"job": "木工職人",
 		"category": "釣りざお",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			60,
 			75,
@@ -5432,7 +5432,7 @@
 		"job": "木工職人",
 		"category": "釣りざお",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			101,
 			90,
@@ -5445,7 +5445,7 @@
 		"job": "木工職人",
 		"category": "釣りざお",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			125,
 			100,
 			125,
@@ -5458,7 +5458,7 @@
 		"job": "木工職人",
 		"category": "釣りざお",
 		"characteristic": "再生木",
-		"values": [
+		"value": [
 			60,
 			100,
 			120,
@@ -5471,7 +5471,7 @@
 		"job": "木工職人",
 		"category": "釣りざお",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			110,
 			110,
@@ -5484,7 +5484,7 @@
 		"job": "木工職人",
 		"category": "釣りざお",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			157,
 			90,
 			90,
@@ -5497,7 +5497,7 @@
 		"job": "木工職人",
 		"category": "釣りざお",
 		"characteristic": "再生木",
-		"values": [
+		"value": [
 			90,
 			110,
 			90,
@@ -5510,7 +5510,7 @@
 		"job": "木工職人",
 		"category": "釣りざお",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			105,
 			105,
 			105,
@@ -5523,7 +5523,7 @@
 		"job": "木工職人",
 		"category": "釣りざお",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			100,
 			115,
@@ -5536,7 +5536,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -5550,7 +5550,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -5564,7 +5564,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			15,
@@ -5578,7 +5578,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			15,
 			23,
@@ -5592,7 +5592,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			15,
 			15,
@@ -5606,7 +5606,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			15,
 			23,
 			15,
@@ -5620,7 +5620,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			30,
@@ -5634,7 +5634,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -5648,7 +5648,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			23,
 			23,
 			23,
@@ -5662,7 +5662,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			23,
 			23,
@@ -5676,7 +5676,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			23,
 			45,
@@ -5690,7 +5690,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			23,
 			30,
@@ -5704,7 +5704,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			38,
 			30,
 			60,
@@ -5718,7 +5718,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			30,
 			30,
 			60,
@@ -5732,7 +5732,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			40,
 			30,
 			55,
@@ -5746,7 +5746,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			30,
 			55,
@@ -5760,7 +5760,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			55,
 			35,
 			75,
@@ -5774,7 +5774,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			75,
@@ -5788,7 +5788,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			50,
 			40,
 			75,
@@ -5802,7 +5802,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			50,
 			35,
 			80,
@@ -5816,7 +5816,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			105,
@@ -5830,7 +5830,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			70,
 			45,
 			110,
@@ -5844,7 +5844,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			75,
 			45,
 			105,
@@ -5858,7 +5858,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			85,
 			50,
 			115,
@@ -5872,7 +5872,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			60,
 			120,
 			70,
@@ -5886,7 +5886,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			90,
 			60,
 			125,
@@ -5900,7 +5900,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			85,
 			70,
 			120,
@@ -5914,7 +5914,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			85,
 			130,
 			85,
@@ -5928,7 +5928,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			100,
 			50,
 			150,
@@ -5942,7 +5942,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			70,
 			155,
@@ -5956,7 +5956,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			105,
 			110,
@@ -5970,7 +5970,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			85,
 			75,
 			130,
@@ -5984,7 +5984,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			84,
 			140,
@@ -5998,7 +5998,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			70,
 			110,
 			140,
@@ -6012,7 +6012,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			60,
 			160,
@@ -6026,7 +6026,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			80,
 			174,
@@ -6040,7 +6040,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			70,
 			130,
@@ -6054,7 +6054,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			115,
 			80,
 			145,
@@ -6068,7 +6068,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			94,
 			160,
@@ -6082,7 +6082,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			115,
 			70,
 			155,
@@ -6096,7 +6096,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			110,
 			140,
@@ -6110,7 +6110,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			125,
 			160,
@@ -6124,7 +6124,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			140,
 			105,
@@ -6138,7 +6138,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			120,
 			150,
@@ -6152,7 +6152,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			125,
 			95,
 			165,
@@ -6166,7 +6166,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			130,
 			165,
@@ -6180,7 +6180,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			80,
 			150,
@@ -6194,7 +6194,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			143,
 			110,
 			143,
@@ -6208,7 +6208,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			125,
 			90,
 			145,
@@ -6222,7 +6222,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			135,
 			90,
 			171,
@@ -6236,7 +6236,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			145,
 			110,
 			125,
@@ -6250,7 +6250,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			183,
 			135,
 			100,
@@ -6264,7 +6264,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			112,
 			166,
@@ -6278,7 +6278,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			110,
 			130,
@@ -6292,7 +6292,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			174,
 			115,
 			140,
@@ -6306,7 +6306,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			135,
 			105,
 			189,
@@ -6320,7 +6320,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			135,
 			100,
 			165,
@@ -6334,7 +6334,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			170,
 			125,
 			145,
@@ -6348,7 +6348,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			110,
 			170,
@@ -6362,7 +6362,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			185,
 			125,
 			152,
@@ -6376,7 +6376,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			152,
 			110,
 			200,
@@ -6390,7 +6390,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			22,
 			22,
 			33,
@@ -6403,7 +6403,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			22,
 			22,
@@ -6416,7 +6416,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			33,
 			22,
@@ -6429,7 +6429,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			33,
 			45,
@@ -6442,7 +6442,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			33,
 			45,
@@ -6455,7 +6455,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			55,
 			33,
 			45,
@@ -6468,7 +6468,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			33,
@@ -6481,7 +6481,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			53,
 			44,
 			58,
@@ -6494,7 +6494,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			66,
 			49,
 			82,
@@ -6507,7 +6507,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			68,
 			49,
 			64,
@@ -6520,7 +6520,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			68,
 			58,
 			78,
@@ -6533,7 +6533,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			64,
 			78,
 			78,
@@ -6546,7 +6546,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			96,
 			71,
 			110,
@@ -6559,7 +6559,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			88,
 			68,
 			93,
@@ -6572,7 +6572,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			110,
 			79,
 			140,
@@ -6585,7 +6585,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "木目変化",
-		"values": [
+		"value": [
 			98,
 			78,
 			137,
@@ -6598,7 +6598,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "再生木",
-		"values": [
+		"value": [
 			114,
 			95,
 			142,
@@ -6611,7 +6611,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "再生木",
-		"values": [
+		"value": [
 			114,
 			85,
 			152,
@@ -6624,7 +6624,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			132,
 			99,
 			220,
@@ -6637,7 +6637,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			135,
 			110,
 			176,
@@ -6650,7 +6650,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			95,
 			200,
@@ -6663,7 +6663,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			130,
 			239,
@@ -6676,7 +6676,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			145,
 			190,
@@ -6689,7 +6689,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			125,
 			150,
@@ -6702,7 +6702,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "虹木",
-		"values": [
+		"value": [
 			155,
 			120,
 			206,
@@ -6715,7 +6715,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			155,
 			120,
 			210,
@@ -6728,7 +6728,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "",
-		"values": [
+		"value": [
 			165,
 			135,
 			240,
@@ -6741,7 +6741,7 @@
 		"job": "木工職人",
 		"category": "弓",
 		"characteristic": "燃え木",
-		"values": [
+		"value": [
 			140,
 			186,
 			250,
@@ -6754,7 +6754,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			30,
 			60,
@@ -6768,7 +6768,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			30,
 			60,
@@ -6782,7 +6782,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			65,
 			35,
 			65,
@@ -6796,7 +6796,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			75,
 			100,
@@ -6810,7 +6810,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			60,
@@ -6824,7 +6824,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			95,
 			60,
 			95,
@@ -6838,7 +6838,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			55,
 			75,
@@ -6852,7 +6852,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			70,
 			100,
@@ -6866,7 +6866,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			115,
 			80,
@@ -6880,7 +6880,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			70,
 			80,
@@ -6894,7 +6894,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			70,
 			120,
@@ -6908,7 +6908,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			125,
 			60,
 			125,
@@ -6922,7 +6922,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			50,
 			80,
 			50,
@@ -6936,7 +6936,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			80,
 			110,
@@ -6950,7 +6950,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			124,
 			90,
 			160,
@@ -6964,7 +6964,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			90,
 			120,
@@ -6978,7 +6978,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			115,
 			95,
 			130,
@@ -6992,7 +6992,7 @@
 		"job": "さいほう職人",
 		"category": "ラグ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			70,
 			90,
@@ -7006,7 +7006,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			75,
 			50,
@@ -7021,7 +7021,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			70,
 			50,
@@ -7036,7 +7036,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			90,
 			50,
@@ -7051,7 +7051,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			85,
 			50,
@@ -7066,7 +7066,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			70,
 			80,
@@ -7081,7 +7081,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			65,
 			90,
@@ -7096,7 +7096,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			70,
 			50,
@@ -7111,7 +7111,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			75,
 			50,
@@ -7126,7 +7126,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			65,
 			65,
@@ -7141,7 +7141,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			70,
 			55,
@@ -7156,7 +7156,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			90,
 			60,
@@ -7171,7 +7171,7 @@
 		"job": "さいほう職人",
 		"category": "ぬいぐるみ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			75,
 			75,
@@ -7186,7 +7186,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			33,
 			33,
@@ -7202,7 +7202,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			22,
 			33,
 			33,
@@ -7218,7 +7218,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			33,
 			33,
@@ -7234,7 +7234,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			33,
 			45,
@@ -7250,7 +7250,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			22,
 			33,
 			45,
@@ -7266,7 +7266,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			45,
 			33,
@@ -7282,7 +7282,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			45,
 			60,
@@ -7298,7 +7298,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7314,7 +7314,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			60,
@@ -7330,7 +7330,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			45,
@@ -7345,7 +7345,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			45,
 			60,
@@ -7361,7 +7361,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			60,
@@ -7377,7 +7377,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7393,7 +7393,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7408,7 +7408,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7424,7 +7424,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			60,
@@ -7440,7 +7440,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			60,
@@ -7456,7 +7456,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			55,
@@ -7471,7 +7471,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			45,
@@ -7486,7 +7486,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			45,
@@ -7501,7 +7501,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			33,
@@ -7517,7 +7517,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7533,7 +7533,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			33,
@@ -7549,7 +7549,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			33,
@@ -7565,7 +7565,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			45,
 			45,
@@ -7580,7 +7580,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			60,
@@ -7596,7 +7596,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			45,
@@ -7611,7 +7611,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			45,
@@ -7626,7 +7626,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			55,
@@ -7641,7 +7641,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			45,
@@ -7657,7 +7657,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			33,
@@ -7673,7 +7673,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			33,
 			45,
 			60,
@@ -7689,7 +7689,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			33,
@@ -7705,7 +7705,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7721,7 +7721,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			30,
 			60,
@@ -7737,7 +7737,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			45,
@@ -7752,7 +7752,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			45,
@@ -7767,7 +7767,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			30,
@@ -7783,7 +7783,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			82,
@@ -7798,7 +7798,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			30,
 			45,
@@ -7814,7 +7814,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			30,
 			45,
@@ -7830,7 +7830,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			30,
@@ -7846,7 +7846,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			45,
@@ -7862,7 +7862,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7877,7 +7877,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			60,
@@ -7892,7 +7892,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			30,
@@ -7908,7 +7908,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			45,
@@ -7923,7 +7923,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7939,7 +7939,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7955,7 +7955,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7971,7 +7971,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -7987,7 +7987,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -8002,7 +8002,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			45,
@@ -8017,7 +8017,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			60,
@@ -8033,7 +8033,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			60,
 			60,
@@ -8048,7 +8048,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -8064,7 +8064,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			60,
@@ -8080,7 +8080,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			44,
 			58,
 			58,
@@ -8096,7 +8096,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			44,
 			58,
@@ -8112,7 +8112,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			53,
@@ -8127,7 +8127,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			44,
@@ -8142,7 +8142,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			88,
 			58,
@@ -8157,7 +8157,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			58,
 			44,
@@ -8173,7 +8173,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			58,
 			44,
@@ -8189,7 +8189,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			68,
 			58,
 			58,
@@ -8205,7 +8205,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			88,
 			58,
 			58,
@@ -8220,7 +8220,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			44,
 			58,
 			88,
@@ -8236,7 +8236,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			44,
 			73,
@@ -8251,7 +8251,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			44,
 			58,
 			73,
@@ -8266,7 +8266,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			88,
@@ -8281,7 +8281,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			44,
 			58,
 			44,
@@ -8297,7 +8297,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			44,
 			44,
@@ -8313,7 +8313,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			44,
 			58,
 			58,
@@ -8329,7 +8329,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			55,
 			60,
@@ -8345,7 +8345,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			60,
@@ -8361,7 +8361,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			45,
 			75,
@@ -8377,7 +8377,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			55,
@@ -8392,7 +8392,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			75,
 			45,
@@ -8407,7 +8407,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			85,
 			75,
 			60,
@@ -8422,7 +8422,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			55,
 			60,
@@ -8438,7 +8438,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			75,
@@ -8454,7 +8454,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			55,
 			45,
 			75,
@@ -8470,7 +8470,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			75,
 			75,
@@ -8485,7 +8485,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			55,
 			60,
 			75,
@@ -8501,7 +8501,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			60,
 			60,
@@ -8516,7 +8516,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			95,
 			60,
 			50,
@@ -8531,7 +8531,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			75,
@@ -8546,7 +8546,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			65,
 			60,
 			75,
@@ -8562,7 +8562,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			55,
 			45,
 			55,
@@ -8578,7 +8578,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			55,
 			45,
 			45,
@@ -8594,7 +8594,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			50,
@@ -8610,7 +8610,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			61,
 			45,
 			45,
@@ -8626,7 +8626,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			45,
@@ -8642,7 +8642,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			55,
@@ -8657,7 +8657,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			58,
 			60,
@@ -8672,7 +8672,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			60,
 			60,
@@ -8687,7 +8687,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			45,
 			45,
@@ -8703,7 +8703,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			45,
 			55,
@@ -8719,7 +8719,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			75,
 			45,
@@ -8735,7 +8735,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			75,
 			45,
@@ -8750,7 +8750,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			45,
@@ -8766,7 +8766,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			60,
@@ -8781,7 +8781,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			60,
 			45,
@@ -8796,7 +8796,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			75,
 			45,
@@ -8811,7 +8811,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			55,
 			57,
 			55,
@@ -8827,7 +8827,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -8843,7 +8843,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -8859,7 +8859,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			88,
 			58,
 			44,
@@ -8875,7 +8875,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			88,
 			58,
 			44,
@@ -8891,7 +8891,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			58,
 			88,
@@ -8906,7 +8906,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			88,
 			58,
 			98,
@@ -8921,7 +8921,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			98,
@@ -8936,7 +8936,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			58,
 			73,
@@ -8952,7 +8952,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			88,
 			58,
 			73,
@@ -8968,7 +8968,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			107,
 			58,
 			44,
@@ -8984,7 +8984,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			98,
@@ -8999,7 +8999,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			88,
@@ -9015,7 +9015,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			88,
 			88,
 			88,
@@ -9030,7 +9030,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			58,
@@ -9045,7 +9045,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			73,
@@ -9060,7 +9060,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			88,
 			58,
 			44,
@@ -9076,7 +9076,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			44,
@@ -9092,7 +9092,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			58,
 			88,
@@ -9108,7 +9108,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			45,
 			60,
@@ -9124,7 +9124,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			75,
 			80,
@@ -9139,7 +9139,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			60,
@@ -9155,7 +9155,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			60,
 			60,
@@ -9171,7 +9171,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			98,
 			58,
 			73,
@@ -9187,7 +9187,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			58,
 			98,
@@ -9203,7 +9203,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			73,
 			78,
@@ -9218,7 +9218,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			88,
 			73,
 			58,
@@ -9233,7 +9233,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			73,
 			98,
@@ -9248,7 +9248,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			58,
 			78,
@@ -9264,7 +9264,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			73,
 			78,
@@ -9280,7 +9280,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			88,
 			68,
 			88,
@@ -9296,7 +9296,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			73,
 			83,
@@ -9311,7 +9311,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			58,
 			78,
@@ -9327,7 +9327,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			58,
 			98,
@@ -9342,7 +9342,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			88,
 			73,
 			63,
@@ -9357,7 +9357,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			68,
 			68,
 			78,
@@ -9372,7 +9372,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			63,
 			88,
@@ -9388,7 +9388,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			73,
 			58,
 			73,
@@ -9404,7 +9404,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			58,
 			63,
 			73,
@@ -9420,7 +9420,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			61,
 			71,
@@ -9436,7 +9436,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			85,
 			71,
@@ -9452,7 +9452,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			66,
 			66,
 			95,
@@ -9467,7 +9467,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			66,
 			95,
@@ -9482,7 +9482,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			71,
 			57,
@@ -9497,7 +9497,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			57,
 			71,
@@ -9513,7 +9513,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			61,
 			85,
 			71,
@@ -9529,7 +9529,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			85,
 			57,
 			85,
@@ -9545,7 +9545,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			71,
 			76,
@@ -9560,7 +9560,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			57,
 			71,
@@ -9576,7 +9576,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			66,
 			71,
 			90,
@@ -9591,7 +9591,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			66,
 			95,
@@ -9606,7 +9606,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			71,
 			57,
@@ -9621,7 +9621,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			71,
 			71,
@@ -9637,7 +9637,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			57,
 			71,
 			71,
@@ -9653,7 +9653,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			71,
 			71,
@@ -9669,7 +9669,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			60,
 			60,
@@ -9685,7 +9685,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			90,
 			90,
@@ -9700,7 +9700,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			90,
 			75,
@@ -9716,7 +9716,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			57,
 			71,
@@ -9732,7 +9732,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			57,
 			71,
 			71,
@@ -9748,7 +9748,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			71,
 			71,
@@ -9763,7 +9763,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			71,
 			95,
@@ -9778,7 +9778,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			95,
 			71,
@@ -9793,7 +9793,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			85,
 			57,
 			85,
@@ -9809,7 +9809,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			85,
 			71,
 			85,
@@ -9825,7 +9825,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			57,
 			85,
 			85,
@@ -9841,7 +9841,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			85,
 			71,
 			71,
@@ -9856,7 +9856,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			57,
 			71,
 			85,
@@ -9872,7 +9872,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			57,
 			71,
 			95,
@@ -9887,7 +9887,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			57,
 			71,
 			57,
@@ -9902,7 +9902,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			71,
 			57,
@@ -9917,7 +9917,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			57,
 			57,
@@ -9933,7 +9933,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			57,
 			71,
 			57,
@@ -9949,7 +9949,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			57,
 			57,
 			71,
@@ -9965,7 +9965,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			80,
@@ -9981,7 +9981,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			75,
 			60,
@@ -9997,7 +9997,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			75,
 			75,
@@ -10012,7 +10012,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			99,
 			75,
@@ -10027,7 +10027,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			60,
@@ -10043,7 +10043,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			60,
 			45,
@@ -10059,7 +10059,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			60,
 			90,
@@ -10074,7 +10074,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			71,
 			66,
 			110,
@@ -10090,7 +10090,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			99,
 			99,
 			110,
@@ -10105,7 +10105,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			71,
 			82,
@@ -10121,7 +10121,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			75,
 			90,
@@ -10137,7 +10137,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			90,
 			123,
@@ -10153,7 +10153,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			100,
 			80,
@@ -10168,7 +10168,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			110,
 			60,
@@ -10183,7 +10183,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			75,
 			90,
@@ -10199,7 +10199,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			108,
 			90,
 			75,
@@ -10215,7 +10215,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			60,
@@ -10231,7 +10231,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			90,
 			122,
@@ -10246,7 +10246,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			75,
@@ -10262,7 +10262,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			90,
 			90,
@@ -10277,7 +10277,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			75,
 			122,
@@ -10292,7 +10292,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			75,
 			90,
@@ -10307,7 +10307,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			75,
 			90,
@@ -10323,7 +10323,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			75,
 			90,
@@ -10339,7 +10339,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			108,
 			75,
 			60,
@@ -10355,7 +10355,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			55,
 			60,
@@ -10371,7 +10371,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			90,
 			60,
@@ -10387,7 +10387,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			75,
 			75,
@@ -10403,7 +10403,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			115,
 			90,
 			90,
@@ -10418,7 +10418,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			125,
 			125,
 			60,
@@ -10433,7 +10433,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			90,
 			60,
@@ -10449,7 +10449,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			90,
 			90,
@@ -10465,7 +10465,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			100,
 			90,
@@ -10481,7 +10481,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			90,
 			150,
@@ -10496,7 +10496,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			90,
 			115,
@@ -10512,7 +10512,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			110,
 			90,
@@ -10527,7 +10527,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			100,
 			60,
@@ -10542,7 +10542,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			100,
 			90,
@@ -10557,7 +10557,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			90,
 			75,
@@ -10573,7 +10573,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			75,
 			75,
@@ -10589,7 +10589,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			90,
 			75,
@@ -10605,7 +10605,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			75,
 			75,
@@ -10621,7 +10621,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			134,
 			75,
 			75,
@@ -10637,7 +10637,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			75,
 			75,
@@ -10653,7 +10653,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			80,
 			60,
@@ -10669,7 +10669,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			60,
 			90,
@@ -10685,7 +10685,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			100,
 			100,
@@ -10700,7 +10700,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			125,
 			125,
 			60,
@@ -10715,7 +10715,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			100,
 			90,
@@ -10731,7 +10731,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			75,
 			110,
@@ -10746,7 +10746,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			75,
 			60,
 			115,
@@ -10762,7 +10762,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			90,
 			75,
@@ -10778,7 +10778,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -10794,7 +10794,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -10810,7 +10810,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			50,
@@ -10825,7 +10825,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			50,
@@ -10840,7 +10840,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -10856,7 +10856,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			60,
 			60,
 			60,
@@ -10871,7 +10871,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -10887,7 +10887,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			60,
@@ -10903,7 +10903,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -10919,7 +10919,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -10935,7 +10935,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -10950,7 +10950,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -10965,7 +10965,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			30,
 			45,
 			45,
@@ -10981,7 +10981,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			60,
@@ -10996,7 +10996,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -11012,7 +11012,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			60,
@@ -11027,7 +11027,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			30,
@@ -11043,7 +11043,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			45,
 			45,
@@ -11059,7 +11059,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			60,
 			45,
@@ -11075,7 +11075,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			22,
 			33,
 			42,
@@ -11091,7 +11091,7 @@
 		"job": "木工職人",
 		"category": "テーブル",
 		"characteristic": "",
-		"values": [
+		"value": [
 			45,
 			33,
 			22,
@@ -11106,7 +11106,7 @@
 		"job": "木工職人",
 		"category": "いす",
 		"characteristic": "",
-		"values": [
+		"value": [
 			22,
 			22,
 			30,
@@ -11122,7 +11122,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			200,
 			200,
@@ -11134,7 +11134,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			75,
 			90,
@@ -11151,7 +11151,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			130,
 			130,
@@ -11165,7 +11165,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			135,
 			100,
 			165,
@@ -11179,7 +11179,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			200,
 			200,
@@ -11191,7 +11191,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			240,
 			170,
 			300,
@@ -11203,7 +11203,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			75,
 			110,
@@ -11220,7 +11220,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			185,
 			185,
@@ -11234,7 +11234,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			185,
 			185,
 			255,
@@ -11246,7 +11246,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			150,
 			60,
 			125,
@@ -11263,7 +11263,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			170,
 			170,
 			145,
@@ -11277,7 +11277,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			170,
 			125,
 			145,
@@ -11291,7 +11291,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			250,
 			190,
 			190,
@@ -11303,7 +11303,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			75,
 			100,
@@ -11320,7 +11320,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			160,
 			160,
 			140,
@@ -11334,7 +11334,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			110,
 			170,
@@ -11348,7 +11348,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			185,
 			185,
 			235,
@@ -11360,7 +11360,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			194,
 			230,
 			270,
@@ -11372,7 +11372,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			68,
 			150,
@@ -11389,7 +11389,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			185,
 			125,
 			152,
@@ -11403,7 +11403,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			261,
 			201,
 			201,
@@ -11415,7 +11415,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			231,
 			231,
 			231,
@@ -11427,7 +11427,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			96,
 			96,
@@ -11444,7 +11444,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			110,
 			192,
 			192,
@@ -11458,7 +11458,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			152,
 			110,
 			200,
@@ -11472,7 +11472,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			231,
 			231,
 			231,
@@ -11484,7 +11484,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			210,
 			210,
 			210,
@@ -11496,7 +11496,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			70,
 			100,
@@ -11513,7 +11513,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			135,
 			135,
 			120,
@@ -11527,7 +11527,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			110,
 			170,
@@ -11541,7 +11541,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			210,
 			210,
 			210,
@@ -11553,7 +11553,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			210,
 			225,
 			264,
@@ -11565,7 +11565,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			90,
 			112,
@@ -11582,7 +11582,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			156,
 			156,
@@ -11596,7 +11596,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			130,
 			107,
 			225,
@@ -11610,7 +11610,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			203,
 			203,
 			259,
@@ -11622,7 +11622,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			194,
 			207,
 			296,
@@ -11634,7 +11634,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			75,
 			105,
@@ -11651,7 +11651,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			120,
 			182,
@@ -11665,7 +11665,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			175,
 			152,
 			125,
@@ -11679,7 +11679,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			200,
 			252,
@@ -11691,7 +11691,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			235,
 			228,
 			255,
@@ -11703,7 +11703,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			108,
 			89,
 			105,
@@ -11720,7 +11720,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			168,
 			146,
 			168,
@@ -11734,7 +11734,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			178,
 			152,
 			143,
@@ -11748,7 +11748,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			255,
 			255,
 			218,
@@ -11760,7 +11760,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			206,
 			197,
 			260,
@@ -11772,7 +11772,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			136,
 			90,
 			112,
@@ -11789,7 +11789,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			136,
 			136,
 			183,
@@ -11803,7 +11803,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			209,
 			264,
 			264,
@@ -11815,7 +11815,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			215,
 			215,
 			215,
@@ -11827,7 +11827,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			100,
 			98,
 			100,
@@ -11844,7 +11844,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			105,
 			195,
 			125,
@@ -11858,7 +11858,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			215,
 			215,
 			215,
@@ -11870,7 +11870,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			190,
 			255,
 			255,
@@ -11882,7 +11882,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			115,
 			70,
 			115,
@@ -11899,7 +11899,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			180,
 			145,
 			180,
@@ -11913,7 +11913,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			144,
 			144,
 			185,
@@ -11927,7 +11927,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			260,
 			260,
 			218,
@@ -11939,7 +11939,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			200,
 			223,
 			223,
@@ -11951,7 +11951,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			100,
 			80,
 			100,
@@ -11968,7 +11968,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			145,
 			145,
 			160,
@@ -11982,7 +11982,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			115,
 			160,
 			150,
@@ -11996,7 +11996,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			150,
 			150,
 			275,
@@ -12008,7 +12008,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			175,
 			220,
 			220,
@@ -12020,7 +12020,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			70,
 			90,
 			130,
@@ -12037,7 +12037,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			133,
 			195,
 			133,
@@ -12051,7 +12051,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			90,
 			194,
 			194,
@@ -12065,7 +12065,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			270,
 			207,
 			207,
@@ -12077,7 +12077,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			255,
 			255,
 			200,
@@ -12089,7 +12089,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			120,
 			140,
 			120,
@@ -12106,7 +12106,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			178,
 			200,
 			200,
@@ -12120,7 +12120,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			150,
 			138,
 			190,
@@ -12134,7 +12134,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			242,
 			242,
 			242,
@@ -12146,7 +12146,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			200,
 			200,
 			220,
@@ -12158,7 +12158,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			80,
 			80,
 			80,
@@ -12175,7 +12175,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			150,
 			135,
 			160,
@@ -12189,7 +12189,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			100,
 			228,
 			100,
@@ -12203,7 +12203,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			260,
 			173,
 			173,
@@ -12215,7 +12215,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			320,
 			220,
 			220,
@@ -12227,7 +12227,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			125,
 			80,
@@ -12244,7 +12244,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			170,
 			150,
 			150,
@@ -12258,7 +12258,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			275,
 			275,
 			212,
@@ -12270,7 +12270,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			300,
 			220,
 			150,
@@ -12282,7 +12282,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			70,
 			90,
 			70,
@@ -12299,7 +12299,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			90,
 			140,
 			200,
@@ -12313,7 +12313,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "再生布",
-		"values": [
+		"value": [
 			270,
 			270,
 			165,
@@ -12325,7 +12325,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			260,
 			260,
 			260,
@@ -12337,7 +12337,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			140,
 			90,
 			140,
@@ -12354,7 +12354,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			300,
 			135,
@@ -12368,7 +12368,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			80,
 			200,
 			240,
@@ -12382,7 +12382,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			260,
 			260,
 			260,
@@ -12394,7 +12394,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			130,
 			270,
 			300,
@@ -12406,7 +12406,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			120,
 			105,
 			90,
@@ -12423,7 +12423,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			130,
 			220,
 			130,
@@ -12437,7 +12437,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "虹布",
-		"values": [
+		"value": [
 			285,
 			200,
 			200,
@@ -12449,7 +12449,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "会心布",
-		"values": [
+		"value": [
 			220,
 			220,
 			220,
@@ -12461,7 +12461,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "会心布",
-		"values": [
+		"value": [
 			200,
 			70,
 			70,
@@ -12478,7 +12478,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "会心布",
-		"values": [
+		"value": [
 			250,
 			250,
 			150,
@@ -12492,7 +12492,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "会心布",
-		"values": [
+		"value": [
 			150,
 			160,
 			220,
@@ -12506,7 +12506,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "会心布",
-		"values": [
+		"value": [
 			225,
 			225,
 			300,
@@ -12518,7 +12518,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			230,
 			300,
 			230,
@@ -12530,7 +12530,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			130,
 			120,
@@ -12547,7 +12547,7 @@
 		"job": "さいほう職人",
 		"category": "からだ下",
 		"characteristic": "",
-		"values": [
+		"value": [
 			170,
 			200,
 			200,
@@ -12562,7 +12562,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			200,
 			200,
 			290,
@@ -12574,7 +12574,7 @@
 		"job": "さいほう職人",
 		"category": "アタマ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			260,
 			260,
 			190,
@@ -12586,7 +12586,7 @@
 		"job": "さいほう職人",
 		"category": "からだ上",
 		"characteristic": "",
-		"values": [
+		"value": [
 			120,
 			150,
 			120,
@@ -12604,7 +12604,7 @@
 		"job": "さいほう職人",
 		"category": "ウデ",
 		"characteristic": "",
-		"values": [
+		"value": [
 			180,
 			140,
 			130,
@@ -12618,7 +12618,7 @@
 		"job": "さいほう職人",
 		"category": "足",
 		"characteristic": "",
-		"values": [
+		"value": [
 			260,
 			260,
 			190,

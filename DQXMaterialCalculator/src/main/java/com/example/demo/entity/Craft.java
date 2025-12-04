@@ -8,7 +8,7 @@ public class Craft {
 	private String job;
 	private String category;
 	private String characteristic;
-	private List<Integer> values = new ArrayList<>();
+	private List<Integer> value = new ArrayList<>();
 
 	public String getName() {
 		return name;
@@ -42,11 +42,11 @@ public class Craft {
 		this.characteristic = characteristic;
 	}
 
-	public List<Integer> getValues() {
-		return values;
+	public List<Integer> getValue() {
+		return value;
 	}
 
-	public void setValues(List<Integer> values) {
-		this.values = values;
+	public void setValue(List<Integer> value) {
+		this.value = value;
 	}
 }
