@@ -8,27 +8,9 @@ function createCard(craft) {
 	subTitle.className = "sub-title";
 	subTitle.textContent = craft.name + " " + allDiffValue;
 
-	let characteristic;
-	let isCycled = false;
-	if (craft.characteristic === "木目変化") characteristic = "木目変化まであと"
-	else if (craft.characteristic === "燃え木") characteristic = "木が燃えるまであと"
-	else if (craft.characteristic === "再生木") characteristic = "木が再生するまであと"
-	else if (craft.characteristic === "虹木") characteristic = "集中力半分まであと"
-	else if (craft.characteristic === "再生布") characteristic = "布が再生するまであと"
-	else if (craft.characteristic === "会心布") characteristic = "威力・会心UPまであと"
-	else if (craft.characteristic === "虹布") characteristic = "集中力半分まであと"
-	else characteristic = ""
-
-	let characteristicTurn = 4;
-	const characteristicTurnDiv = document.createElement("div");
-	characteristicTurnDiv.className = "characteristic-turn";
-	characteristicTurnDiv.textContent = characteristic + characteristicTurn + "ターン";
-	if (characteristic === "") characteristicTurnDiv.textContent = ""
-
 	const top = document.createElement("div");
 	top.className = "top";
 	top.appendChild(subTitle);
-	if (characteristic != "") top.appendChild(characteristicTurnDiv);
 	card.appendChild(top);
 
 	// レイアウトクラスを選択
@@ -53,6 +35,10 @@ function createCard(craft) {
 
 	// 小カード単位でリセット関数を格納
 	const smallCardResets = [];
+
+	// 小カード単位でモードチェンジ関数を格納
+	const smallCardModeChanges = [];
+	let isCurrentMode = false;
 
 	// valueごとに小カードを作成
 	(craft.value || []).forEach((v, i) => {
@@ -99,43 +85,27 @@ function createCard(craft) {
 		MinusInput.dataset.index = i;
 		MinusInput.addEventListener("keydown", e => {
 			if (e.key === "Enter") {
-				e.preventDefault();
-				const plusValue = Number(MinusInput.value || 0);
-				currentValue = currentValue + plusValue;
-				currentValueDiv.textContent = currentValue;
-				diffValue = diffValue - plusValue;
-				diffValueDiv.textContent = diffValue;
-				allDiffValue = allDiffValue - plusValue;
-				subTitle.textContent = craft.name + " " + allDiffValue;
-				characteristicTurn = characteristicTurn - 1;
-				if (characteristicTurn == 0) {
-					characteristicTurn = 4;
-					characteristicTurnDiv.classList.remove("lastTurn");
-					if (characteristic === "虹布") {
-						if (isCycled == false) {
-							characteristic = "集中力会心率UPまであと";
-							isCycled = true;
-						}
-						else if (isCycled == true) {
-							characteristic = "集中力半分まであと";
-							isCycled = false;
-						}
-					}
-					else if (characteristic === "虹木") {
-						if (isCycled == false) {
-							characteristic = "集中力会心率UPまであと";
-							isCycled = true;
-						}
-						else if (isCycled == true) {
-							characteristic = "集中力半分まであと";
-							isCycled = false;
-						}
-					}
+				if (isCurrentMode) {
+					e.preventDefault();
+					const plusValue = Number(MinusInput.value || 0);
+					currentValue = plusValue;
+					currentValueDiv.textContent = currentValue;
+					temp = diffValue;
+					diffValue = originalValue - plusValue;
+					diffValueDiv.textContent = diffValue;
+					allDiffValue = allDiffValue - (temp - diffValue);
+					subTitle.textContent = craft.name + " " + allDiffValue;
 				}
-				else if (characteristicTurn == 1) {
-					characteristicTurnDiv.classList.add("lastTurn");
+				else {
+					e.preventDefault();
+					const plusValue = Number(MinusInput.value || 0);
+					currentValue = currentValue + plusValue;
+					currentValueDiv.textContent = currentValue;
+					diffValue = diffValue - plusValue;
+					diffValueDiv.textContent = diffValue;
+					allDiffValue = allDiffValue - plusValue;
+					subTitle.textContent = craft.name + " " + allDiffValue;
 				}
-				characteristicTurnDiv.textContent = characteristic + characteristicTurn + "ターン";
 				MinusInput.value = "";
 			}
 		});
@@ -148,14 +118,19 @@ function createCard(craft) {
 			currentValueDiv.textContent = currentValue;
 			diffValueDiv.textContent = diffValue;
 			subTitle.textContent = craft.name + " " + allDiffValue;
-			characteristicTurn = 4;
-			characteristicTurnDiv.classList.remove("lastTurn");
-			characteristicTurnDiv.textContent = characteristic + characteristicTurn + "ターン";
 			MinusInput.value = "";
+		}
+
+		// --- 小カード単位のモードチェンジ関数 ---
+		function modeChangeCard() {
+			console.log("小カードのモード変更:", isCurrentMode);
 		}
 
 		// リセット関数を格納
 		smallCardResets.push(resetSmallCard);
+		// モードチェンジ関数を格納
+		smallCardModeChanges.push(modeChangeCard);
+
 		valueNameArea.appendChild(currentValueName);
 		valueNameArea.appendChild(diffValueName);
 		valueNameArea.appendChild(originalValueName);
@@ -180,6 +155,18 @@ function createCard(craft) {
 		smallCardResets.forEach(fn => fn());
 	});
 	card.appendChild(resetCardBtn);
+
+	// --- カード単位モード切替ボタン ---
+	const modeChangeBtn = document.createElement("button");
+	modeChangeBtn.className = "mode-change-btn";
+	modeChangeBtn.textContent = "通常モード";
+	modeChangeBtn.addEventListener("click", () => {
+		isCurrentMode = !isCurrentMode;
+		modeChangeBtn.textContent = isCurrentMode ? "現在値入力モード" : "通常モード";
+		smallCardModeChanges.forEach(fn => fn());
+	});
+	top.appendChild(modeChangeBtn);
+
 
 	return card;
 }
