@@ -171,6 +171,17 @@ window.addEventListener("DOMContentLoaded", () => {
 
 			const jobs = [...new Set(allItems.map(item => item.job))];
 			renderJobTabs(jobs);
+			
+			if (jobs.length > 0) {
+				// 最初のタブを active にする
+				const firstTab = jobTabs.querySelector(".tab");
+				if (firstTab) {
+					firstTab.classList.add("active");
+				}
+
+				// 最初の職人の作成物を表示
+				renderJobItems(jobs[0]);
+			}
 		})
 		.catch(err => console.error("データ取得失敗:", err));
 });
