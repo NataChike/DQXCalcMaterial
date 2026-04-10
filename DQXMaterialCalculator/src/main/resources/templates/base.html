@@ -26,7 +26,6 @@
 	     /*<![CDATA[*/
 	     const CONTEXT_PATH = /*[[@{/}]]*/ '';
 	     /*]]>*/
-		 console.log(CONTEXT_PATH); 
 	 </script>
 </head>
 
@@ -58,6 +57,38 @@
 			</div>
 		</div>
 	</header>
+	<!-- ヘッダー直下広告（PC） -->
+	<div class="d-none d-md-block text-center my-2">
+		<div id="im-a48ec30f0ad54710a0acb6897bc7659b">
+			<script async src="https://imp-adedge.i-mobile.co.jp/script/v1/spot.js?20220104"></script>
+			<script>
+				(window.adsbyimobile = window.adsbyimobile || []).push({
+					pid: 84776,
+					mid: 592036,
+					asid: 1928335,
+					type: "banner",
+					display: "inline",
+					elementid: "im-a48ec30f0ad54710a0acb6897bc7659b"
+				})
+			</script>
+		</div>
+	</div>
+	<!-- ヘッダー直下広告（スマホ） -->
+	<div class="d-block d-md-none text-center my-2">
+		<div id="im-feee33e348c345e4a3baebce9035d455">
+			<script async src="https://imp-adedge.i-mobile.co.jp/script/v1/spot.js?20220104"></script>
+			<script>
+			  (window.adsbyimobile = window.adsbyimobile || []).push({
+				  pid: 84776,
+				  mid: 592036,
+				  asid: 1928340,
+				  type: "banner",
+				  display: "inline",
+				  elementid: "im-feee33e348c345e4a3baebce9035d455"
+			  })
+			</script>
+		</div>
+	</div>
 	<div class="header-right-md d-block d-md-none d-flex flex-column align-items-center justify-content-center">
 			<div class="about">
 			<a href="about" class="text-decoration-none">
@@ -71,8 +102,38 @@
 			</a>
 			</div>
 	 </div>
-	 <main layout:fragment="content" class="flex-grow-1">
-	     <!-- 子ページの内容がここに入る -->
+	 <main layout:fragment="content" class="flex-grow-1 container">
+	   <div class="row">
+	 
+	     <!-- メインコンテンツ -->
+	     <div class="col-md-8">
+	       <!-- 子ページの内容がここに入る -->
+	     </div>
+	 
+	     <!-- サイドバー（PCのみ） -->
+	     <div class="col-md-4 d-none d-md-block">
+	 
+	       <div class="position-sticky text-center" style="top: 20px;">
+	 
+	         <div id="im-b769519dcb3c47bd9d2ab20f4a78c855">
+	           <script async src="https://imp-adedge.i-mobile.co.jp/script/v1/spot.js?20220104"></script>
+	           <script>
+	             (window.adsbyimobile = window.adsbyimobile || []).push({
+	               pid: 84776,
+	               mid: 592036,
+	               asid: 1928336,
+	               type: "banner",
+	               display: "inline",
+	               elementid: "im-b769519dcb3c47bd9d2ab20f4a78c855"
+	             })
+	           </script>
+	         </div>
+	 
+	       </div>
+	 
+	     </div>
+	 
+	   </div>
 	 </main>
 	<!-- フッター -->
 	<footer class="border-top bg-light">
