@@ -4,7 +4,7 @@ body {
 
 /* ヘッダー */
 header {
-	margin-bottom: 16px;
+	margin-bottom: 8px;
 	padding: 8px;
 	height: 100px;
 	background-color: #373737;
@@ -49,6 +49,14 @@ header h1 {
 	color: #ffffff;
 }
 
+.induction {
+	height: 80px;
+}
+.induction img {
+	padding-left: 80px;
+	height: 100%;
+	width: auto;
+}
 /* サジェスト */
 #suggestions {
 	z-index: 1000;
