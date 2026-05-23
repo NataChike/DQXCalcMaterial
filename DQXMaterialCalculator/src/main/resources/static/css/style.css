@@ -16,13 +16,6 @@ header h1 {
 	color: #959595
 }
 
-/*footer {*/
-/*  height: 60px;*/
-/*  display: flex;*/
-/*  align-items: center;        縦方向中央揃え */
-/*  justify-content: center;    横方向中央揃え */
-/*  padding: 0;*/
-/*}*/
 
 .icon, .icon a {
   height: 100%;
@@ -34,17 +27,31 @@ header h1 {
   object-fit: contain;
 }
 
-.header-right a {
+.menu a {
 	color: darkgrey;
 	font-size: 20px;
-
-}
-.header-right {
-  align-items: center; /* 縦中央揃え */
-  gap: 2rem; /* 間隔を開ける */
+	text-decoration: none;
 }
 
-.header-right a:hover {
+.menu form {
+	color: darkgrey;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.menu button {
+	color: darkgrey;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.menu span {
+	color: darkgrey;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.menu a:hover {
 	color: #ffffff;
 }
 #mobileMenu {
@@ -260,20 +267,4 @@ div.right-column {
 
 /* スマホ用（幅768px未満） */
 @media (max-width: 767.98px) {
-	header h1 {
-		flex: 0 0 70%;
-	}
-
-	.icon img {
-		flex: 0 0 30%;
-	}
-	.header-right-md div{
-		margin-bottom: 8px;
-	}
-	.header-right-md a {
-	color: #373737;
-	}
-	.header-right-md a:hover {
-	color: #aaaaaa;
-	}
 }
