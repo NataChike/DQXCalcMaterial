@@ -14585,5 +14585,65 @@
 			250,
 			520
 		]
+	},
+	{
+		"name": "メタリオンタクト",
+		"job": "木工職人",
+		"category": "スティック",
+		"characteristic": "",
+		"value": [
+			720,
+			280
+		]
+	},
+	{
+		"name": "幽紋の杖",
+		"job": "木工職人",
+		"category": "両手杖",
+		"characteristic": "",
+		"value": [
+			460,
+			230,
+			370
+		]
+	},
+	{
+		"name": "メタリオンロッド",
+		"job": "木工職人",
+		"category": "棍",
+		"characteristic": "",
+		"value": [
+			250,
+			150,
+			75,
+			120,
+			170,
+			220
+		]
+	},
+	{
+		"name": "メタリオンファン",
+		"job": "木工職人",
+		"category": "扇",
+		"characteristic": "",
+		"value": [
+			320,
+			210,
+			180,
+			350
+		]
+	},
+	{
+		"name": "グリームシューター",
+		"job": "木工職人",
+		"category": "弓",
+		"characteristic": "",
+		"value": [
+			125,
+			195,
+			195,
+			125,
+			195
+		]
 	}
 ]
