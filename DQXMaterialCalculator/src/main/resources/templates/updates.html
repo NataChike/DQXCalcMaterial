@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{base}">
+
+<head>
+	<meta charset="UTF-8">
+	<title layout:fragment="title">DQX | 職人計算機 | 更新履歴 | ちけの便利ツール</title>
+	<th:block layout:fragment="head-extra"></th:block>
+</head>
+<section layout:fragment="content">
+	<div class="container-lg d-flex flex-column flex-grow-1">
+		<h1 class="mb-4">更新履歴</h1>
+		<ul class="list-unstyled">
+			<li th:each="u : ${updates}" class="mb-3 border-bottom pb-3">
+				<div class="d-flex align-items-center gap-2 mb-1">
+					<span class="badge bg-secondary" th:text="${u.category}">カテゴリ</span>
+					<strong th:text="${u.date}">日付</strong>
+				</div>
+				<p class="mb-0" th:text="${u.content}">内容</p>
+			</li>
+		</ul>
+	</div>
+</section>
+</html>

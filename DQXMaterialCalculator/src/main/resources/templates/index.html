@@ -12,6 +12,21 @@
 	<section layout:fragment="content">
 	<div class="container-lg d-flex flex-column	flex-grow-1">
 
+		<!-- 更新履歴（直近3件） -->
+		<div class="mt-2 mb-3" th:if="${recentUpdates != null and !recentUpdates.isEmpty()}">
+			<div class="d-flex justify-content-between align-items-center">
+				<h2 class="h6 mb-2">更新情報</h2>
+				<a th:href="@{/updates}" class="small text-decoration-none">更新履歴一覧 &raquo;</a>
+			</div>
+			<ul class="list-unstyled small mb-0">
+				<li th:each="u : ${recentUpdates}" class="mb-1">
+					<span class="badge bg-secondary" th:text="${u.category}">カテゴリ</span>
+					<span th:text="${u.date}">日付</span>
+					<span th:text="${u.content}">内容</span>
+				</li>
+			</ul>
+		</div>
+
 		<div class="row">
 
 			<!-- 左カラム：検索＋ボタン＋選択済み作成物 -->
