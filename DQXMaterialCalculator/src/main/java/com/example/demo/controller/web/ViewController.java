@@ -34,11 +34,6 @@ public class ViewController {
 		return "craft";
 	}
 
-	@GetMapping("about")
-	public String about() {
-		return "about";
-	}
-
 	@GetMapping("updates")
 	public String updates(Model model) {
 		model.addAttribute("updates", updateLogLoader.getUpdateLogs());
