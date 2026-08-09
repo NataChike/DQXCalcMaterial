@@ -5,7 +5,8 @@
 	--card-w-3: var(--card-w);      /* 横3列専用幅：スマホ以外は通常幅と同じ */
 
 	--fs-title: 24px;       /* 作成物名（sub-title） */
-	--fs-label: 12px;       /* ラベル */
+	--fs-label: 12px;       /* 現在値/理論値 ラベル */
+	--fs-label-diff: 16px;  /* 理論値までの値 ラベル */
 	--fs-value: 14px;       /* 現在値/理論値の数値（左右） */
 	--fs-value-center: 16px;/* 理論値までの値の数値（中央） */
 	--fs-input: 14px;       /* 数値入力欄 */
@@ -25,6 +26,7 @@
 
 		--fs-title: 18px;
 		--fs-label: 10px;
+		--fs-label-diff: 13px;
 		--fs-value: 12px;
 		--fs-value-center: 13px;
 		--fs-input: 12px;
@@ -45,6 +47,7 @@
 
 		--fs-title: 16px;
 		--fs-label: 9px;
+		--fs-label-diff: 11px;
 		--fs-value: 11px;
 		--fs-value-center: 12px;
 		--fs-input: 11px;
@@ -53,6 +56,18 @@
 		--input-h: 20px;
 		--small-card-pad: 5px;
 		--small-card-gap: 2px;
+	}
+
+	/* 親カードを画面横幅いっぱいに広げる（周囲のBootstrapコンテナの余白を無視） */
+	.card {
+		width: 100vw;
+		max-width: 100vw;
+		margin-left: calc(50% - 50vw);
+		margin-right: calc(50% - 50vw);
+		border-left: none;
+		border-right: none;
+		border-radius: 0;
+		box-sizing: border-box;
 	}
 }
 
@@ -132,9 +147,8 @@
 	min-width: 0;
 	text-align: center;
 	color: #6b7280;
-	font-size: var(--fs-label);
+	font-size: var(--fs-label-diff);
 	white-space: nowrap;
-	font-weight: bold;
 }
 .original-value-name{
 	flex: 1;
