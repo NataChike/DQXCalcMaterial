@@ -57,7 +57,7 @@ function createCard(craft) {
 
 		const diffValueName = document.createElement("div");
 		diffValueName.className = "diff-value-name";
-		diffValueName.textContent = "理論値までの値"
+		diffValueName.textContent = "残り値"
 
 		const originalValueName = document.createElement("div");
 		originalValueName.className = "original-value-name";

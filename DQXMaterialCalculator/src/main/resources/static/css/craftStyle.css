@@ -5,10 +5,8 @@
 	--card-w-3: var(--card-w);      /* 横3列専用幅：スマホ以外は通常幅と同じ */
 
 	--fs-title: 24px;       /* 作成物名（sub-title） */
-	--fs-label: 12px;       /* 現在値/理論値 ラベル */
-	--fs-label-diff: 16px;  /* 理論値までの値 ラベル */
-	--fs-value: 14px;       /* 現在値/理論値の数値（左右） */
-	--fs-value-center: 16px;/* 理論値までの値の数値（中央） */
+	--fs-label: 12px;       /* ラベル */
+	--fs-value: 14px;       /* 数値 */
 	--fs-input: 14px;       /* 数値入力欄 */
 	--fs-btn: 14px;         /* リセット/モード切替ボタン */
 
@@ -26,9 +24,7 @@
 
 		--fs-title: 18px;
 		--fs-label: 10px;
-		--fs-label-diff: 13px;
 		--fs-value: 12px;
-		--fs-value-center: 13px;
 		--fs-input: 12px;
 		--fs-btn: 12px;
 
@@ -39,17 +35,15 @@
 }
 
 /* スマホ幅 */
-@media (max-width: 400px) {
+@media (max-width: 600px) {
 	:root {
 		--card-w: 135px;
 		--card-h: 106px;
-		--card-w-3: 100px;
+		--card-w-3: 110px;
 
 		--fs-title: 16px;
 		--fs-label: 9px;
-		--fs-label-diff: 11px;
 		--fs-value: 11px;
-		--fs-value-center: 12px;
 		--fs-input: 11px;
 		--fs-btn: 11px;
 
@@ -58,16 +52,30 @@
 		--small-card-gap: 2px;
 	}
 
-	/* 親カードを画面横幅いっぱいに広げる（周囲のBootstrapコンテナの余白を無視） */
+	/* 親カードを画面横幅いっぱいに広げる（100vwは縦スクロールバー分はみ出すため使わない） */
+	/* .card までの祖先（Bootstrapのコンテナ類）の左右余白を順番に0にする */
+	main.container-fluid {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.row {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.col-12 {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.container-lg {
+		padding-left: 0;
+		padding-right: 0;
+	}
 	.card {
-		width: 100vw;
-		max-width: 100vw;
-		margin-left: calc(50% - 50vw);
-		margin-right: calc(50% - 50vw);
+		margin-left: 0;
+		margin-right: 0;
 		border-left: none;
 		border-right: none;
 		border-radius: 0;
-		box-sizing: border-box;
 	}
 }
 
@@ -147,8 +155,9 @@
 	min-width: 0;
 	text-align: center;
 	color: #6b7280;
-	font-size: var(--fs-label-diff);
+	font-size: var(--fs-label);
 	white-space: nowrap;
+	font-weight: bold;
 }
 .original-value-name{
 	flex: 1;
@@ -180,7 +189,7 @@
 	flex:4;
 	min-width: 0;
 	text-align: center;
-	font-size: var(--fs-value-center);
+	font-size: var(--fs-value);
 	font-weight: bold;
 }
 
