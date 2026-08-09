@@ -1,3 +1,61 @@
+/* 小カードのサイズ・文字サイズ（画面幅に応じて可変） */
+:root {
+	--card-w: 240px;
+	--card-h: 120px;
+	--card-w-3: var(--card-w);      /* 横3列専用幅：スマホ以外は通常幅と同じ */
+
+	--fs-title: 24px;       /* 作成物名（sub-title） */
+	--fs-label: 12px;       /* ラベル */
+	--fs-value: 14px;       /* 現在値/理論値の数値（左右） */
+	--fs-value-center: 16px;/* 理論値までの値の数値（中央） */
+	--fs-input: 14px;       /* 数値入力欄 */
+	--fs-btn: 14px;         /* リセット/モード切替ボタン */
+
+	--input-h: 26px;        /* 数値入力欄の高さ */
+	--small-card-pad: 8px;  /* 小カードの内側余白 */
+	--small-card-gap: 4px;  /* 小カード内の要素間隔 */
+}
+
+/* タブレット〜小さめの画面 */
+@media (max-width: 767.98px) {
+	:root {
+		--card-w: 160px;
+		--card-h: 112px;
+		--card-w-3: var(--card-w);
+
+		--fs-title: 18px;
+		--fs-label: 10px;
+		--fs-value: 12px;
+		--fs-value-center: 13px;
+		--fs-input: 12px;
+		--fs-btn: 12px;
+
+		--input-h: 22px;
+		--small-card-pad: 6px;
+		--small-card-gap: 3px;
+	}
+}
+
+/* スマホ幅 */
+@media (max-width: 400px) {
+	:root {
+		--card-w: 135px;
+		--card-h: 106px;
+		--card-w-3: 100px;
+
+		--fs-title: 16px;
+		--fs-label: 9px;
+		--fs-value: 11px;
+		--fs-value-center: 12px;
+		--fs-input: 11px;
+		--fs-btn: 11px;
+
+		--input-h: 20px;
+		--small-card-pad: 5px;
+		--small-card-gap: 2px;
+	}
+}
+
 /* カード全体 */
 .card {
 	border: 1px solid #ddd;
@@ -16,8 +74,9 @@
 
 .sub-title{
 	flex: 7;
-	font-size: 24px;
+	font-size: var(--fs-title);
 	font-weight: 600;
+	min-width: 0;
 }
 
 .characteristic-turn{
@@ -30,90 +89,122 @@
 }
 /* 各小カード */
 .small-card {
-	width: 240px;
- 	height: 120px;
+	box-sizing: border-box;
+	width: var(--card-w);
+ 	height: var(--card-h);
 	display: flex;
 	flex-direction: column; 
-	gap: 4px;
-	padding: 8px;
+	gap: var(--small-card-gap);
+	padding: var(--small-card-pad);
 	border: 1px solid #ccc;
 	border-radius: 6px;
 	background: white;
+	overflow: hidden;
+}
+
+/* 横3列になるレイアウト（アタマ/からだ上/ウデ/いす/テーブル）はカード幅を専用サイズに */
+.layout-head .small-card,
+.layout-body-u .small-card,
+.layout-arm .small-card,
+.layout-chair .small-card,
+.layout-table .small-card {
+	width: var(--card-w-3);
 }
 .value-name-area{
 	flex: 1;
 	display: flex;
 	flex-direction: row; 
 	align-items: center;
-	gap: 6px;
-	margin-top: 4px;
+	gap: 4px;
+	margin-top: 2px;
+	min-width: 0;
 }
 .current-value-name{
 	flex: 1;
+	min-width: 0;
 	text-align: center;
 	color: #6b7280;
-	font-size: 12px;
+	font-size: var(--fs-label);
+	white-space: nowrap;
 }
 .diff-value-name{
 	flex: 2;
+	min-width: 0;
 	text-align: center;
 	color: #6b7280;
-	font-size: 16px;
+	font-size: var(--fs-label);
+	white-space: nowrap;
+	font-weight: bold;
 }
 .original-value-name{
 	flex: 1;
+	min-width: 0;
 	text-align: center;
 	color: #6b7280;
-	font-size: 12px;
+	font-size: var(--fs-label);
+	white-space: nowrap;
 }
 .value-area{
 	flex:2;
 	display: flex;
 	flex-direction: row; 
 	align-items: center;
-	gap: 6px;
-	margin-top: 4px;
+	gap: 4px;
+	margin-top: 2px;
+	min-width: 0;
 }
 /* 各値の位置づけ */
 .left-value {
 	flex:3;
+	min-width: 0;
 	text-align: center;
 	color: #6b7280;
-	font-size: 14px;
+	font-size: var(--fs-value);
 }
 
 .center-value {
 	flex:4;
+	min-width: 0;
 	text-align: center;
-	font-size: 18px;
+	font-size: var(--fs-value-center);
 	font-weight: bold;
 }
 
 .right-value {
 	flex:3;
+	min-width: 0;
 	text-align: center;
 	color: #6b7280;
-	font-size: 14px;
+	font-size: var(--fs-value);
 }
 
-/* 下部入力欄とリセットボタン */
+/* 下部入力欄 */
 .minus-input {
-	flex:1;
-	display: flex;
-	flex-direction: row; 
+	width: 100%;
+	box-sizing: border-box;
+	height: var(--input-h);
+	display: block;
 	border: 1px solid #ccc;
 	border-radius: 4px;
-	gap: 6px;
-	margin-top: 4px;
+	margin-top: 2px;
+	padding: 0 6px;
+	font-size: var(--fs-input);
+	text-align: right;
 }
 
-/* カード全体のリセットボタン */
-.card-reset-btn {
+/* カード全体のリセットボタン・モード切替ボタン */
+.card-reset-btn,
+.mode-change-btn {
 	border: none;
 	background: #eee;
 	padding: 4px 8px;
 	border-radius: 4px;
 	cursor: pointer;
+	font-size: var(--fs-btn);
+	white-space: nowrap;
+}
+
+.card-reset-btn {
 	align-self: flex-end;
 }
 
@@ -124,8 +215,8 @@
 /* スティック型：縦に2つ */
 .layout-stick{
 	display: grid;
-	grid-template-columns: repeat(1, 240px);
-	grid-template-rows: repeat(2, 120px);
+	grid-template-columns: repeat(1, var(--card-w));
+	grid-template-rows: repeat(2, var(--card-h));
     justify-content: center;
 }
 .layout-stick .small-card:nth-child(1) {
@@ -140,8 +231,8 @@
 /* 棍：2列×3行 */
 .layout-rod {
 	display: grid;
-	grid-template-columns: repeat(2, 240px);
-	grid-template-rows: repeat(3, 120px);
+	grid-template-columns: repeat(2, var(--card-w));
+	grid-template-rows: repeat(3, var(--card-h));
     justify-content: center;
 }
 .layout-rod .small-card:nth-child(1) {
@@ -172,8 +263,8 @@
 /* 扇型：2×2 の正方形配置 */
 .layout-fan{
 	display: grid;
-	grid-template-columns: repeat(2, 240px);
-	grid-template-rows: repeat(2, 120px);
+	grid-template-columns: repeat(2, var(--card-w));
+	grid-template-rows: repeat(2, var(--card-h));
     justify-content: center;
 }
 .layout-fan .small-card:nth-child(1) {
@@ -197,8 +288,8 @@
 /* 両手杖：縦に3つ */
 .layout-cane{
 	display: grid;
-	grid-template-columns: repeat(1, 240px);
-	grid-template-rows: repeat(3, 120px);
+	grid-template-columns: repeat(1, var(--card-w));
+	grid-template-rows: repeat(3, var(--card-h));
     justify-content: center;
 }
 .layout-cane .small-card:nth-child(1) {
@@ -218,8 +309,8 @@
 /* 弓：上2・中1・下2の特殊構成 */
 .layout-bow{
 	display: grid;
-	grid-template-columns: repeat(2, 240px);
-	grid-template-rows: repeat(3, 120px);
+	grid-template-columns: repeat(2, var(--card-w));
+	grid-template-rows: repeat(3, var(--card-h));
     justify-content: center;
 }
 .layout-bow .small-card:nth-child(1) {
@@ -247,8 +338,8 @@
 /* 釣りざお：上1・中2・下2、上は中央寄せ */
 .layout-pole{
 	display: grid;
-	grid-template-columns: repeat(2, 240px);
-	grid-template-rows: repeat(3, 120px);
+	grid-template-columns: repeat(2, var(--card-w));
+	grid-template-rows: repeat(3, var(--card-h));
     justify-content: center;
 }
 .layout-pole .small-card:nth-child(1) {
@@ -274,8 +365,8 @@
 
 .layout-head{
 	display: grid;
-	grid-template-columns: repeat(3, 240px);
-	grid-template-rows: repeat(2, 120px);
+	grid-template-columns: repeat(3, var(--card-w-3));
+	grid-template-rows: repeat(2, var(--card-h));
     justify-content: center;
 }
 .layout-head .small-card:nth-child(1) {
@@ -297,8 +388,8 @@
 
 .layout-body-u{
 	display: grid;
-	grid-template-columns: repeat(3, 240px);
-	grid-template-rows: repeat(3, 120px);
+	grid-template-columns: repeat(3, var(--card-w-3));
+	grid-template-rows: repeat(3, var(--card-h));
     justify-content: center;
 }
 .layout-body-u .small-card:nth-child(1) {
@@ -340,8 +431,8 @@
 
 .layout-body-b{
 	display: grid;
-	grid-template-columns: repeat(2, 240px);
-	grid-template-rows: repeat(3, 120px);
+	grid-template-columns: repeat(2, var(--card-w));
+	grid-template-rows: repeat(3, var(--card-h));
     justify-content: center;
 }
 .layout-body-b .small-card:nth-child(1) {
@@ -371,8 +462,8 @@
 
 .layout-arm{
 	display: grid;
-	grid-template-columns: repeat(3, 240px);
-	grid-template-rows: repeat(2, 120px);
+	grid-template-columns: repeat(3, var(--card-w-3));
+	grid-template-rows: repeat(2, var(--card-h));
     justify-content: center;
 }
 .layout-arm .small-card:nth-child(1) {
@@ -402,8 +493,8 @@
 
 .layout-foot{
 	display: grid;
-	grid-template-columns: repeat(2, 240px);
-	grid-template-rows: repeat(2, 120px);
+	grid-template-columns: repeat(2, var(--card-w));
+	grid-template-rows: repeat(2, var(--card-h));
     justify-content: center;
 }
 .layout-foot .small-card:nth-child(1) {
@@ -425,8 +516,8 @@
 
 .layout-chair{
 	display: grid;
-	grid-template-columns: repeat(3, 240px);
-	grid-template-rows: repeat(3, 120px);
+	grid-template-columns: repeat(3, var(--card-w-3));
+	grid-template-rows: repeat(3, var(--card-h));
     justify-content: center;
 }
 .layout-chair .small-card:nth-child(1) {
@@ -464,8 +555,8 @@
 
 .layout-table{
 	display: grid;
-	grid-template-columns: repeat(3, 240px);
-	grid-template-rows: repeat(3, 120px);
+	grid-template-columns: repeat(3, var(--card-w-3));
+	grid-template-rows: repeat(3, var(--card-h));
     justify-content: center;
 }
 .layout-table .small-card:nth-child(1) {
@@ -496,4 +587,3 @@
 	grid-column: 3;
 	grid-row: 3;
 }
-

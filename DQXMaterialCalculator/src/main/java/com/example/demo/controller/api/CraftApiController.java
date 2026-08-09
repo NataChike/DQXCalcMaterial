@@ -31,4 +31,9 @@ public class CraftApiController {
 		List<Craft> crafts = craftService.getCrafts(sessionBean.getItems());
 		return crafts;
 	}
+	@GetMapping("/selected-items")
+	public List<String> getSelectedItems() {
+	    List<String> items = sessionBean.getItems();
+	    return items != null ? items : List.of();
+	}
 }
