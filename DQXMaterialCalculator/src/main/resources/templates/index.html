@@ -4,74 +4,412 @@
       layout:decorate="~{base}">
 
 <head>
-	<meta charset="UTF-8">
-	<title layout:fragment="title">	DQX | 職人計算機 | さいほう・木工職人などの数値計算と素材計算｜ちけの便利ツール</title>
-	<!-- ページ専用CSSを追加 -->
-	<th:block layout:fragment="head-extra"></th:block>
+    <meta charset="UTF-8">
+
+    <title layout:fragment="title">
+        DQX職人計算機｜必要素材・さいほう・木工の数値計算｜ちけの便利ツール
+    </title>
+
+    <th:block layout:fragment="head-extra">
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886700851072663"
+		     crossorigin="anonymous"></script>
+    </th:block>
 </head>
-	<section layout:fragment="content">
-	<div class="container-lg d-flex flex-column	flex-grow-1">
 
-		<!-- 更新履歴（直近3件） -->
-		<div class="mt-2 mb-3" th:if="${recentUpdates != null and !recentUpdates.isEmpty()}">
-			<div class="d-flex justify-content-between align-items-center">
-				<h2 class="h6 mb-2">更新情報</h2>
-				<a th:href="@{/updates}" class="small text-decoration-none">
-					<button class="btn btn-outline-secondary mb-4">
-						更新履歴一覧 &raquo;
-					</button>
-				</a>
-			</div>
-			<ul class="list-unstyled small mb-0">
-				<li th:each="u : ${recentUpdates}" class="mb-1">
-					<span class="badge bg-secondary" th:text="${u.category}">カテゴリ</span>
-					<span th:text="${u.date}">日付</span>
-					<span th:text="${u.content}">内容</span>
-				</li>
-			</ul>
-		</div>
+<section layout:fragment="content">
+    <div class="container-lg">
+        <!-- ================================================== -->
+        <!-- ページ概要 -->
+        <!-- ================================================== -->
+        <section class="py-3">
+            <h1 class="h2 mb-3">
+                DQX職人計算機
+            </h1>
+            <p>
+                DQX職人計算機は、ドラゴンクエストXの職人活動を
+                サポートするための無料Webツールです。
+                複数の装備やアイテムを作成するときに必要となる素材をまとめて計算したり、
+                さいほう職人・木工職人の数値確認に利用できます。
+            </p>
+            <p>
+                日替わり依頼や複数の装備品をまとめて作成するときに、
+                「素材が全部で何個必要なのか」を一つずつ計算する手間を減らすことを
+                目的として作成しています。
+            </p>
+            <div class="alert alert-light border mt-3 mb-0">
+                <strong>主な機能</strong>
+                <ul class="mb-0 mt-2">
+                    <li>複数の作成物に必要な素材をまとめて計算</li>
+                    <li>さいほう・木工職人向けの数値計算</li>
+                </ul>
+            </div>
+        </section>
+		
+		
+        <!-- ================================================== -->
+        <!-- 更新情報 -->
+        <!-- ================================================== -->
+        <section class="mt-2 mb-4"
+                 th:if="${recentUpdates != null and !recentUpdates.isEmpty()}">
+            <div class="d-flex justify-content-between align-items-center">
+                <h2 class="h5 mb-2">
+                    更新情報
+                </h2>
+                <a th:href="@{/updates}"
+                   class="btn btn-sm btn-outline-secondary">
+                    更新履歴一覧 &raquo;
+                </a>
+            </div>
+            <ul class="list-unstyled small mb-0">
+                <li th:each="u : ${recentUpdates}"
+                    class="mb-1">
+                    <span class="badge bg-secondary"
+                          th:text="${u.category}">
+                        カテゴリ
+                    </span>
+                    <time th:text="${u.date}">
+                        日付
+                    </time>
+                    <span th:text="${u.content}">
+                        内容
+                    </span>
+                </li>
+            </ul>
+        </section>
+		
+		
+        <!-- ================================================== -->
+        <!-- ツール -->
+        <!-- ================================================== -->
+        <section class="mb-5">
+            <h2 class="h4 mb-3">
+                素材を計算する
+            </h2>
+            <p class="text-muted">
+                作りたいアイテムを検索または一覧から選択し、
+                「計算」を押すと必要素材の合計数を確認できます。
+            </p>
+            <div class="row">
+                <!-- 左カラム -->
+                <div class="left-column col-12 col-md-4 d-flex flex-column">
+                    <!-- 検索 -->
+                    <div class="position-relative mb-2">
+                        <label for="itemInput"
+                               class="form-label fw-bold">
+                            作成物を検索
+                        </label>
+                        <input type="text"
+                               id="itemInput"
+                               class="form-control"
+                               placeholder="作成物を入力...">
+                        <div id="suggestions"
+                             class="list-group position-absolute w-100">
+                        </div>
+                    </div>
 
-		<div class="row">
+                    <!-- ボタン -->
+                    <div class="mb-3">
+                        <button id="calculateBtn"
+                                class="btn w-100">
+                            計算
+                        </button>
+                        <button id="resetBtn"
+                                class="btn btn-secondary w-100">
+                            リセット
+                        </button>
+                        <button id="craftBtn"
+                                class="btn w-100">
+                            クラフト
+                        </button>
+                    </div>
 
-			<!-- 左カラム：検索＋ボタン＋選択済み作成物 -->
-			<div class="left-column col-12 col-md-4 d-flex flex-column">
-				<!-- 検索窓 -->
-				<div class="position-relative">
-					<input type="text" id="itemInput" class="form-control" placeholder="作成物を入力...">
-					<div id="suggestions" class="list-group position-absolute w-100"></div>
-				</div>
+                    <!-- 選択済み -->
+                    <div class="card flex-grow-1 overflow-auto mb-3"
+                         id="itemsCard">
+                        <div class="card-body">
+                            <h3 class="h5">
+                                選択済み作成物
+                            </h3>
+                            <p class="small text-muted">
+                                選択したアイテムがここに表示されます。
+                            </p>
+                            <div id="itemsList"></div>
+                        </div>
+                    </div>
 
-				<!-- 計算・リセットボタン -->
-				<div>
-					<button id="calculateBtn" class="btn w-100">計算</button>
-					<button id="resetBtn" class="btn btn-secondary w-100">リセット</button>
-					<button id="craftBtn" class="btn w-100">クラフト</button>
-				</div>
+                    <!-- 計算結果 -->
+                    <div class="card flex-grow-1 overflow-auto"
+                         id="resultContainer">
+                        <div class="card-body">
+                            <h3 class="h5">
+                                必要素材一覧
+                            </h3>
+                            <p class="small text-muted">
+                                計算すると、必要な素材と合計数がここに表示されます。
+                            </p>
+                            <div id="requiredMaterialList"></div>
+                        </div>
+                    </div>
+                </div>
 
-				<!-- 選択済み作成物カード -->
-				<div class="card flex-grow-1 overflow-auto" id="itemsCard">
-					<h3>選択済み作成物一覧</h3>
-					<div id="itemsList"></div>
-				</div>
+                <!-- 右カラム -->
+                <div class="right-column col-12 col-md-8 d-flex flex-column">
+                    <h3 class="h5 mt-3 mt-md-0">
+                        職人から作成物を選ぶ
+                    </h3>
+                    <p class="small text-muted">
+                        職人を選択すると、作成可能なアイテム一覧を表示します。
+                    </p>
+                    <div id="jobTabs"
+                         class="d-flex flex-wrap justify-content-start">
+                    </div>
+                    <div class="card flex-grow-1 overflow-auto"
+                         id="jobItemsCard">
+                        <div class="card-body">
+                            <div id="jobItems"
+                                 class="row row-cols-1
+                                        row-cols-sm-2
+                                        row-cols-md-3
+                                        row-cols-lg-4">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-				<!-- 計算結果 -->
-				<div class="card flex-grow-1 overflow-auto" id="resultContainer">
-					<h3>必要素材一覧</h3>
-					<div id="requiredMaterialList"></div>
-				</div>
-			</div>
+		
+        <!-- ================================================== -->
+        <!-- ツールについて -->
+        <!-- ================================================== -->
+        <section class="py-4 border-top">
+            <h2 class="h3 mb-3">
+                DQX職人計算機でできること
+            </h2>
+            <h3 class="h5 mt-4">
+                必要素材をまとめて計算
+            </h3>
+            <p>
+                複数の装備やアイテムを作成する場合、
+                それぞれに必要な素材を個別に確認すると、
+                同じ素材が何個必要になるのか計算する必要があります。
+            </p>
+            <p>
+                DQX職人計算機では作成したいアイテムを複数選択することで、
+                同じ素材を自動的に合算し、
+                必要となる素材の合計数を一覧で確認できます。
+            </p>
+            <p>
+                日替わり依頼をまとめて消化するときや、
+                複数の装備をまとめて作成するときの素材確認に利用できます。</br>
+				ツール作成者は↑目的でこのツールを作成しました！
+            </p>
 
-			<!-- 右カラム：職人作成物一覧 -->
-			<div class="right-column col-12 col-md-8 d-flex flex-column">
-				<!-- 職人タブ -->
-				<div id="jobTabs" class="d-flex flex-wrap justify-content-start"></div>
+            <h3 class="h5 mt-4">
+                さいほう・木工の数値確認
+            </h3>
+            <p>
+                素材計算だけでなく、
+                さいほう職人や木工職人で使用する数値を確認するための
+                計算機能も用意しています。
+            </p>
+        </section>
 
-				<!-- 職人作成物カード -->
-				<div class="card flex-grow-1 overflow-auto" id="jobItemsCard">
-					<div id="jobItems" class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4"></div>
-				</div>
-			</div>
-		</div>
-	</div>
-	</section>
+		
+        <!-- ================================================== -->
+        <!-- 使い方 -->
+        <!-- ================================================== -->
+        <section class="py-4 border-top">
+            <h2 class="h3 mb-4">
+                DQX職人計算機の使い方
+            </h2>
+			
+            <h3 class="h5">
+                1. 作成したいアイテムを選択
+            </h3>
+            <p>
+                「作成物を検索」にアイテム名を入力して、
+                表示された候補から作りたいアイテムを選択します。
+            </p>
+            <p>
+                右側の職人一覧から職人を選び、
+                作成物一覧から追加することもできます。
+            </p>
+			
+            <h3 class="h5 mt-4">
+                2. 必要な作成物をすべて追加
+            </h3>
+            <p>
+                複数のアイテムを作成する場合は、
+                必要な作成物を続けて選択してください。
+                選択したアイテムは「選択済み作成物」に表示されます。
+            </p>
+			
+            <h3 class="h5 mt-4">
+                3. 「計算」を押す
+            </h3>
+            <p>
+                作成物を選び終わったら「計算」を押します。
+                選択したすべてのアイテムに必要な素材を合算し、
+                「必要素材一覧」に表示します。
+            </p>
+
+            <h3 class="h5 mt-4">
+                4. 最初からやり直したい場合
+            </h3>
+            <p>
+                選択した作成物や計算結果を消したい場合は
+                「リセット」を押してください。
+            </p>
+			
+			<h3 class="h5 mt-4">
+			    5. 木工やさいほうの数値を計算したい場合
+			</h3>
+			<p>
+				木工やさいほうの作成物を選び終わったら「クラフト」を押します。
+				選択したすべてのアイテムの数値計算機が別ページで表示されます。
+        </section>
+
+
+        <!-- ================================================== -->
+        <!-- 使用例 -->
+        <!-- ================================================== -->
+        <section class="py-4 border-top">
+            <h2 class="h3 mb-3">
+                こんなときに便利です
+            </h2>
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h3 class="h5">
+                                日替わり依頼
+                            </h3>
+                            <p class="mb-0">
+                                複数の依頼品をまとめて作成するときに、
+                                必要素材の合計を確認できます。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h3 class="h5">
+                                装備のまとめ作成
+                            </h3>
+                            <p class="mb-0">
+                                複数の装備を作るとき、
+                                共通して使う素材もまとめて計算できます。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h3 class="h5">
+                                素材購入前の確認
+                            </h3>
+                            <p class="mb-0">
+                                バザーなどで素材を購入する前に、
+                                必要個数を確認する用途にも利用できます。
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ================================================== -->
+        <!-- FAQ -->
+        <!-- ================================================== -->
+        <section class="py-4 border-top">
+            <h2 class="h3 mb-4">
+                よくある質問
+            </h2>
+            <div class="accordion"
+                 id="dq10Faq">
+                <div class="accordion-item">
+                    <h3 class="accordion-header">
+                        <button class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#faq3">
+                            表示されている素材データが間違っている場合はどうすればいいですか？
+                        </button>
+                    </h3>
+                    <div id="faq3"
+                         class="accordion-collapse collapse"
+                         data-bs-parent="#dq10Faq">
+                        <div class="accordion-body">
+                            データに誤りを見つけた場合は、
+                            お問い合わせページから対象アイテム名と内容を
+                            お知らせいただけると助かります。
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h3 class="accordion-header">
+                        <button class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#faq4">
+                            このツールは無料で利用できますか？
+                        </button>
+                    </h3>
+                    <div id="faq4"
+                         class="accordion-collapse collapse"
+                         data-bs-parent="#dq10Faq">
+                        <div class="accordion-body">
+                            はい。
+                            DQX職人計算機はブラウザから無料で利用できます。
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h3 class="accordion-header">
+                        <button class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#faq5">
+                            スマートフォンでも使えますか？
+                        </button>
+                    </h3>
+                    <div id="faq5"
+                         class="accordion-collapse collapse"
+                         data-bs-parent="#dq10Faq">
+                        <div class="accordion-body">
+                            はい。
+                            PCだけでなくスマートフォンやタブレットからも
+                            利用できます。
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ================================================== -->
+        <!-- 注意事項 -->
+        <!-- ================================================== -->
+        <section class="py-4 border-top">
+            <h2 class="h3 mb-3">
+                利用上の注意
+            </h2>
+            <p>
+                当ツールではできる限り正確なデータを掲載するよう努めていますが、
+                ゲームのアップデート等によって実際のゲーム内データと
+                差異が発生する場合があります。
+            </p>
+            <p>
+                ゲーム内で重要な取引や大量の素材購入を行う場合は、
+                必要に応じてゲーム内の情報もあわせて確認してください。
+            </p>
+        </section>
+    </div>
+</section>
 </html>
